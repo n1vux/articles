@@ -1,0 +1,3 @@
+#
+pandoc -s -o output.html --css pandoc.css   -f markdown  Mass-11-11-KIA.md 
+pandoc -s -o output.md --to markdown_github -f markdown  Mass-11-11-KIA.md 
