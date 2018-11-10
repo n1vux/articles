@@ -4,6 +4,8 @@ The final attack on 11-11 morning is generally considered to be even more unnece
 
 # SITREP & OOB 11-11
 
+## Situation Report (SITREP) 10 & 11 Nov
+
 After the success of the Sept-October Meuse-Argonne offensive, the allies reorganizing, and preparing for a final push to Metz (and perhaps the Rhine?). It was scheduled for mid November -- 14th in the center, 11th on the right.
 
 ![Plan of Proposed American-French Attack, Nov 14, 1918 (ABMC, Sect.3 p 115)](Nov-14-plan.v01.png "Nov 14 plan")
@@ -13,13 +15,13 @@ After the success of the Sept-October Meuse-Argonne offensive, the allies reorga
 ...
 On November 9, while the Armistice negotiations were in progress, urgent orders were issued by Marshal Foch, the Allied Commander-in-Chief, directing that the enemy be pushed all along the Western Front and that be be given no time to rest or reorganize his troops." [^ABMC] 
 
-## OOB
+## Order of Battle (OOB)
 
 The allied order of battle Northwest to Southeast along the western Front
 
 * GQGA Grand Quartier Général des Armées Alliées (GQGA) / Marchal Foch
 * GHQ = [GQG](https://en.wikipedia.org/wiki/Grand_Quartier_Général_(1914–1919)) / [Pétain](https://en.wikipedia.org/wiki/Philippe_P%C3%A9tain) (Provins)
-    + GAF Groupe Armees de Flandres / King of Belgium, incl. French Army of Belgium.
+    + GAF Groupe Armées de Flandres / King of Belgium, incl. French Army of Belgium.
     + BEF British Expeditionary Forces / CG Haig (Fr. Armies: II, V, I, III, IV)
     + GAR Groupe d'armées de Réserve ou de Rupture (G.A.R.) / CG Fayolle (Fr. Armies: I, III)
     + Groupe d'armées du Centre (G.A.C.) / CG Maistre (Fr. Armies: V, IV)
@@ -53,6 +55,7 @@ US 1st Army has Fr. Fourth to left, US 2nd Army to right.
 > "6. OWN CHANGES, MOVEMENTS AND ACTION DURING TIlE DAY: Movement of 80th
 Division to army reserve completed. Movement of 1st Division to III Corps Reserve continued.
 
+(* Note - 1st Div, recently retired from left of line, supposedly moving from from V Corps Reserve to III Corps Reserve, but instead is surged toward Sedan only to be pulled up short to allow Fr 4th Armée to take Sedan.*)
 
 ![Operations of First Army, November 1-11, 1918; ABMC Sect 4, p 186](AMBC-Operations-1st-Army-Nov_1-11.v01.png "ABMC Operations of 1st Army, Nov 1-11")
 
@@ -61,7 +64,7 @@ Division to army reserve completed. Movement of 1st Division to III Corps Reserv
 
 (Map note: Fr XVII Corps as on map 1 Nov quickly reorganizes as Fr II Col. Corps during 6 Nov., and Fr XVII Corps takes charge of Second Army' left flank,  in contact on Fr II Col Corps's right flank.)
 
-(1st Div, recently retired from left of line, supposedly moving from from V Corps reserve to III Corps Reserve, but instead surges to Sedan and pulls up to allow Fr 4th Armee to take Sedan.>
+
 
 ### AEF 2nd US  Army (CG Bullard)
 
@@ -90,7 +93,7 @@ In order left to right on the line, since we only know time of day for two of th
 
 ## GAF / French Army of Belgium ###
 
-Two US divisions, 37th and 91st, and 53 Art.Bde, were operating under (respectively) Fr. XXXIV and Fr.XXX Corps, French Army of Belgium, Group of Armies Flanders / Grand Army of Flanders, King of Belgians in titular command, in Belgium, Ypres-Lys offensive, 28 Oct - 11 Nov. 
+Two US divisions, 37th Div and 91st Div, and 53d Art.Bde, were operating under (respectively) Fr. XXXIV and Fr.XXX Corps, French Army of Belgium, Group of Armies Flanders / Grand Army of Flanders, King of Belgians in titular command (and the French Chief of Staff in de facto command), in Belgium, Ypres-Lys offensive, 28 Oct - 11 Nov.
 
 Relatively few Massachusetts soldiers were in these units, so none KIA 11-11. Mass.Comm Gold Star report [^MaCommGold] lists earlier KIA with these units
 
@@ -100,7 +103,7 @@ Relatively few Massachusetts soldiers were in these units, so none KIA 11-11. Ma
 * another killed in Belgium; an Engineer, died of wounds from prior offensive; 
 * several others KIA or Died of Wounds in earlier offensives, but none 11-11.
 
-## BEF/CEF, Belgium ###
+## BEF/CEF, Belgium (CG Haig) ###
 
 Allied Left Wing liberating Belgium (GAF and BEF) includes CANADIAN CORPS.
 
@@ -135,26 +138,26 @@ If he fell at Mons, as is somewhat likely for a Canadian KIA on 11-11, it likely
 His (C)RE specialty IWT was supposedly (partially? wholy?) drafted into Durham Light Infantry(DLI), also near Mons but rotated out?? 
 
 
-Canadian links - 
+Canadian links for **MacAlpine** - 
 
-* [http://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/22102]  Service Number: WR/600554 (elsewhere, "WR prefix stands for Waterways & Railways");  Force: Army;  Unit:Royal Engineers;  Division: **Inland Water Transport**
-* [http://www.canadiangreatwarproject.com/searches/soldierDetail.asp?ID=114]
+* [Can Govt Virtual War Memorial](http://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/22102)  Service Number: WR/600554 (elsewhere, "WR prefix stands for Waterways & Railways");  Force: Army;  Unit:Royal Engineers;  Division: **Inland Water Transport**
+* [Can Gov Remembrance Book](http://www.veterans.gc.ca/eng/remembrance/memorials/books/page?page=590&book=1&sort=pageAsc)
+* [Can Great War Project](http://www.canadiangreatwarproject.com/searches/soldierDetail.asp?ID=114]
  **"Cause of Death: Died in War, unknown cause"** with much Unknown/Not Specified. 
-* [https://www.cwgc.org/find-war-dead/casualty/22102/]
-* [http://www.veterans.gc.ca/eng/remembrance/memorials/books/page?page=590&book=1&sort=pageAsc]
-* [http://sites.rootsweb.com/~canbrnep/vitstat1913.htm] deepends the mystery by presenting a different possible spouse or someone of same name in same county, also with Canadian connections: 
+* [CWGC](https://www.cwgc.org/find-war-dead/casualty/22102/)
+* [RootsWeb, Nova Scotia Vital Statisics](http://sites.rootsweb.com/~canbrnep/vitstat1913.htm) deepens the mystery by presenting a different possible spouse or someone of same name in same county, also with Canadian connections: 
 
 > **Severance, Annie Love,** d/o Mrs. Margaret Elizabeth Severance married at Melrose, Mass., 19 April 1913, to **Harry Douglas MacAlpine,** Somerville, Mass., s/o Henry MacAlpine. [8 May 1913 write up]
 > - *The Register,* Berwick, Kings Co., Nova Scotia - 1913 Vital Statistics Published on Thursday"
 
-Regarding IWT, we find 
+Regarding IWT, we find
 
 > In April 1918, Canadians with the Royal Engineers Inland Water Transport were drafted to the Durham Light Infantry ...
 > *Filling the Ranks: Manpower in the Canadian Expeditionary Force* [https://books.google.com/books?isbn=0773549102], Richard Holt, 2017
 
-which is confirmed by [https://archive.org/stream/6thbattaliondur00ainuoft/6thbattaliondur00ainuoft_djvu.txt], 6th Bn DLI getting draft from IWT&D, but that Bn was reduced to Cadre and distributed to other Bns by 6 Nov. 
+which is confirmed by [6th Bn Durham Light Inf.](https://archive.org/stream/6thbattaliondur00ainuoft/6thbattaliondur00ainuoft_djvu.txt) getting a draft from RE IWT&D, but that Bn was reduced to Cadre and distributed to other Bns by 6 Nov, so nowhere in particular on 11-11. 
 
-[https://archive.org/details/cihm_991347/page/n407] says Durhams were in reserve from 8 Nov, so not at Mons, any 11-11 battle dead in Durhams would be died of earlier wounds.
+[Durhams History](https://archive.org/details/cihm_991347/page/n407) says Durhams were in reserve from 8 Nov, so not at Mons, any 11-11 battle dead in Durhams would be died of earlier wounds (or detached to a unit one-line, or hit be deep zone harassment).
 
 So we don´t know where Harry served or fell; lucky to have any information on a Bostonian serving with Canadians and Brits at all, it seems.
 
@@ -583,6 +586,13 @@ COMMEMORATIVE SERIES, *MEUSE-ARGONNE 26 SEPTEMBER–11 NOVEMBER 1918,* Richard S
 COMMEMORATIVE SERIES, *MEUSE-ARGONNE 26 SEPTEMBER–11 NOVEMBER 1918,* Richard S. Faulkner, 
 
 [^ABMC]: CMH Pub 23-24 *World War I Historic Reference Book,*  American Battle Monuments Commission (Available on [ABMC.gov](https://www.abmc.gov/news-events/news/world-war-i-historic-reference-book-now-available-abmcgov)) (Prepared by the ABMC but also issued as  **CMH Pub 23-24**)
+
+Noted but not used for this project - the French equivalent of CMH official History and OOB is the official history, ***Les Armées Françaises dans la Grande Guerre,***   by *Ministère de la Guerre, État-Major  de l'armée - Service Historique*. Paris: *Imprimerie Nationale*. 1922-1939, published as a serial. Available online from **Bibliothèque nationale de France**'s digital library **[Gallica](https://gallica.bnf.fr)**. OOB is *Tome X, Ordres de Bataille*, in two volumes. Prior volumes are the official history by year and theatre, and the associated annexes of Orders and Messages.
+
+* [Tome X, Vol 1er, 10.1](https://gallica.bnf.fr/ark:/12148/bpt6k6279687d?rk=42918;4) **Ordres de Bataille des Grandes Unités*** [texteBrute=plain text](https://gallica.bnf.fr/ark:/12148/bpt6k6279687d/texteBrut)
+* [Tome X, Vol 2e, 10.2](https://gallica.bnf.fr/ark:/12148/bpt6k63495098?rk=21459;2) **Ordres de Bataille des Divisions** [texteBrute=plain text](https://gallica.bnf.fr/ark:/12148/bpt6k63495098/texteBrut)
+
+
 
 Other sources that are linked in the text - 
 
