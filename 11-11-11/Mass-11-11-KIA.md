@@ -1,12 +1,18 @@
 # Massachusetts Great War Killed In Action on 11-11 ... after Armistice was signed but before cease fire 
 
-The final attack on 11-11 morning is generally considered to be even more unnecessary slaughter. For #WW100 Armistice Day, let´s remember those cut down that day in particular. Since I'm sitting in Boston and I know the ME NG Historian has my home state of ME covered, I'll focus on Massachusians.
+## Bill Ricker 
+
+![CC-BY-SA](CC-BY-SA_icon.svg.png)
+
+The final attack on 11-11 morning is generally considered to be even more pointless, gratuitous slaughter than the previous 4 years were.
+For #WW100 Armistice Day, let´s remember those cut down that day in particular. 
+Since I'm sitting in Boston, I'll focus on Massachusians, where they fell that day, and what their units were doing.
 
 # SITREP & OOB 11-11
 
 ## Situation Report (SITREP) 10 & 11 Nov
 
-After the success of the Sept-October Meuse-Argonne offensive, the allies reorganizing, and preparing for a final push to Metz (and perhaps the Rhine?). It was scheduled for mid November -- 14th in the center, 11th on the right.
+After the success of the Sept-October Meuse-Argonne offensive, which reversed Germany's gains in their spring last-chance offensive, the allies were reorganizing, and preparing for a final push to Metz (and perhaps the Rhine?). It was scheduled for mid November -- Nov 14th in the center, Nov 11th on the right, with harassing raids in the meantime to stay in contact. But as Armistice talks picked up - after Austria made separate peace - they noticed the Germans were retiring to new positions with slightest provocation, sometimes with none.
 
 ![Plan of Proposed American-French Attack, Nov 14, 1918 (ABMC, Sect.3 p 115)](Nov-14-plan.v01.png "Nov 14 plan")
 
@@ -21,14 +27,12 @@ The allied order of battle Northwest to Southeast along the western Front
 
 * GQGA Grand Quartier Général des Armées Alliées (GQGA) / Marchal Foch
 * GHQ = [GQG](https://en.wikipedia.org/wiki/Grand_Quartier_Général_(1914–1919)) / [Pétain](https://en.wikipedia.org/wiki/Philippe_P%C3%A9tain) (Provins)
-    + GAF Groupe Armées de Flandres / King of Belgium, incl. French Army of Belgium.
+    + GAF Groupe Armées de Flandres / King of Belgium (CoS Degoutte) incl. French Army of Belgium.
     + BEF British Expeditionary Forces / CG Haig (Fr. Armies: II, V, I, III, IV)
     + GAR Groupe d'armées de Réserve ou de Rupture (G.A.R.) / CG Fayolle (Fr. Armies: I, III)
     + Groupe d'armées du Centre (G.A.C.) / CG Maistre (Fr. Armies: V, IV)
     + AEF American Expeditionary Forces (Army Group) CG JJ Pershing  (US.Armies: I, II)
     + GAE Groupe d'armées de l'Est (G.A.E.) / CG Castelnau (Fr. Armies: VIII, VII)
-
-[Large Map of 11-11 OOB, GHQ G-3 (c/o LoC)](./WLD-16804.png)
 
 
 ### AEF, US 1st Army (CG Liggett)
@@ -169,9 +173,17 @@ US 30th Div and 27th Div are in Army Reserve and do not figure in 11-11 KIA stor
 
 ## French Army Group of Rupture/Reserve, Fr.3rd Army 
 
-Possibly two US Regiments 59th and 370th, in line?  Unclear map legend!
+US 370th Inf Regt, **"Black Devils"** detached from US 93d Inf (Provisional) Div ("Colored"), has been attached to Fr 59th Div, Fr XVIII Corps, and is in line. 
+> "Formed from 8th Inf, Ill. NG, an all-black ... militia regiment founded in the 1870s ... 'It was the only unit entirely commanded by black officers.'" [(wikipedia)](https://en.wikipedia.org/wiki/370th_Infantry_Regiment_(United_States)). 
 
-## French Army Group Center - None
+This unit is not a major source of Massachusetts casualties; African-American members of Mass. NG "Colored Troops" were in 372d Infantry, see under GAE, Fr.7th Army. But they fought well, and should be included in a US-centric Order of Battle.
+
+
+See also [NG - Black History Month: Highlighting the 93rd Division in World War I](http://www.nationalguard.mil/News/Article/653966/black-history-month-highlighting-the-93rd-division-in-world-war-i/) and [WTTW - The Forgotten Story of Illinois's Black World War I Regiment](https://interactive.wttw.com/playlist/2017/11/10/forgotten-story-illinoiss-black-world-war-i-regiment).
+
+## French Army Group Center (Fr. Armies: V, IV) 
+
+No US Divisions.
 
 
 ## AEF, (US) FIRST ARMY, V CORPS (1-77-2-89)
@@ -211,7 +223,7 @@ the Meuse east of the Bois de l'Hospice and reach the heights south
 of Moulins, the north and south ridge through Senegal Fme, and
 Warmonterne Fme." [CMH-23-2] 
 
-### 89th Div
+### Meuse, 89th Div
 
 A Mass. solder originally with 89th is reported KIA in sector of 26th Div, so q.v.26th below.
 
@@ -294,7 +306,7 @@ but later withdraws, Div finally holds a line from 3/4 km south of Peuvillers, a
 
 
 
-### near Ville-devant-Chaumont; junction of 79th Div (left) and Yankee Division´s M.G.co, 104th Regt of 26th Div (right)
+### near Ville-devant-Chaumont; junction of 79th Div (left) and "Yankee" 26th Div (right)
 
 The assult on this town claimed 3 from Massachusetts on 11-11, 2 the prior day, and likely more died of wounds later. Proceeding left to right, we remember first the fellow with the 79th Div.
 
@@ -310,9 +322,18 @@ The assult on this town claimed 3 from Massachusetts on 11-11, 2 the prior day, 
 
 > Born 19 Jan., 1895, at Roxbury, son of John D. (deceased) and Annie S. Lammers of Lynnfield Center. Clerk. 
 
-#### Frederick B Hamsworth (Horsch) (MG Co, YD 104th)
+79th Div - 
 
-Our next two are from the same Machine Gun Co, 104th Inf Regiment, 26th (Yankee) Division:
+> Nov 9-11, Div attacks, captures
+Crépion, Wavrille, Gibercy, and Ville-devant-Chaumont, and reaches
+a line from Chaumont-devant-Damvillers (incl) , along the high
+ground 1 1/2 km west of Romagne-sous-les-C6tes, to 1 1/2 km east of
+Gibercy.
+[^CMH-23-2]
+
+#### Frederick B Hamsworth (Horsch) (MG Co, YD 104th Inf, 26th Div)
+
+Our next two are from the same **Machine Gun Co, 104th Infantry Regiment**, 26th (Yankee) Division:
 
 > **Hamsworth, Frederick B.:**  killed in action 11 Nov., 1918. (aka **Frederick Blatchford Horsch**) [at the capture of **Ville-devant-Chaumont**]. 
 
@@ -322,12 +343,12 @@ in action 16 Oct., 1918. Overseas 27 Sept., 1917.
 > Born 3 Sept., 1893, at Newburyport, son of John H. and Mary E. (Thurlow) Horsch. Street junction in Haverhill named in his memory. 
 
 
-#### Hugh Lawrence Kehoe (MG Co, YD 104th)
+#### Hugh Lawrence Kehoe (MG Co, YD 104th Inf, 26th Div)
 
-> **Kehoe, Hugh Lawrence:** killed in action 11 Nov., 1918 [at **Ville-devant-Chaumont**J. 
+> **Kehoe, Hugh Lawrence:** killed in action 11 Nov., 1918 [at **Ville-devant-Chaumont**]. 
 
 > Enl. 22 May, 1917; reported for duty 25, July; mustered 30 July, Co. K, 8th Inf., Mass. N. G.;
-trans, to **M. G. Co., 104th Inf., 26th Div.** Overseas 6 Oct., 1917. 
+trans, to M. G. Co., 104th Inf., 26th Div. Overseas 6 Oct., 1917. 
 
 > Born March, 1896, at South Williamstown, son of Patrick S. and Hannah E. Kehoe; brother of 
 Mary A. and James P. of Nova Scotia, John S. of Newtonville, and Lewis S. of Allston. 
@@ -336,14 +357,7 @@ Mary A. and James P. of Nova Scotia, John S. of Newtonville, and Lewis S. of All
 
 > (Mass.Comm.Gold-Star narrative [^MaCommGold])
 
-79th Div - 
 
-> Nov 9-11, Div attacks, captures
-Crépion, Wavrille, Gibercy, and Ville-devant-Chaumont, and reaches
-a line from Chaumont-devant-Damvillers (incl) , along the high
-ground 1 1/2 km west of Romagne-sous-les-C6tes, to 1 1/2 km east of
-Gibercy.
-[^CMH-23-2]
 
 104th Inf, 26th Div - 
 
@@ -380,25 +394,26 @@ In addition to these 3 listed at Ville devt. Chaumont, 1 other in YD's sector we
 > (Mass.Comm.Gold-Star narrative [^MaCommGold])
 
 
-Beaumont is Rear area of former Fr XVII then Fr II Cl Corps, right-rear of US 26th Div at time of death -- the opposite end of Yankee Div (26th) line from *Ville devt. Chaumont* mentioned above. Mass.Comm record shows him heading overseas with 356th Inf., 89th Div, but his location of death as Beaumont in 26th Div´s rear area; was he transferred or detached to 26th?
+Beaumont is Rear area of former Fr XVII then Fr II Colonial Corps, liberated by Fr.26e Div, in the right-rear of US 26th Div at time of death -- the opposite end of Yankee Div (26th) line from *Ville devt. Chaumont* mentioned above. Mass.Comm record shows him heading overseas with 356th Inf., 89th Div, but his location of death as Beaumont in 26th Div´s rear area; was he transferred or detached to 26th? We don't know from records at hand. 
 
 ![Interior of Beaumont Church](Interior-of-Beaumont-Church.v01.png "Interior of Beaumont Church")
 
 
 >"Nov 3, (26th) Div completes the relief of the Fr 26th Div and
 assumes command of the Neptune Sector on a front extending from 1
-km north of Beaumont to 1% km west of Flabas; Fr 10th Colonial
-Div on right, 79th Div on left. Nov 8, the enemy retreats and the
-Div, pivoting on its right, advances through Flabas to the line: Sous-
-la-fosse-a-terre, Flabas, heights north of Flabas. Nov 9, Div advances
-east to a line from 1H km northeast of Beaumont, along the eastern
-edge of la Wavrille, the ravine Ie Fond-des-Vaux, to X km west of
+km north of Beaumont to 1 3/4 km west of Flabas; Fr 10th Colonial
+Div on right, 79th Div on left. 
+Nov 8, the enemy retreats and the
+Div, pivoting on its right, advances through Flabas to the line: 
+Sous-la-fosse-à-terre, Flabas, heights north of Flabas. Nov 9, Div advances
+east to a line from 1 1/2 km northeast of Beaumont, along the eastern
+edge of la Wavrille, the ravine Ie Fond-des-Vaux, to 1/4 km west of
 Ville-devant-Chaumont. Nov 10, Div advances to Fme St-Andre,
 the eastern edge of the Bois de Ville, and Ville-devant-Chaumont (incl)." [^CMH-23-2]
 
 (The 89th, 1LT Wilson´s original unit, was in 1st Army, V Corps (Summerall) on 11-11,  a rather different part of line than Beaumont; listed above.) 
 
-### Hautecourt, 81st Div (2nd Army Fr II Cl, in line)
+### Hautecourt, 81st Div (2nd Army Fr II Cl)
 
 Hautecourt is in the French Second Army area, where the lines have moved past Verdun.
 
@@ -457,7 +472,7 @@ The Bn's of 81st were separated in two engagements. The other Bn objective Manhe
 
 
 
-## SECOND ARMY ( FrXVII-IV-VI)
+## SECOND ARMY ( Fr.XVII-IV-VI)
 
 (Second Army officially formed Oct. 12.)
 
@@ -539,11 +554,26 @@ Other 28th Div objectives included
 
 ![Mon Plaisir Farm in winter 18 19](Mon-Plaisir-Farm-in-winter-18-19.v01.png "Mon Plaisir Farm in winter 18 19")
 
-(Which brings us to the right end of the Line.)
+## Army Group East (GAE), CG DeMitry (Fr.8th, Fr. 7th)
+
+### Fr. 7th Army, US "Colored Troops" in Fr. Divisions
+
+African-American Massachusetts National Guard members served overseas with US 372nd Infantry, nominally of 93d Div ("Provisional", "Colored"), but both [371st Inf](https://en.wikipedia.org/wiki/371st_Infantry_Regiment_(United_States)) 
+and 
+[372d Inf](https://en.wikipedia.org/wiki/372nd_Infantry_Regiment_(United_States)) 
+fought with the French, during this Operation, in the Fr.157 Div;
+and their sibling [369th Inf](https://en.wikipedia.org/wiki/369th_Infantry_Regiment_(United_States)) - the famous "Harlem Hell Fighters," 15th NYNG - in the Fr.161st Div.  This places them at the right end of the line, in Alsace near Switzerland. They were rotated out of line weeks before armistice, so no 11-11 KIA; but a half dozen Massachusians and many more from elsewhere in 371st & 372d fell at Bussey Farm in September, and 372d's [Corporal Freddie Stowers's Medal of Honor](http://www.arlingtoncemetery.net/fstowers.htm) for actions at Hill 188 in the Champagne Marne Sector was awarded 70+ years late.
+
+Two Massachusian NCOs died quite possibly of Spanish 'flu in October while out of line. (The rear and hospitals were actually worse for the 'flu, because that's where the sick people were.)
+
+
+(Which brings us to the right end of the Line and the end of this tour of the line.)
 
 
 
 # Credits Works Consulted & Quoted#
+
+Copyright 2018, William D. Ricker, and licensed CC-BY-SA ![CC-BY-SA](CC-BY-SA_icon.svg.png).
 
 Special Thanks to
 
@@ -552,7 +582,7 @@ Special Thanks to
 * [Lives Wasted On Armistice Day](http://www.historynet.com/world-war-i-wasted-lives-on-armistice-day.htm), **HistoryNet.com**.
 
 
-The canonical works consulted and block-quoted with footnotes were Massachusetts and USA Army official histories, and OOB maps.
+The canonical works consulted and block-quoted with footnotes were Massachusetts and USA Army official histories, and OOB maps, in the public domain (PD) or US Govt Copyright (which amounts to PD).
 
 * [Order of Battle on Western Front 11 A.M., Nov. 11, 1918](https://www.wdl.org/en/item/16804/), AEF GHQ 3rd Section, c/o Library of Congress; also appearing in *[LoC Occaisional Paper 7](https://www.loc.gov/rr/geogmap/pdf/plp/occasional/OccPaper7.pdf): Maps of The First World War: An Illustrated Essay and List of Select Maps in The Library of Congress*, Ryan J. Moore, A Philip Lee Phillips Map Society Publication, Library of Congress, DC: 2014.
 
@@ -587,7 +617,7 @@ COMMEMORATIVE SERIES, *MEUSE-ARGONNE 26 SEPTEMBER–11 NOVEMBER 1918,* Richard S
 
 [^ABMC]: CMH Pub 23-24 *World War I Historic Reference Book,*  American Battle Monuments Commission (Available on [ABMC.gov](https://www.abmc.gov/news-events/news/world-war-i-historic-reference-book-now-available-abmcgov)) (Prepared by the ABMC but also issued as  **CMH Pub 23-24**)
 
-Noted but not used for this project - the French equivalent of CMH official History and OOB is the official history, ***Les Armées Françaises dans la Grande Guerre,***   by *Ministère de la Guerre, État-Major  de l'armée - Service Historique*. Paris: *Imprimerie Nationale*. 1922-1939, published as a serial. Available online from **Bibliothèque nationale de France**'s digital library **[Gallica](https://gallica.bnf.fr)**. OOB is *Tome X, Ordres de Bataille*, in two volumes. Prior volumes are the official history by year and theatre, and the associated annexes of Orders and Messages.
+Noted but not used for this project - the French equivalent of CMH official History and OOB is the official history, ***Les Armées Françaises dans la Grande Guerre,***   by *Ministère de la Guerre, État-Major  de l'armée - Service Historique*. Paris: *Imprimerie Nationale*. 1922-1939, published as a serial. Available online from **Bibliothèque nationale de France**'s digital library **[Gallica](https://gallica.bnf.fr)**. OOB is *Tome X, Ordres de Bataille*, in two volumes. Prior volumes are the official history by year and theatre, and the associated annexes of Orders and Messages. (*Note, BnF Gallica has restrictions on commercial or performative non-commercial reuse from their collection, despite the original documents being in the public domain.*)
 
 * [Tome X, Vol 1er, 10.1](https://gallica.bnf.fr/ark:/12148/bpt6k6279687d?rk=42918;4) **Ordres de Bataille des Grandes Unités*** [texteBrute=plain text](https://gallica.bnf.fr/ark:/12148/bpt6k6279687d/texteBrut)
 * [Tome X, Vol 2e, 10.2](https://gallica.bnf.fr/ark:/12148/bpt6k63495098?rk=21459;2) **Ordres de Bataille des Divisions** [texteBrute=plain text](https://gallica.bnf.fr/ark:/12148/bpt6k63495098/texteBrut)
