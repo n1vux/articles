@@ -1,8 +1,8 @@
 Massachusetts Great War Killed In Action on 11-11 ... after Armistice was signed but before cease fire
 ======================================================================================================
 
-Bill Ricker
------------
+Bill Ricker 2018-11-11
+----------------------
 
 ![CC-BY-SA](CC-BY-SA_icon.svg.png)
 
