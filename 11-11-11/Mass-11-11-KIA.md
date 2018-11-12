@@ -576,6 +576,13 @@ and their sibling [369th Inf](https://en.wikipedia.org/wiki/369th_Infantry_Regim
 
 Two Massachusian NCOs died quite possibly of Spanish 'flu in October while out of line. (The rear and hospitals were actually worse for the 'flu, because that's where the sick people were.)
 
+* ***UPDATE*** 2018-11-11 Twitter threads on 92d Division experiences under white officers, and as veterans -  
+    + [Africa, Africans, and WWI](https://twitter.com/mimoyd1/status/1061718850088194049)
+    + [Chad Williams on 92d Div](https://twitter.com/Dr_ChadWilliams/status/1061665103102337027)
+    + [WHEN AMERICA FORGOT ALL ABOUT ITS BLACK WWI SOLDIERS](https://www.ozy.com/flashback/when-america-forgot-all-about-its-black-wwi-soldiers/90207)
+    + ["The Colored Soldier" a dramatic recitation](https://twitter.com/HughesCenter_KU/status/1061622055890751490)
+    + [The Caldwell Case](https://twitter.com/S_L_Alexander/status/1061610664387592192)
+    + [TheCrisisMag: Targetting Black Veterans](https://twitter.com/thecrisismag/status/1061617008918388737)
 
 (Which brings us to the right end of the Line and the end of this tour of the line.)
 
