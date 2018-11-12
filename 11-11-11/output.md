@@ -271,7 +271,9 @@ The assult on this town claimed 3 from Massachusetts on 11-11, 2 the prior day, 
 
 ![ABMC: 79th Div map, 11-11](AMBC-Ville-devant-Chaumont-79thDiv-11-11-11.png "ABMC: 79th Div map, 11-11")
 
-![Near 79th DivHQ Vacherauville 31 Oct](Near-79th-DivHQ-Vacherauville-31-Oct.v01.png "Near 79th DivHQ Vacherauville 31 Oct")
+> Molleville Farm was the 79th Division Headquarters from November 9 to 11." [14]
+
+![Near 79th DivHQ Vacherauville 31 Oct (a prior HQ)](Near-79th-DivHQ-Vacherauville-31-Oct.v01.png "Near 79th DivHQ Vacherauville 31 Oct")
 
 #### John F. Lammers (79th)
 
@@ -281,7 +283,7 @@ The assult on this town claimed 3 from Massachusetts on 11-11, 2 the prior day, 
 
 79th Div -
 
-> Nov 9-11, Div attacks, captures Crépion, Wavrille, Gibercy, and Ville-devant-Chaumont, and reaches a line from Chaumont-devant-Damvillers (incl) , along the high ground 1 1/2 km west of Romagne-sous-les-C6tes, to 1 1/2 km east of Gibercy. [14]
+> Nov 9-11, Div attacks, captures Crépion, Wavrille, Gibercy, and Ville-devant-Chaumont, and reaches a line from Chaumont-devant-Damvillers (incl) , along the high ground 1 1/2 km west of Romagne-sous-les-C6tes, to 1 1/2 km east of Gibercy. [15]
 
 #### Frederick B (Horsch) Hamsworth (MG Co, YD 104th Inf, 26th Div)
 
@@ -298,21 +300,27 @@ Our next two are from the same **Machine Gun Co, 104th Infantry Regiment**, 26th
 > Enl. 22 May, 1917; reported for duty 25, July; mustered 30 July, Co. K, 8th Inf., Mass. N. G.; trans, to M. G. Co., 104th Inf., 26th Div. Overseas 6 Oct., 1917.
 > Born March, 1896, at South Williamstown, son of Patrick S. and Hannah E. Kehoe; brother of Mary A. and James P. of Nova Scotia, John S. of Newtonville, and Lewis S. of Allston.
 > Hospital attendant, employed at School for the Feeble-Minded at Waltham. Of Waverley.
-> (Mass.Comm.Gold-Star narrative [15])
+> (Mass.Comm.Gold-Star narrative [16])
 
 104th Inf, 26th Div -
 
-> "Early in the morning of Nov. 11, the 1st and 2d Battalions (reserve and support respectively) were ordered to move to the eastern edge of the Bois du Wavrille, to attack in an easterly direction through Herbebois. The 3d Battalion was to hold its position, reached the day before, and to attack from there at the same time in the direction of Côte 265 (Hill 265). With the battalions ready for the jump off, an order was received fifteen minutes before the zero hour to hold their position and not to advance. Later, shortly before 11 o'clock, the infantry was ordered forward. An advance was made of between 200 and 300 yards eastward, straightening out the line along the Azannes-Beaumont road, which 1st Battalion reported seeing position was held at 11 o'clock." [16]
+> "Early in the morning of Nov. 11, the 1st and 2d Battalions (reserve and support respectively) were ordered to move to the eastern edge of the Bois du Wavrille, to attack in an easterly direction through Herbebois. The 3d Battalion was to hold its position, reached the day before, and to attack from there at the same time in the direction of Côte 265 (Hill 265). With the battalions ready for the jump off, an order was received fifteen minutes before the zero hour to hold their position and not to advance. Later, shortly before 11 o'clock, the infantry was ordered forward. An advance was made of between 200 and 300 yards eastward, straightening out the line along the Azannes-Beaumont road, which 1st Battalion reported seeing position was held at 11 o'clock." [17]
 
 ![ABMC Ville devant Chaumont Nov 1918](AMBC-Ville-devant-Chaumont-Nov-1918.v01.png "ABMC: Main Street in Ville-devant-Chaumont, Nov 1918")
 
 In addition to these 3 listed at Ville-devant-Chaumont, there were 2 others of 26th Div YD also KIA "near Ville-devant-Chaumont" on 10 Nov, but not listed here per 11-11 focus for this particular memorial.
 
-> "The total casualties of the 33d, 29th, 79th and 26th Divisions during their fighting on and near the Heights of the Meuse were almost 15,000 officers and men. Molleville Farm was the 79th Division Headquarters from November 9 to 11." [17]
+-   ***UPDATE*** For the Maine NG troops of the 103rd Inf, 26th Inf experiences on 11-11, see `@MENGhistory`'s 11-11 posts on FB -
+    -   [Breaking the line](https://www.facebook.com/MENGhistory/posts/2192675540991984) (push night of 10th)
+    -   [The Final Attack](https://www.facebook.com/MENGhistory/photos/a.1470530333206512/2192679547658250/) (map shows Ville-devant-Chaumont)
+    -   [Armistice](https://www.facebook.com/MENGhistory/photos/a.1470530333206512/2192686124324259/)
+    -   [1LT R M Eaton diary entry](https://www.facebook.com/MENGhistory/photos/a.1470530333206512/2191536901105848/)
 
 ![HQ 26th at Bras](HQ-26th-Bras.v01.png "HQ 26th Bras")
 
-> "Nov 3, (26th) Div completes the relief of the Fr 26th Div and assumes command of the Neptune Sector on a front extending from 1 km north of Beaumont to 1 3/4 km west of Flabas; Fr 10th Colonial Div on right, 79th Div on left. Nov 8, the enemy retreats and the Div, pivoting on its right, advances through Flabas to the line: Sous-la-fosse-à-terre, Flabas, heights north of Flabas. Nov 9, Div advances east to a line from 1 1/2 km northeast of Beaumont, along the eastern edge of la Wavrille, the ravine Ie Fond-des-Vaux, to 1/4 km west of Ville-devant-Chaumont. Nov 10, Div advances to Fme St-Andre, the eastern edge of the Bois de Ville, and Ville-devant-Chaumont (incl)." [18]
+> "The total casualties of the 33d, 29th, 79th and 26th Divisions during their fighting on and near the Heights of the Meuse were almost 15,000 officers and men." [18]
+
+> "Nov 3, (26th) Div completes the relief of the Fr 26th Div and assumes command of the Neptune Sector on a front extending from 1 km north of Beaumont to 1 3/4 km west of Flabas; Fr 10th Colonial Div on right, 79th Div on left. Nov 8, the enemy retreats and the Div, pivoting on its right, advances through Flabas to the line: Sous-la-fosse-à-terre, Flabas, heights north of Flabas. Nov 9, Div advances east to a line from 1 1/2 km northeast of Beaumont, along the eastern edge of la Wavrille, the ravine Ie Fond-des-Vaux, to 1/4 km west of Ville-devant-Chaumont. Nov 10, Div advances to Fme St-Andre, the eastern edge of the Bois de Ville, and Ville-devant-Chaumont (incl)." [19]
 
 ### Hautecourt, 81st Div (2nd Army, Fr II Col.)
 
@@ -335,15 +343,15 @@ Hautecourt is beyond Moranville , just beyond northeasterly battalion(s)'s 11 No
 > **Prusak, Wladislaw:** killed in action 11 Nov., 1918 \[in attack on **Hautecourt**\].
 > Ent. 30 May, 1918, 21st Recruit Co., General Service Inf., Fort Slocum; trans. 3 June to Co. C, 2d Corps Arty. Park, Camp Jackson; 15 June to 156th D. B.; 28 June to Co. I, 321st Inf., 81st Div. Overseas 31 July, 1918.
 > Born 1888 at "Porerotky," Russia; brother of Mrs. Francisca Bialkowski of Salem.
-> (Mass.Comm.Gold-Star narrative [19])
+> (Mass.Comm.Gold-Star narrative [20])
 
-HQ 81st Div. - Sommedieue, Nov. 7-9; Belrupt. Nov. 9-11+ (19th?) [20]
+HQ 81st Div. - Sommedieue, Nov. 7-9; Belrupt. Nov. 9-11+ (19th?) [21]
 
-> "Nov 9, Fr 10th Colonial Div relieves the Div in the left of the sector north of the Verdun-Etain road; the 81st Div attacks toward the northeast, enters Manheulles and the wooded areas of les Chairs-Chenes and la Noire-Haie, captures Moranville, and occupies the northern edge of the Bois de Moranville. Nov 10, Div captures Abaucourt and Ie Grand-Cognon and enters Grimaucourt-en Woevre. Nov 11, Div resumes the attack, captures Grimaucourt-en-Woevre and le Petit-Cognon, and advances to a line from a point 1 km southwest of Hermeville to Abaucourt; minor gains are made northeast of Manheulles and in the southwestern comer of the Bois de Manheulles." [21]
+> "Nov 9, Fr 10th Colonial Div relieves the Div in the left of the sector north of the Verdun-Etain road; the 81st Div attacks toward the northeast, enters Manheulles and the wooded areas of les Chairs-Chenes and la Noire-Haie, captures Moranville, and occupies the northern edge of the Bois de Moranville. Nov 10, Div captures Abaucourt and Ie Grand-Cognon and enters Grimaucourt-en Woevre. Nov 11, Div resumes the attack, captures Grimaucourt-en-Woevre and le Petit-Cognon, and advances to a line from a point 1 km southwest of Hermeville to Abaucourt; minor gains are made northeast of Manheulles and in the southwestern comer of the Bois de Manheulles." [22]
 
-> "on Nov. 9 attacked on a front extending from Eix to Fresnes, continuing on the 10th and 11th in conjunction with the advance of the 33d Division on the right. At the moment of the Armistice an assault was being delivered upon the strongly fortified village of Hautecourt and the Bois de Manheulles." [22]
+> "on Nov. 9 attacked on a front extending from Eix to Fresnes, continuing on the 10th and 11th in conjunction with the advance of the 33d Division on the right. At the moment of the Armistice an assault was being delivered upon the strongly fortified village of Hautecourt and the Bois de Manheulles." [23]
 
-> "Moranville and the Bois de Moranville. These places in the outpost zone of the Hindenburg Line were captured by the 81st Division on November 9 in spite of determined hostile resistance. Abaucourt. Captured on November 10 by the 81st Division after severe fighting. Le Grand Cognon. This wooded area was captured by the 81st Division on November 10 after a hard fight. Grimaucourt-en-Woëvre. Captured by the 81st Division on November 10 but not held that night. The next day the division pushed forward through the town and about 1 mile beyond it. "No attack was made here on November 10 but on the llth the 81st Division met resistance in its efforts to advance in the Bois de Manheulles. Its front line was in the wood at the time of the Armistice." [23]
+> "Moranville and the Bois de Moranville. These places in the outpost zone of the Hindenburg Line were captured by the 81st Division on November 9 in spite of determined hostile resistance. Abaucourt. Captured on November 10 by the 81st Division after severe fighting. Le Grand Cognon. This wooded area was captured by the 81st Division on November 10 after a hard fight. Grimaucourt-en-Woëvre. Captured by the 81st Division on November 10 but not held that night. The next day the division pushed forward through the town and about 1 mile beyond it. "No attack was made here on November 10 but on the llth the 81st Division met resistance in its efforts to advance in the Bois de Manheulles. Its front line was in the wood at the time of the Armistice." [24]
 
 The battalions of 81st Div were separated in two engagements. The other battalions'\[ objective, **Manheulles** has pictures.
 
@@ -354,9 +362,9 @@ SECOND ARMY ( Fr.XVII-IV-VI)
 
 (Second Army officially formed Oct. 12.)
 
-> "Early in November ... The Second Army was therefore ordered to keep close watch of the enemy for any indications of a withdrawal. At that time the Second Army front was held, in order from right to left, by the VI Corps with the 92d Division in line, the IV Corps with 7th and 28th in line, and the French XVII Corps with the American 33d Division in line. ... The nearest part of the sector held by the 28th Division was at the woods seen in the distance to the right." [24]
+> "Early in November ... The Second Army was therefore ordered to keep close watch of the enemy for any indications of a withdrawal. At that time the Second Army front was held, in order from right to left, by the VI Corps with the 92d Division in line, the IV Corps with 7th and 28th in line, and the French XVII Corps with the American 33d Division in line. ... The nearest part of the sector held by the 28th Division was at the woods seen in the distance to the right." [25]
 
-> "On November 1, General Pershing issued instructions on the course to be followed by the Second Army in the event of a German retirement on its front. Because of the Austrian Armistice. new dispositions were being ended by the enemy between the Meuse and Moselle Rivers. General Pershing, on November 5, ordered the Second Army to advance between the Moselle River and Etang de Lachaussee towards Gorze and Chambley, in anticipation of a probable enemy withdrawal which, in fact, got under way the next day." [25]
+> "On November 1, General Pershing issued instructions on the course to be followed by the Second Army in the event of a German retirement on its front. Because of the Austrian Armistice. new dispositions were being ended by the enemy between the Meuse and Moselle Rivers. General Pershing, on November 5, ordered the Second Army to advance between the Moselle River and Etang de Lachaussee towards Gorze and Chambley, in anticipation of a probable enemy withdrawal which, in fact, got under way the next day." [26]
 
 ### Haumont, 28th Div (PA NG) (2nd Army, IV Corps; Thiaucourt sector)
 
@@ -366,17 +374,17 @@ SECOND ARMY ( Fr.XVII-IV-VI)
 > Enl. 5 Jan., 1918, R. A., Camp Upton; assigned \[from O. T. S.\] to Co. D, 305th Inf., 77th Div. Corporal 1 April, 1918. Sergeant 8 May, 1918. \[Detailed to British Automatic Machine Rifle School.\] Dis. 12 July, 1918, to accept commission. Commissioned 2d Lieut., Inf., 14 July, 1918; assigned to 109th Inf., 28th Div. 1st Lieut., Inf., 28 Oct., 1918. Overseas 16 April, 1918.
 > Born 2 March, 1897, at Jamaica Plain, son of Francis Boylston (died 1926) and Sally (Reed, died 1897) Austin; brother of William M. and Kiameche. Avenue at Fort Benning, Ga., named in his honor. Harvard, Class of 1920; prepared at Volkman School. One of the fifty-four Harvard students selected to attend the O. T. S. at Camp Upton, Jan. 5, 1918. Nearly all volunteered to join the 77th Div. when orders came for that division to go overseas, before the school course was completed. ![1LT F R Austin, Distinquished Service Cross. Mass.Comm](1LT_Austin_DSC.png "1LT Austin DSC")
 > **Awarded D. S. C:** "For extraordinary heroism in action near Haumont, France, November 11, 1918. He led a platoon of machine guns and two one-pounder guns with their crews under cover of a fog within the enemy's wire, and attacked at close range a strong point held by 25 men and 10 machine guns. After this position had been reduced, concentrated machine-gun fire from the ranks forced Lieutenant Austin and his party to withdraw. Exposing himself in order to place his men under cover, he was mortally wounded, but he directed the dressing of the wounds of his men and their evacuation before he would accept any aid for himself. He died a few hours later."
-> (Mass.Comm.Gold-Star narrative [26])
+> (Mass.Comm.Gold-Star narrative [27])
 
 PA NG 28th Div movements -
 
-> "Nov 4, the front is advanced to the northern edge of Bois des Haudronvilles Bas. Nov 6, the Fr XVII Corps is on the left. Nov 10-11, \[28th\] Div advances to the Bois Dommartin, Marimbois Fme, the northern edge of the Bois des Haravillers, and the Fme des Hauts-Journaux." [27]
+> "Nov 4, the front is advanced to the northern edge of Bois des Haudronvilles Bas. Nov 6, the Fr XVII Corps is on the left. Nov 10-11, \[28th\] Div advances to the Bois Dommartin, Marimbois Fme, the northern edge of the Bois des Haravillers, and the Fme des Hauts-Journaux." [28]
 
-> "American IV Corps---East edge of Bois des Rappes to Bois des Haravillers, to advance toward Vionville ... At 7 a. m., on November 10, the Second Army attacked. ... The IV Corps, in the center, pushed forward to a general line extending from Bois des Haravillers to Les Hauts-Journaux Farm. ... . On November 11, ... \[T\]he IV Corps approached the Bois Bonsell and the quarry west of Rembercourt, and attacked Mon Plaisir Farm." [28]
+> "American IV Corps---East edge of Bois des Rappes to Bois des Haravillers, to advance toward Vionville ... At 7 a. m., on November 10, the Second Army attacked. ... The IV Corps, in the center, pushed forward to a general line extending from Bois des Haravillers to Les Hauts-Journaux Farm. ... . On November 11, ... \[T\]he IV Corps approached the Bois Bonsell and the quarry west of Rembercourt, and attacked Mon Plaisir Farm." [29]
 
 ![ABMC: Haumont 28th Div](Haumont-28th-11-11-11.png "Haumont 28th 11 11 11") ![ABMC: Haumont-lès-Lachaussée (zoom) 28th Div (PA NG)](Haumont-zoom-28th-11-11-11.png "Haumont zoom 28th 11 11 11") ![Thiaucourt (key point in 28th Sector)](Thiaucourt.v01.png "Thiaucourt")
 
-> "**Haumont-lès-Lachaussée.** This village was lightly held by the Germans following the St. Mihiel attack. The 42d, 89th and 37th Divisions raided it several times and the 28th Division occupied it on two different occasions; from October 24 to 29, and again from November 9 to 11." [29]
+> "**Haumont-lès-Lachaussée.** This village was lightly held by the Germans following the St. Mihiel attack. The 42d, 89th and 37th Divisions raided it several times and the 28th Division occupied it on two different occasions; from October 24 to 29, and again from November 9 to 11." [30]
 
 Other 28th Div objectives included
 
@@ -415,7 +423,7 @@ Special Thanks to
 The canonical works consulted and block-quoted with footnotes were Massachusetts and USA Army official histories, and OOB maps, in the public domain (PD) or US Govt Copyright (which amounts to PD).
 
 -   [Order of Battle on Western Front 11 A.M., Nov. 11, 1918](https://www.wdl.org/en/item/16804/), AEF GHQ 3rd Section, c/o Library of Congress; also appearing in *[LoC Occaisional Paper 7](https://www.loc.gov/rr/geogmap/pdf/plp/occasional/OccPaper7.pdf): Maps of The First World War: An Illustrated Essay and List of Select Maps in The Library of Congress*, Ryan J. Moore, A Philip Lee Phillips Map Society Publication, Library of Congress, DC: 2014.
-
+    -   ***UPDATE*** LoC recently posted a [Blog post](https://blogs.loc.gov/maps/2018/11/mapping-armistice-day-11-november-1918/?loclr=twloc) about this map with a link to the [Tasker Howard Bliss collection](https://www.loc.gov/item/2004627137/)'s [zoomable map viewer for this map](https://www.loc.gov/resource/g5701s.ct004277/?r=0.299,0.251,0.616,0.494,0), for even better resolution, and links for super-hi-res downloads if needed.
 -   **Commission on Massachusetts' Part in the World War**, *Report of the*, Jesse F Stevens, Eben Putnam; Boston: 1929; [HaithiTrust](https://catalog.hathitrust.org/Record/007467745), [archive.org](https://archive.org/search.php?query=%22Commission%20on%20Massachusetts%27%20Part%20in%20the%20World%20War%22) [WorldCat](http://www.worldcat.org/title/report-of-the-commission-on-massachusetts-part-in-the-world-war/oclc/680173970&referer=brief_results) **vol I, *History* **; **vol II, *Gold Star Record of Massachusetts in the World War* ** .
 
 <!-- -->
@@ -467,34 +475,36 @@ Other sources that are linked in the text -
 
 [13] CMH Pub 23-24 *World War I Historic Reference Book,* American Battle Monuments Commission (Available on [ABMC.gov](https://www.abmc.gov/news-events/news/world-war-i-historic-reference-book-now-available-abmcgov)) (Prepared by the ABMC but also issued as **CMH Pub 23-24**)
 
-[14] CMH Pub 23-2 *ORDER OF BATTLE OF THE UNITED STATES LAND FORCES IN THE WORLD WAR American Expeditionary Forces: Divisions* (Volume 2)
+[14] CMH Pub 23-24 *World War I Historic Reference Book,* American Battle Monuments Commission (Available on [ABMC.gov](https://www.abmc.gov/news-events/news/world-war-i-historic-reference-book-now-available-abmcgov)) (Prepared by the ABMC but also issued as **CMH Pub 23-24**)
 
-[15] *Report of the Commission on Massachusetts' Part in the World War: GOLD STAR RECORD OF MASSACHUSETTS IN THE WORLD WAR* ( Vol II), 1929
+[15] CMH Pub 23-2 *ORDER OF BATTLE OF THE UNITED STATES LAND FORCES IN THE WORLD WAR American Expeditionary Forces: Divisions* (Volume 2)
 
-[16] *Report of the Commission on Massachusetts' Part in the World War: History* (vol I), 1929
+[16] *Report of the Commission on Massachusetts' Part in the World War: GOLD STAR RECORD OF MASSACHUSETTS IN THE WORLD WAR* ( Vol II), 1929
 
-[17] CMH Pub 23-24 *World War I Historic Reference Book,* American Battle Monuments Commission (Available on [ABMC.gov](https://www.abmc.gov/news-events/news/world-war-i-historic-reference-book-now-available-abmcgov)) (Prepared by the ABMC but also issued as **CMH Pub 23-24**)
+[17] *Report of the Commission on Massachusetts' Part in the World War: History* (vol I), 1929
 
-[18] CMH Pub 23-2 *ORDER OF BATTLE OF THE UNITED STATES LAND FORCES IN THE WORLD WAR American Expeditionary Forces: Divisions* (Volume 2)
+[18] CMH Pub 23-24 *World War I Historic Reference Book,* American Battle Monuments Commission (Available on [ABMC.gov](https://www.abmc.gov/news-events/news/world-war-i-historic-reference-book-now-available-abmcgov)) (Prepared by the ABMC but also issued as **CMH Pub 23-24**)
 
-[19] *Report of the Commission on Massachusetts' Part in the World War: GOLD STAR RECORD OF MASSACHUSETTS IN THE WORLD WAR* ( Vol II), 1929
+[19] CMH Pub 23-2 *ORDER OF BATTLE OF THE UNITED STATES LAND FORCES IN THE WORLD WAR American Expeditionary Forces: Divisions* (Volume 2)
 
-[20] CMH Pub 23-2 *ORDER OF BATTLE OF THE UNITED STATES LAND FORCES IN THE WORLD WAR American Expeditionary Forces: Divisions* (Volume 2)
+[20] *Report of the Commission on Massachusetts' Part in the World War: GOLD STAR RECORD OF MASSACHUSETTS IN THE WORLD WAR* ( Vol II), 1929
 
 [21] CMH Pub 23-2 *ORDER OF BATTLE OF THE UNITED STATES LAND FORCES IN THE WORLD WAR American Expeditionary Forces: Divisions* (Volume 2)
 
-[22] *Report of the Commission on Massachusetts' Part in the World War: History* (vol I), 1929
+[22] CMH Pub 23-2 *ORDER OF BATTLE OF THE UNITED STATES LAND FORCES IN THE WORLD WAR American Expeditionary Forces: Divisions* (Volume 2)
 
-[23] CMH Pub 23-24 *World War I Historic Reference Book,* American Battle Monuments Commission (Available on [ABMC.gov](https://www.abmc.gov/news-events/news/world-war-i-historic-reference-book-now-available-abmcgov)) (Prepared by the ABMC but also issued as **CMH Pub 23-24**)
+[23] *Report of the Commission on Massachusetts' Part in the World War: History* (vol I), 1929
 
 [24] CMH Pub 23-24 *World War I Historic Reference Book,* American Battle Monuments Commission (Available on [ABMC.gov](https://www.abmc.gov/news-events/news/world-war-i-historic-reference-book-now-available-abmcgov)) (Prepared by the ABMC but also issued as **CMH Pub 23-24**)
 
-[25] CMH pub 23-6 United States Army in the World War, 1917-1919, *Organization of the American Expeditionary Forces,* Volume 1
+[25] CMH Pub 23-24 *World War I Historic Reference Book,* American Battle Monuments Commission (Available on [ABMC.gov](https://www.abmc.gov/news-events/news/world-war-i-historic-reference-book-now-available-abmcgov)) (Prepared by the ABMC but also issued as **CMH Pub 23-24**)
 
-[26] *Report of the Commission on Massachusetts' Part in the World War: GOLD STAR RECORD OF MASSACHUSETTS IN THE WORLD WAR* ( Vol II), 1929
+[26] CMH pub 23-6 United States Army in the World War, 1917-1919, *Organization of the American Expeditionary Forces,* Volume 1
 
-[27] CMH Pub 23-2 *ORDER OF BATTLE OF THE UNITED STATES LAND FORCES IN THE WORLD WAR American Expeditionary Forces: Divisions* (Volume 2)
+[27] *Report of the Commission on Massachusetts' Part in the World War: GOLD STAR RECORD OF MASSACHUSETTS IN THE WORLD WAR* ( Vol II), 1929
 
-[28] CMH pub 23-6 United States Army in the World War, 1917-1919, *Organization of the American Expeditionary Forces,* Volume 1
+[28] CMH Pub 23-2 *ORDER OF BATTLE OF THE UNITED STATES LAND FORCES IN THE WORLD WAR American Expeditionary Forces: Divisions* (Volume 2)
 
-[29] CMH Pub 23-24 *World War I Historic Reference Book,* American Battle Monuments Commission (Available on [ABMC.gov](https://www.abmc.gov/news-events/news/world-war-i-historic-reference-book-now-available-abmcgov)) (Prepared by the ABMC but also issued as **CMH Pub 23-24**)
+[29] CMH pub 23-6 United States Army in the World War, 1917-1919, *Organization of the American Expeditionary Forces,* Volume 1
+
+[30] CMH Pub 23-24 *World War I Historic Reference Book,* American Battle Monuments Commission (Available on [ABMC.gov](https://www.abmc.gov/news-events/news/world-war-i-historic-reference-book-now-available-abmcgov)) (Prepared by the ABMC but also issued as **CMH Pub 23-24**)

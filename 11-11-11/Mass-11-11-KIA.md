@@ -342,7 +342,10 @@ The assult on this town claimed 3 from Massachusetts on 11-11, 2 the prior day, 
 
 ![ABMC: 79th Div map, 11-11](AMBC-Ville-devant-Chaumont-79thDiv-11-11-11.png "ABMC: 79th Div map, 11-11")  
 
-![Near 79th DivHQ Vacherauville 31 Oct](Near-79th-DivHQ-Vacherauville-31-Oct.v01.png "Near 79th DivHQ Vacherauville 31 Oct")  
+> Molleville Farm was the 79th Division Headquarters from November 9 to 11."
+[^ABMC]
+
+![Near 79th DivHQ Vacherauville 31 Oct (a prior HQ)](Near-79th-DivHQ-Vacherauville-31-Oct.v01.png "Near 79th DivHQ Vacherauville 31 Oct")  
 
 #### John F. Lammers (79th)
 
@@ -396,11 +399,21 @@ Mary A. and James P. of Nova Scotia, John S. of Newtonville, and Lewis S. of All
 
 In addition to these 3 listed at Ville-devant-Chaumont, there were 2 others of 26th Div YD also KIA "near Ville-devant-Chaumont" on 10 Nov, but not listed here per 11-11 focus for this particular memorial.
 
->"The total casualties of the 33d, 29th, 79th and 26th Divisions during their fighting on and near the Heights of the Meuse
-> were almost 15,000 officers and men. Molleville Farm was the 79th Division Headquarters from November 9 to 11."
-[^ABMC]
+
+* ***UPDATE*** For the Maine NG troops of the 103rd Inf, 26th Inf experiences on 11-11, see `@MENGhistory`'s 11-11 posts on FB -
+    + [Breaking the line](https://www.facebook.com/MENGhistory/posts/2192675540991984) (push night of 10th)
+    + [The Final Attack](https://www.facebook.com/MENGhistory/photos/a.1470530333206512/2192679547658250/) (map shows Ville-devant-Chaumont)
+    + [Armistice](https://www.facebook.com/MENGhistory/photos/a.1470530333206512/2192686124324259/)
+    + [1LT R M Eaton diary entry](https://www.facebook.com/MENGhistory/photos/a.1470530333206512/2191536901105848/)
+
 
 ![HQ 26th at Bras](HQ-26th-Bras.v01.png "HQ 26th Bras")
+
+>"The total casualties of the 33d, 29th, 79th and 26th Divisions during their fighting on and near the Heights of the Meuse
+> were almost 15,000 officers and men."
+[^ABMC]
+
+
 
 
 
@@ -582,6 +595,7 @@ Special Thanks to
 The canonical works consulted and block-quoted with footnotes were Massachusetts and USA Army official histories, and OOB maps, in the public domain (PD) or US Govt Copyright (which amounts to PD).
 
 * [Order of Battle on Western Front 11 A.M., Nov. 11, 1918](https://www.wdl.org/en/item/16804/), AEF GHQ 3rd Section, c/o Library of Congress; also appearing in *[LoC Occaisional Paper 7](https://www.loc.gov/rr/geogmap/pdf/plp/occasional/OccPaper7.pdf): Maps of The First World War: An Illustrated Essay and List of Select Maps in The Library of Congress*, Ryan J. Moore, A Philip Lee Phillips Map Society Publication, Library of Congress, DC: 2014.
+     + ***UPDATE*** LoC recently posted a [Blog post](https://blogs.loc.gov/maps/2018/11/mapping-armistice-day-11-november-1918/?loclr=twloc) about this map with a link to the [Tasker Howard Bliss collection](https://www.loc.gov/item/2004627137/)'s [zoomable map viewer for this map](https://www.loc.gov/resource/g5701s.ct004277/?r=0.299,0.251,0.616,0.494,0), for even better resolution, and links for super-hi-res downloads if needed.
 
 * **Commission on Massachusetts' Part in the World War**, *Report of the*, Jesse F Stevens,  Eben Putnam; Boston: 1929; 
 [HaithiTrust](https://catalog.hathitrust.org/Record/007467745), 
