@@ -1,0 +1,25 @@
+<!doctype html public '-//W3C//DTD HTML 4.0//EN' 'http://www.w3.org/TR/REC-html40/strict.dtd'>
+<html>
+<head>
+<title>local option</title>
+</head>
+<body>
+<pre>
+
+
+
+h6      {
+        font-family:    sans-serif;
+        font-size-adjust:       .53;
+        font-size:      .7em;
+        font-weight:    4fa00;
+	text-align: right;
+}
+
+blockquote      {
+        margin-right:   1.75em;
+}
+
+</pre>
+</body>
+</html>
