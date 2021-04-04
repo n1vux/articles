@@ -1,0 +1,50 @@
+/* Footnotes as Side Notes. Adapted from the third version in http://thenewcode.com/69/Classic-Typography-Effects-in-CSS-Footnotes  */
+   
+ /* original space-making for Sidenotes 
+  * p {
+  *	margin-right: 16em;
+  * }
+  */
+body{
+	margin-left: 16em; /* to match footnote margin, MAP liked margins, and make it universal*/
+   margin-right: 16em;
+}
+span {
+	visibility: hidden; /* hidden for popup, need individual #fn3 href anchor names to avoid bad scroll; side gloss is better anyway */
+	position: absolute;
+	width: 12em;
+	border: 1px solid #000;
+	background: #dd0;
+	padding: 1em;
+	right: 1em;
+}
+img.margin { /* let's put images in the LEFT margin */
+	position: absolute;
+	width: 12em;
+	padding: 1em;
+	left: 1em;
+}
+a.footnote::before{
+	content: '\2192\00B6' ; /* &rarr; &para; */
+	}
+a.footnote:link {
+	color: red;
+	font-size: 120%;
+	}
+
+a.footnote:hover + span { /* had been :focus+span */
+ visibility: visible;
+ /* display: inline-block; */
+}
+
+/* these maybe go elsewhere eventually and maybe even shared with pandoc.css ?? */
+.nice {
+	font-family: Georgia, Palatino, Lucida Bright, Times New Roman, Times, serif; 
+}
+.contrast {
+	font-family: Verdana, Arial, Tahoma, Trebuchet MS, sans-serif, sans; 
+}
+.email {
+    font-family:   Bitstream Vera Sans Mono, Lucida Sans Typewriter, DejaVu Sans Mono, Linux Libertine Mono O, Andale Mono, Nimbus Mono L, Courier, Courier New, Ubuntu Mono, Liberation Mono, FreeMono, fixed; 
+}
+   </style>
