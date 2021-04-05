@@ -1,4 +1,4 @@
-# Michael A. Padlipsky Memorial Department
+% Michael A. Padlipsky Memorial Department
 
 All contents &copy; 2011, 2021 The Literary Estate of Michael A. Padlipsky & William D. Ricker, Literary Executor and Editor, except as otherwise marked
 
