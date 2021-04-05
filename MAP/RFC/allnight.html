@@ -1,0 +1,924 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+
+  
+  <meta content="text/html;charset=ISO-8859-1" http-equiv="Content-Type">
+
+  
+  <title>"And They Argued All Night..."</title>
+</head>
+
+
+<body style="color: rgb(0, 34, 34); background-color: rgb(255, 255, 255); direction: ltr;" alink="#00ff00" link="#aa0050" vlink="#0000aa">
+
+
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="75%">
+
+
+  <tbody>
+
+
+    <tr>
+
+
+      <td><br>
+
+
+      <b>{Having very belatedly
+discovered that I'd uploaded a damaged version of the as-written
+version of
+this one, what follows is a combination of the as-written and
+as-published (in "Matrix News") versions. --MAP} </b><br>
+
+
+      <br>
+
+
+      
+      <center>
+      
+      <h2>"And They Argued All
+Night..."</h2>
+
+
+      </center>
+
+
+      
+      <center>
+      
+      <h3><em>...over
+whose claim was right: first at which, and for what, and with
+whom.</em></h3>
+
+
+      </center>
+
+
+      <br>
+
+
+      <br>
+
+
+      
+      <center>M.A. Padlipsky</center>
+
+
+      
+      <center>&lt;map@multicians.org&gt;</center>
+
+
+      <small>
+      
+      <center>Copyright &copy;
+2000 by the author.</center>
+
+
+      <br>
+
+
+      </small>
+      
+      <p>[<em>Over
+the 15 years from 1971 through 1985, Mike Padlipsky
+authored over 20 RFCs. He ran the Networking Group for the Multics
+machine
+at MIT during the early years of the ARPANET,
+among other things. His <b>The
+Elements of Networking Style</b>
+remains the best book on OSI.</em> -
+Ed.] </p>
+
+
+      
+      <p></p>
+
+
+      
+      <p>Despite my stated views
+on the futility of "doing" technohistory,
+I can scarcely find it in what's left of my heart to decline Peter
+Salus's invitation to take a turn in his Lest They Forget/Be Forgotten
+series, especially since I've been itching for at least a couple of
+years to have an excuse to dispute various selfserving claims of
+Fathers of this and Inventors of that now that the 'Net is the darling
+of the mediaocrities.
+And the best place to start is almost certainly with a restatement of
+why
+I think technohistory can't be done (lifted from <em>The
+Elements of
+Networking Style and Other Essays and Animadversions on the Art of
+Intercomputer Networking</em>, new
+ISBN 0-595-08879-1, presumably available via backinprint.com by the
+time you read this -- which I can now do without any fear of the
+original
+publisher, since the copyright reverted to me when They declared The
+Book out of print and
+destroyed the remaining inventory without keeping Their promise to
+inform me in
+advance if They were ever going to do so ... which didn't surprise me,
+since I'd long had proof
+They'd only been paying me royalties on every <em>other</em>
+copy They sold all the long):</p>
+
+
+      
+
+      
+      <p style="margin-left: 40px;">Around [20, by now]
+years
+ago I ran into an Old Network Boy friend (Gary Grossman,
+actually) I hadn't seen for a while. We got to reminiscing about the
+good old days
+five or so years previously on the "New" Telnet [...] working group and
+I said, "You
+know, I always liked your IAC trick." ( [...] a fairly important
+second-order mechanism
+of the ARPANET'S second-pass Virtual terminal protocol.) "Wait a
+minute," he replied,
+"IAC was one of <em>yours</em>
+." &nbsp;&nbsp;[Page 24, if you're
+curious about the fuller context.] </p>
+
+
+      
+      <p> He was right, by the way.
+The neat ideas zipped around the design meetings at a great rate of
+speed (and volume, usually; in both senses of the term). Even before we
+all hit at best
+EarlyMiddleage (and I fear I crossed over into MiddleMiddleage last
+May; most of the
+others still have a few years to go, though, damn them) we didn't
+really remember who'd
+come up with which neat notion. Indeed, over at least a 22-year period
+before the
+untimely and intensely lamented death of Jon Postel, he and I had
+frequent
+conversations trying to reconstruct the origins of a number of neat
+notions and we almost never
+succeeded, even on many of the ones I was fairly sure had been his
+(which, in fact,
+was most of them). And before the 'Net became big business, it was
+fairly easy for
+us to shrug it off; things had worked out, and what did it matter
+whether he, or I, or
+Gary, or even one of the BBN guys -- who always seemed to get to write
+the histories
+and hence always seemed to have claimed to have invented everything,
+anyway, perhaps
+because BBN was the only "for-profit" to furnish key members of the
+original Network
+Working Group -- had actually been the first to enunciate an idea that
+was almost always
+implicit in the discussion to begin with? </p>
+
+
+      
+      <p>Now, however, there seems
+to be at least some celebrity value attached to
+that sort of thing, if not indeed some financial value. There might
+even just
+possibly be a minute amount of value to be attached to "historical
+accuracy",
+or "intellectual integrity", or some other hopelessly pre-GenX
+abstraction, but it
+would doubtless be a tactical error to espouse that sort of thing.
+Besides, as indicated, some of the
+current claims stick in my craw, and Peter did ask me to "write
+something" and didn't get at all specific as to what, so... </p>
+
+
+      
+      <p>Let's start with the one
+I'm in fact quite certain I was the inventor of,
+especially because I can't recall which of the BBN guys is claiming it
+and so I can
+put off the delicate question of whether I want to name names for a
+while longer:
+"anonymous login". I remember pretty clearly, despite being somewhat
+unsure as to who the other person in the conversation was (Dirk,
+maybe?), being at SRI for some sort of
+meeting sometime around 1973 and being told that "the NIC" (or at least
+Jake [=Elizabeth Feinler - PHS]) was worried about this idea to put the
+RFCs on-line, because they'd have to
+establish all sorts of accounts so people could FTP them. "That's
+easy," I said, "just use my NETML trick." By which I meant, and went on
+to explain, that just as I'd had to propound a
+conventional universal "dummy" id and password so that netmail
+(as we'd called it when we were inventing it, but I'll get to that soon
+enough) could work via FTP without causing grave harm to the security
+(and accounting) mechanisms of at least some of the Hosts (mainly
+Multics, of course, since I was the Multics Network Technical Liaison
+at the time), all the NIC needed to do was establish a single, known
+account everybody
+could use to slurp the RFC's from. "'guest' would be a perfectly fine
+id,"
+I went on, "and the password should be 'anonymous', since we'd gain
+some measure of
+security in that people'd have to know how to spell it and of course
+not everybody does." Or
+words very close to that, and to exactly that effect, even if I
+actually gave the id and
+password values in the reverse order. [The NETML trick was enunciated
+in RFC 491,
+in case you care -- and in case it ever gets scanned in so you can
+care. -- MAP] </p>
+
+
+      
+      <p>Now, EarlyMiddleAgedMemory (EMAM) being what it was, and
+MiddleMiddleAgedMemory (MMAM) being what it is, naturally I don't
+recall whether I read
+that one of the
+BBN guys was laying claim to "anonymous login" the other year or saw it
+on
+one of those overly-coy little "courses" PBS (the P is for Pious,
+I like to observe) has taken to showing,
+before I decided they annoyed me so much I won't watch any more. (Even
+if
+I were
+on one? Irrelevant question. I didn't get rich, nor did I get my claims
+to've invented things into "the literature" early enough, because
+my company didn't get commissioned
+to write the "First 10 Years" report and wind up being visited
+first by the Internet
+history book writers.) But I submit that anybody who knows me knows
+that
+the crack about security <em>has
+to</em>
+be one of mine, and MMAM insists that whoever was laying the claim gave
+it
+as his
+own, which makes me suspect that the charitable explanation of parallel
+evolution
+doesn't apply and it was either <em>his</em>
+EMAM in play or just plain theft of intellectual property. Fortunately,
+anonymous
+login isn't really anything to be proud of -- especially since it was
+exploited for
+a famous security breach when it was misimplemented on a certain
+highly-popular Host
+type -- so I can rise above. </p>
+
+
+      
+      <p><b>Digression
+on Internet History Books</b> </p>
+
+
+      
+      <p>I'm not ready to name
+names yet, but I do want to offer a thought or two
+about this
+business of who gets talked to first by the historians. The authors of
+a
+couple
+of Internet history books did, one way or another, happen to get in
+touch
+with me
+during their "research" phases. Both had been in touch with BBN
+first. One of the authors
+did do me the courtesy of not buying the BBN version of the anonymous
+login
+story
+when the topic came up during our e-conversations. The other author
+apparently "bought
+into" the BBN version of just about everything (I've been warned by
+several friends not
+to read the book, in deference to my G.I. Woe), and on happening to
+meet me
+a couple
+of years after cancelling out on a scheduled interview, said "You
+don't look at all
+like what I'd expected" and then wandered away, without even letting
+me explain why
+my reply had been, "You mean because I'm not 7 feet tall?".
+Maybe I'm wrong, but
+the only explanation I could come up with was that the BBN guys had
+described me
+with about the same degree of objectivity as Shakespeare had applied to
+Richard III, and the
+cognitive dissonance -- is embarrassment over having been duped too
+much to
+hope
+for? probably -- was more than could be dealt with. </p>
+
+
+      
+      <p>There might be some other
+reason for the apparent personal slight, and I'm
+taking
+care not to identify the author in question, but the fact still remains
+that enormous
+bias can be introduced into all history books, much less technohistory
+ones, based
+on whom the authors talk, or refer, to first ... and whom they find
+agreeable, of course.
+(Hey, at least the first author kinda liked me.) </p>
+
+
+      
+      <p>(By the way, the "7 feet
+tall" crack came from the time I once
+got a telephone call
+at work from a programmer who worked for Univac who'd been astute
+enough to
+have
+figured out that I was the right person to ask about the design intent
+of
+the Telnet
+Protocol, and when it came out in the course of the conversation that
+I'm
+not above average
+height she said, quite unsarcastically I believe, "But you write as if
+you're seven
+feet tall!") </p>
+
+
+      
+      <p><b>Back
+to the Main Thread, Such as it Is</b> </p>
+
+
+      
+      <p>OK, here goes. It'd be
+not only disingenuous but downright cowardly not to
+name a
+couple of names. So first off, I don't believe Ray Tomlinson invented
+"e-mail".
+And not because of the quibble that we called it netmail originally,
+though that
+does offer an excuse to observe that I personally find the term
+"e-mail" awfully cutesy, and
+references to "sending an e-mail" syntactic slime. Nor because
+of the semi-quibble
+that "mail" had been around intra-Host on several of the Host
+operating systems since
+well before anybody realized they were Hosts, though that one has a
+great
+deal of abstract
+"historical" appeal. No, it's because I have a completely clear
+memory that Ray
+wasn't even at the FTP meeting where we decided to add mail to the
+protocol. Granted,
+one of the BBN guys mentioned that he'd done a TENEX to TENEX mail hack
+already, and
+that he'd used the "@" between id and host name for the
+addresses, but that was after
+somebody had said, "Hey, why don't we send mail via FTP?" <em>And
+for all I know, that
+somebody might have been me</em>.
+(Or "been I", I imagine ... if you're a fanatic Syntactic Puritan.) I'm
+not saying
+it was, but I don't <em>know</em>
+it wasn't. What I am sure of is that I was one of the strongest
+proponents of doing
+it, whoever broached the idea, and that <em>I
+could have vetoed the
+famous "@", but didn't</em>. </p>
+
+
+      
+      <p>Vetoed it? Huh? Well, it
+takes a little, um, er, history to explain that
+one. When
+the "TIP" (or Terminal IMP, the ancestral terminal support
+machine, and at least
+weakly arguably the grandfather of the "ISP") was introduced --
+and MMAM assures
+me EMAM had long believed it was at the 1971 Network Working Group
+meeting
+in Atlantic City,
+though both could be wrong, as usual -- the BBN guys announced, with
+grins,
+that
+the "intercept character" was going to be the "at-sign"
+and all looked at me. The
+reason was that on Multics, the at-sign was the reserved line-delete
+character. I thought
+about it for a second or two (being much younger and quicker of wit
+then)
+and said
+something very much along the lines of, "I guess. After all,
+everybody hits it a
+few times to be sure it takes, and you tell me doubling it will let it
+get
+through, so it
+shouldn't be that hard to remember that if we're TIPping to Multics we
+need
+to hit
+it an odd number of times when we want it intercepted but an even
+number of
+times
+when we want Multics to get it." And with that in mind, since in
+those days we tended, or
+pretended, to subscribe to the "all researchers together" myth, I
+had one coming,
+and could have insisted that it was too inconvenient for Multics users
+to
+have to
+type \@ when sending netmail, so let's pick another character. Or even
+use
+the more Multicsy
+syntax of "-at". But since it was the <em>at</em>
+sign -- even though I could swear it was called the "commercial at
+sign"
+in my high
+school typing class, just to pick a nit now that I might well have
+picked
+then, too
+- and since I <em>am</em>
+a Semantic Puritan, I couldn't bring myself to argue that it wasn't
+appropriate,
+and let it pass. </p>
+
+
+      
+      <p>So when it comes to who
+invented e-, or net-, mail, I submit: that as usual
+it was
+a group thing; that Ray wasn't at the meeting where it became part of
+the
+'Net, although,
+granted, he was, as far as I know, the first person to send mail from
+one
+computer
+to another over a network, even though they were like computers, which
+isn't particularly
+interesting or challenging even if the world's most over-"capped"
+corporation can't
+seem to do consistently better than that these days, and for all I know
+somebody
+at the National Physical Laboratory in England had already done at
+least
+the same,
+and maybe even used unlike operating systems (the Brits turn out to
+have
+better claims
+to've invented a surprising number of things, I've noticed over the
+years,
+but apparently the historians' travel budgets are never adequate...) --
+and
+he did have the insight
+to realize that "@" is commonly pronounced "at", of
+course; and that if I really
+wanted to I could always pretend to be sure I'd been the one to propose
+doing mail
+via FTP at the meeting and I don't think anybody who was there and who
+is
+intellectually
+honest could gainsay me, but I don't really want to because I'm simply <em>not</em>
+sure who proposed it. I am, however, completely sure that it was
+implicit
+in what we were doing, so in a fairly real sense we all invented it. </p>
+
+
+      
+      <p>One other thing about
+mail: Realize that FTP-based mail required the other
+Host to
+be up at the time (though people did come up with queuers for delayed
+sending if
+it wasn't), and it's arguable that what made "e-mail" really take
+off was when the
+model was changed so that that was no longer the case. The change came
+with SMTP. Jon was,
+of course, the author of that protocol, and knowing him he probably was
+the
+one who
+proposed it at the meeting, but I wasn't at the meeting so I don't
+know,
+but I'm
+perfectly content to assert that his claim to inventing "e-mail"
+is as good as anybody's. </p>
+
+
+      
+      <p><b>"It's
+a Wise Child that Knows Its Own Father"</b> </p>
+
+
+      
+      <p>Or is it "It's a wise
+father that knows his own child"? (Or, in
+PC -- for Philologically
+Corrupt -- contempobabble: It's a wise child that knows their own
+father,
+maybe.
+Let's hope it wouldn't have to be their own parent in PCorruption of
+the
+first version, anyway, which MMAM does think is the original: the use
+of
+"their" with a singular
+antecedent to avoid choosing between "him", "her", or
+"him or her" is nauseating
+enough; if They insist on destroying the sense by ignoring that
+motherhood
+is a matter
+of fact, fatherhood is the one that's a matter of conjecture, They're
+not
+even worth
+trying to talk to.) Anyway, let's get to this "Father of the
+Internet" crap. </p>
+
+
+      
+      <p>Normally, I'd say "In my
+humble but dogmatic opinion", but I
+don't want to be misunderstood. <em>In my considered opinion</em>,
+Len Kleinrock's claim to be the father of the Internet is ... no, don't
+get "personal",
+make it, I know: unfounded. And/or lacking in merit. And/or utterly
+unfounded.
+And/or utterly lacking in merit. And/or ... get the picture? </p>
+
+
+      
+      <p>Now, between the word
+count Peter asked me to live with and the fact that
+my carpal
+tunnels are on the brink of cave-in after some 37 years of
+"keyboarding", I'm not
+going to go into much detail as to why I think a number of people's
+claims
+for that
+fundamentally meaningless but emotively compelling title are better
+than
+Len's, though I'll
+touch on some of them briefly. And perhaps surprise you by not
+including
+myself
+among them. But for Clio's sake, if she was the Muse of History, or for
+x's sake
+assuming Peter will fill in the x for me [Clio is correct. - PHS], all
+Len was was the faculty guy who got the grant from ARPA to do the
+Network Measurement Center, where the first IMP happened to be
+installed. That doesn't even make him the father of the ARPANET, which <em>ISN'T</em>
+the Internet, if you're not a mediaocrity and care something about
+technical accuracy
+as opposed to "selling papers". Granted, three people who worked
+for him have good
+claims to the title -- far, far better claims, imhbdo -- but that would
+at
+best let
+him claim to be the grandfather, or more accurately great-grandfather,
+not
+the father.
+And depending upon how you define "the Internet", it's eminently
+arguable that their
+claims aren't as good as those of three other guys, whose efforts led
+to
+Len's getting the grant. (There's a fourth guy who worked at the NMC,
+who's still a good friend,
+whose claims to netpaternity are no better than my own non-existent
+ones,
+but he
+was also an important "player" in the early days and he's so
+incensed by Len's claim
+that in his honor I'm spending more time, and subjecting my wrists and
+fingers to more
+wear and tear, on this point than I might otherwise have done. However,
+the "all
+Len was" point just made is, at some level, sufficient refutation.) </p>
+
+
+      
+      <p>By the way, I left out
+one strikingly negative (imhbdo) contribution Ray
+made in order
+not to get "personal", and I'm leaving out two (ditto) Len made
+for the same reason;
+but I'm not anywhere near noble enough not to mention that I'm doing
+so.
+But wait:
+I've belatedly realized that I also left out an amusingly discreditable
+sidelight
+on the second "history book's" author, so I fear nobility has nothing at all to do with
+it,
+it's just
+that I seem to be getting soft, in my MMA. Not soft enough, after due
+deliberation,
+to omit mention of one other craw-sticker, though, namely the ...
+interesting aspect of
+the BBN "corporate culture" which led the nominal author of the "New"
+Telnet RFC
+to effusively acknowledge the assistance of his BBN colleagues in the
+document and
+totally ignore the fact that not only had I edited it extensively but
+around a quarter of
+the actual words printed were mine. (Not that I choose to offer him the
+publicity
+of mentioning his name, of course, but he's also the one who declined
+to
+co-sign
+my Host-Front End Protocol RFC despite the fact that 20some others in
+the
+NWG did and he'd privately
+told me he agreed with it, on the stated grounds that "it wouldn't be
+good
+for the
+company" to admit publicly to being for something that would make more
+work
+for the IMP -- which tells us some more about the corporate culture,
+I'd
+say. Indeed, MMAM
+belatedly assures me that for a number of years I was quite fond of
+saying
+that we'd
+done the 'Net despite BBN, not because of it, but I'm already over the
+word-count
+as I add this and probably couldn't remember enough of the points on
+which
+that was based
+anyway, so will let it go at that.) </p>
+
+
+      
+      <p>"Historically speaking",
+let's touch on the three without whom
+Len wouldn't have gotten
+his grant in the first place: J.C.R. Licklider, Bob Taylor, and Larry
+Roberts. Lick
+is usually credited with having had the germ of the idea to network
+computers, and
+I liked him so much personally I can't be objective: if there must be a
+"the" Father
+of the 'Net to satisfy the mediaocrities, then as They seem to
+non-define
+the 'Net,
+Lick's the one. Period. Bob Taylor, whom I didn't know personally but
+as
+his wife
+happened to tell me at a party at Bob Metcalfe's apartment in 1978 did
+pick
+up the torch
+from Lick and hired Larry Roberts to run with it, has a very good claim
+too. (Speaking
+of Metcalfe, a non-PBS show I made the mistake of watching recently
+semidemihinted
+that he, as the acknowledged "father" of Ethernet, might have
+some claim to the Internet
+title as well. I don't think he admitted the soft impeachment, as it
+were,
+but just
+for the record the Internet wasn't built to link together <em>only</em>
+Ethernets, but in fact various and sundry comm subnet
+"technologies", nor did Bob
+have anything to do with developing IP, as I recall, so that's a
+non-starter.) And
+Larry was introduced at the '71 NWG meeting with the phrase "And now a
+word from
+Our Sponsor", so to those of us doing the work of building the
+ARPANET, Larry's claim feels
+pretty good, too -- especially to those of you who weren't fortunate
+enough
+to've
+worked in the same building as Lick for what, five or six years, one or
+two
+of which
+he was your boss's boss's boss. </p>
+
+
+      
+      <p>Nor, turning to the three
+who originally worked at the NMC, should we
+overlook the
+person who was chairing the meeting and introducing Larry: Steve
+Crocker.
+Steve
+was hired by the ARPA office to run the Network Working Group, and
+deserves
+full
+credit for getting things going w/r/t the 'Net, even unto writing RFC
+#1.
+I don't feel at all
+filial about his role, but his claim still strikes me as better than
+Len's.
+Then
+there's Vint Cerf's role. He, too, started at the NMC and went on to
+the
+ARPA office.
+The difference is that if you define the Internet at all strictly,
+Vint's
+participation
+in the "invention" of TCP/IP coupled with his role in
+coordinating the contracts
+and contractors who implemented the protocol suite makes me feel that
+if he
+chose
+to say "I was the Father of the Internet" on his "web
+site" I might flinch a bit but I certainly
+wouldn't sneer. Finally, we shouldn't overlook Jon Postel, the way
+almost
+everybody
+did until we lost him and then people suddenly noticed how important,
+how
+central, how vital his participation had been all the long. He was the
+only one of the Old
+Network Boys whose views I took with fewer grains of salt than I took
+my
+own, of
+course, but the real point is that almost all the protocol RFC's were
+under
+his authorship, and not because he was that slick a writer. It's
+because
+he understood how the
+protocols had to work better than any of us, usually because the ideas
+they
+embodied
+were his, even when he wouldn't acknowledge that, after the fact. </p>
+
+
+      
+      <p>At the risk of getting a
+bit sloppy here, and almost certainly commiting a
+metaphor
+that should have been blocked, I simply can't resist observing that
+it's
+not particularly
+interesting who the "father" of the Internet was, because what
+really matters is
+who its "mother" was, in the sense of whose <em>labor</em>
+gave it birth. And if you need me to spell the rest of it out for you,
+I
+assume you wouldn't understand it anyway... </p>
+
+
+      
+      <p>Come to think of it,
+though, if that's all a bit too equivocal for you,
+maybe we should
+remember our <em>Time Enough for
+Love</em> (and if you haven't read
+everything Heinlein wrote at least twice, it's your loss)
+and consider how the fleshly version of the computer "Minerva" came to
+be:
+a chromosome
+pair from Justin Foote for math, a chromosome pair from Lazarus Long
+presumably for
+longevity, and so on. So maybe the Internet wasn't fathered or mothered
+but rather
+created out of Lick's genes for inspiration and, I dunno, charm, and
+Jon's
+genes
+for call it technical intuition or brilliance and maybe composure, or
+whatever it
+was that enabled him to forge consensus among all us prima donnas, and
+Vint's gene for, I suppose,
+leadership, and ... so on. (Gee, maybe that way even I'd get a piece of
+the action
+myself, since I'd like to think that my gene for, what, righteous
+indignation? Constructive Snottiness? belongs in the mix, too, for
+being
+willing to take up the cudgels
+in public against the ISORMite idiocy -- a/k/a "OSI" for those who
+haven't
+read The
+Book -- probably did help, <em>some</em>.) </p>
+
+
+      
+      <p><b>"In
+Conclusion Bear in Memory"</b> </p>
+
+
+      
+      <p>Keep the password in your
+mind.... Oops, wrong song (but a wonderful one;
+do searchengineer
+it if you don't know it -- provided anybody's bothered to webulate it,
+of
+course).
+No, what to keep in mind is that from my point of view it's all rather
+moot, when you get right down to it: </p>
+
+
+      
+      <p>Jon's been taken from us,
+after all, so sticking up for his "rights" is
+merely an exercise in sentimentality -- though not, one hopes,
+futility. (And I say
+"taken from us" advisedly, though this isn't the time or place to go
+into why
+since I'm being careful not to risk any libel suits by not being
+personally
+insulting, even to those who have insulted me -- nor am I afraid of the
+original publisher, since Truth
+is the classically best defense against libel charges if They were
+stupid enough
+to take me on even though I haven't even mentioned 'Em by name -- but
+couldn't
+possibly avoid it if I got started on the topic of whom I view as the
+villain of Jon's last
+years.) </p>
+
+
+      
+      <p>And I, after all, went
+into de facto retirement years ago, when I left the
+second job in a row over not being allowed to smoke in my own office,
+so <em>I've</em>
+got nothing to gain from winning any technopaternity suits. (Not even
+the
+mild egoboo of a cameo on one of the tellyjoke shows, since I'd insist
+on approval of
+the final cut lest I be accorded the same gratuitously snotty treatment
+Ted Nelson --
+eminently arguably the "Father of the Web", by the way -- was, and
+clearly
+that'd never be granted.) Unless ... gee, what if The Book reprint'd be
+a bestseller if it
+were advertised as being by the Father of ...? Nah, anybody who read it
+would
+still need to be able to deal with real sentences, and there are far
+too few of us
+left. </p>
+
+
+      
+      <p>So unless some or all of
+the over-"capped" companies that owe
+their existence to us (cisco, Network Solutions, and, save the mark,
+AOL come immediately to
+mind) were to decide to give chunks of stock to the Fathers of this and
+Inventors of
+that in appreciation, all that's at stake is another one of those
+hopelessly
+pre-GenX abstractions: "for the record". (Actually, what I think would
+be far more
+seemly would be to award, say, 1,000, but even a couple of hundred
+would be nice, shares per RFC to
+the authors of all substantive [i.e., non-repetitive, in the sense of
+the
+monthly reports on Host traffic or even the every-hundred indexes]
+RFC's with numbers under
+1000 [inspired by the time Interop gave out t-shirts to the authors of
+the first thousand
+RFCs, even if they only allowed us to pick one RFC number to have
+printed on it,
+which led some of us to agonize a lot]. That'd be nice. And Jon's
+lion's share of the
+shares could go to funding the Old Programmers Home, as we discussed
+when I first had
+idea ... the day I heard Netscape's stock was over 150, to which I'd
+also will the
+proceeds of my own 20some lots. Of course, with my usual luck if they
+did do it the
+market'd make October of '29 look like a mere blip before I could
+convert to
+tax-frees anyway, so it's all still moot, isn't it.) </p>
+
+
+      
+      <p>Meanwhile, what price
+"resource sharing"? The Bandwidth Bandits reign,
+even turning off "autoload images" doesn't spare one from slithering
+signs,
+everybody's committed to being HTML-trendy, "browsers" are bigger than
+operating systems need to
+be, and the main difference between "the Web" and the Sunday paper is
+that the
+p-ads can be used for wrapping fish... </p>
+
+
+      
+      <p>Let at least one
+tradition be upheld, though: we conclude with the usual </p>
+
+
+      
+      <p> cheers, map </p>
+
+
+      
+      <p>[<em>In
+the August, 1999, issue of <em>Matrix
+News</em> we published a piece by
+Len Kleinrock. Last month's <em>MN</em>
+carried the first installment of a reminiscence by Les Earnest. Future
+authors of memoirs in this series will include
+Steve Crocker, Alex McKenzie, and Dave Walden.</em>
+- Ed.] </p>
+
+
+      
+      <hr></td>
+
+
+    </tr>
+
+
+  
+  </tbody>
+</table>
+
+
+</center>
+
+
+</body>
+</html>
