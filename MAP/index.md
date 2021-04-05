@@ -1,13 +1,12 @@
 # Michael A. Padlipsky Memorial Department
 
-All contents &copy; 2011, 2021 The Literary Estate of Michael A. Padlipsky & William D. Ricker
-except as otherwise marked
+All contents &copy; 2011, 2021 The Literary Estate of Michael A. Padlipsky & William D. Ricker, Literary Executor and Editor, except as otherwise marked
 
 ## Biographical.
 
 ![Michael A Padlipsky (1939-2011)](./RFC/imgs/image002.jpg)
 
-Michael A Padlipsky was born in NJ in 1939, grew up and attended school in Westminster, LA County, California, attended MIT, and worked as a systems programer/architect on 
+Michael A Padlipsky was born in NJ in 1939, grew up and attended school in Westminster, LA County, California, graduated from MIT, attended BU grad school, and worked as a systems programer/architect on 
 
 * [SAGE](https://en.wikipedia.org/wiki/SAGE_(computer)), 
 * [MIT Project MAC](https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory#Project_MAC) CTTS &amp; MULTICS,
@@ -15,7 +14,7 @@ Michael A Padlipsky was born in NJ in 1939, grew up and attended school in Westm
 
 During his working life, he lived in Cambridge MA, the DC area, Arlington MA, and finally returned to his boyhood bungalo in LA County, where he retired.
 
-Mike died in 2011 after a long illness; the irony of the &quot;No Smoking &mdash; Oxygen in Use&quot; sign on his door was jarring. He was a loving &quot;official honorary uncle&quot; to the children of several classmates who were likewise only-children, who'd formed just such a pact. He was also survived by a late-life renewed-romance remote fiance&eacute;, who hosted our Wake.
+Mike died in 2011 after a long illness; the irony of the &quot;No Smoking &mdash; Oxygen in Use&quot; sign on his door was jarring. He was a loving &quot;official honorary uncle&quot; to the children of several classmates who were likewise only-children, who'd formed just such a pact. He was also survived by a late-life renewed-romance remote fianc&eacute;e, who hosted our Wake.
 
 ## ?First? Thesis on SciFi as LitCrit
 
@@ -25,6 +24,10 @@ MIT graciously returned, in 2003, copyright to M.A.P.'s 1960 Bachelor's Thesis,
 This was for 35 years presumed to be the first academic thesis on SciFi as LitCrit, but no, writer and academic James E Gunn (1923-2020) did his 1951 M.A. thesis first. (Had the Internet been available in 1960, a literature search would have found it, or at least the 1958 reference to it.) Likely still the earliest Bachelors Thesis, and it centers Literary Merit right in the title.
 
 * [SciFi Section](./SciFi/)
+* anecdotes related thereto (coming!)
+* Puns of the Year (coming!)
+* the problem with limericks has been rhymed upon ... so maybe not coming.
+
 
 ## the Scotch proto-Blogger
 
@@ -34,23 +37,24 @@ His primary quest was to find another bottle of the semi-mythical A&N MOHM Glen 
 
 * [The Research Quest](./Malt/)
 
-* The Research Notes - Scotch notes from before Blogs
+* [The Research Notes](./Malt/notes.html) - Scotch notes from before Blogs (198x-1996)
 
-* [Weirdest whisky bottles in his collection](./MAP/Malt/Mike-Empties-WDA.html)
+* [Weirdest whisky bottles in his collection](./Malt/Mike-Empties-WDA.html)
 
 ## Technical Contributions in Internetworking
 
 MAP was one of the Old Network Boys (as he said), member of the Network Working Group, author of multiple  ARPAnet/Internet RFCs and white papers on computer Networking, and recast some of them into a book, **The Elements of Networking Style**.
 
-[MAP - A Bibliography](./RFC/)
+[MAP - A Bibliography](./RFC/) *TBD coming soon*
 
-* The Elements of Networking Style
+* The Elements of Networking Style (The Book)
 * And They Argued All Night... (techno-history memoir)
 * RFCs and quotations
 
 ## The Wake
 
-* A Tasting For Mike -- catered from his own Scotch collection
+
+* [A Tasting For Mike](./Malt/tasting.html) -- catered from his own Scotch collection
 * Testimonial from fellow Old Network Boy, Vint Cerf
 
 All contents &copy; 2011, 2021 The Literary Estate of Michael A. Padlipsky & William D. Ricker
