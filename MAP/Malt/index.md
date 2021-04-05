@@ -1,33 +1,36 @@
-# Michael A. Padlipsky Memorial - Single Malt Department
+% M A Padlipsky Memorial - Single Malt Department
 
 All contents &copy; 2011, 2021 The Literary Estate of Michael A. Padlipsky & William D. Ricker
-except as otherwise marked
+except as otherwise marked.
 
 &mdash; [MAP home](../) &mdash; [technical bibliogrpahy](../RFC/) &mdash;  [SciFi](../SciFi/) &mdash; 
 
 ## the Scotch proto-Blogger
 
-Mike was a Scotch blogger before there was a Web on which have WebLogs &mdash; by the medium of netmail(*as they called it when they were inventing it*, as he'd have said) and file transfer sharing of text files.
+Mike was a Scotch blogger before there was a Web on which have WebLogs &mdash; by the medium of netmail (*as they called it when they were inventing it*, as he'd have said) and file transfer sharing of text files, which he then granted permission for some of the earliest Scotch websites to re-share.
 
 His quest, called &quot;Primary Research Area&quot;, was to find another bottle of the semi-mythical A&N MOHM Glen Grant 14, and secondarily, to determine what was the second-best single-malt after that, which resulted in The Research Notes.
 
-[The Primary Research](.)
+* A story arc on MAP's quest, which he called his **Primary Research Area**.
 
-* [Prolegomena to "The Malt and I"](./proleg.html) - backstory on his Scotch history before the MOHM, and initial hunt for MOHM. [Gloss: "Prolegomena"](https://www.merriam-webster.com/dictionary/prolegomenon). (*Alas if the implicitly promised full "The Malt and I" was drafted, i haven't found it yet, so we'll piece together ...*)
-* Pun of the Year for 1986 (below)
-* [1995-1996 posts to MALTS-L](MOHM-on-Malts-L.html) - selected messages regarding the MOHM
-* need to find ?meaty digression on why I strongly prefer "grades" to numeric scores?
-* [Supplementary Information and Illustration](psuppl.html) (2001)
-* Denoument, Nemesis, &amp; Posthumous Epilogue (2011)
-* A Tasting For Mike (the Wake) - Mike catered his own wake: we samples some of the best of his Scotch cache.
+    * [Prolegomena to "The Malt and I"](./proleg.html) - backstory on his Scotch history before the MOHM, and initial hunt for MOHM. [Gloss: "Prolegomena"](https://www.merriam-webster.com/dictionary/prolegomenon). (*Alas if the implicitly promised full "The Malt and I" was drafted, i haven't found it yet, so we'll piece together ...*)
+    * Pun of the Year for 1986 (below)
+    * [1995-1996 posts to MALTS-L](MOHM-on-Malts-L.html) - selected messages regarding the MOHM
+    * need to find ?meaty digression on why I strongly prefer "grades" to numeric scores?
+    * [Supplementary Information and Illustration](psuppl.html) (2001)
+    * [Postumous Postscripts: Denoument, Nemesis, &amp; Epilogues](./postpost.html) (2011)
+    * [A Tasting For Mike (the Wake)](./tasting.html) - Mike catered his own wake: we samples some of the best of his Scotch cache.
 
 * The Research Notes - Scotch notes from before Blogs (4th Ed, 1996)
+
+    * [PDF](TheResearchNotes.pdf)
+    * [WebPage](notes.html)
 
 * [Weirdest whisky bottles in his collection](./Mike-Empties-WDA.html)
 
 ## Pun of the Year for 1986
 
-The (D)ARPAnet/MILnet/DDN networking folks had periodic meetings at NATO regarding the digitization of allies. Mike regularly stopped off in Scotland on the way home from Brussels or Malvern.
+The (D)ARPAnet/MILnet/DDN Internet Research Group (IRG) networking folks had periodic meetings in London and NATO regarding the digitization of allies. Mike regularly stopped off in Scotland on the way home.
 
 > I was asked to give a talk at Edinburgh University, 
 > since I was going to be in the neighborhood to do field 
@@ -55,5 +58,8 @@ The (D)ARPAnet/MILnet/DDN networking folks had periodic meetings at NATO regardi
 > that had received a standing libation.
 
 > -- MAP
+
+(*Other of his "potys" = "Puns Of The Year" will be filled under SciFi as Literary.*)
+
 
 &mdash; [MAP home](../) &mdash; [technical bibliogrpahy](../RFC/) &mdash;  [SciFi](../SciFi/) &mdash; 
