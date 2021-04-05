@@ -5,8 +5,7 @@
 * [11-11-11: Armistice #WW100 html](./11-11-11/output.html)
 * [11-11-11: Armistice #WW100 md](./11-11-11/output.md)
 
-## Michael A Padlipsky homages
+## Michael A Padlipsky Memorial &amp; homage
 
-(more to come)
-
-* [Weirdest whisky bottles in his collection](./MAP/Malt/Mike-Empties-WDA.html)
+* [MAP](./MAP/)
+* [Weirdest whisky bottles in his collection](./MAP/Malt/Mike-Empties-WDA.html), archived from WWWDA.
