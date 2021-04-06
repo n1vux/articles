@@ -39,7 +39,7 @@ MAP was a master of snark and sarcasm. One anecdote illustrating that and releva
 
 [Isaac Asimov PhD](https://en.wikipedia.org/wiki/Isaac_Asimov), then still *somewhat* working his nominal day-job at Boston University Med School (Professor of Bio-Chemistry), attended Mike's presentation of his senior thesis on the literary yet science-fictional works of Theodore Sturgeon to the [MIT Science Fiction Society](mitsfs.mit.edu) aka MIT-SFS. Dr A was a frequent visitor at the only SciFi club in town. (This was before NESFA.org was formed by MIT-SFS alums who'd been told by the Administration that they could no longer run an undergraduate club since they were no longer undergraduates, and likewise before Dr A moved back to NYC between marriages.)
 
-At one point in MAP's presentation of the question of literary merit in Sturgeon et al, Asimov interupted:  “A literary word has never passed my typewriter”.
+At one point in MAP's presentation of the question of literary merit in Sturgeon *et al.*, Asimov interrupted:  “A literary word has never passed my typewriter”.
 
 Without missing a eat, Mike replied, “As the resident expert, I concur”, thus
 putting Asimov in his place, something few ever accomplished, let alone agreeably.
@@ -56,7 +56,7 @@ MAP also has a corollary for **Sturgeon's Law**. Ted Sturgeon, primary subject o
 
 Writer and *bonefide* academic [James E Gunn (1923-2020)](https://en.wikipedia.org/wiki/James_E._Gunn_%28writer%29) [ISFDB](http://www.isfdb.org/cgi-bin/ea.cgi?1162) did his 1951 M.A. thesis first.
 
-(Had the Internet been available in 1960, an online literature search would have found it, or at least the 1958 reference to it, since it was a "bigger" publication. But MAP and the other Old Network Boys hadn't built it yet, let alone Sir Tim put a web atopt it. And in 1960, what were avaialbe for literature searches, [Readers Guide to Periodicals](https://en.wikipedia.org/wiki/Readers%27_Guide_to_Periodical_Literature) and specialized sibling pubs, didn't provide coverage of "pulp" magazines. Literary Criticism or Science Fact articles in Fiction magazines were not indexed.)
+(Had the Internet been available in 1960, an online literature search would have found it, or at least the 1958 reference to it, since it was a "bigger" publication. But MAP and the other Old Network Boys hadn't built it yet, let alone Sir Tim put a web atop it. And in 1960, what were available for literature searches, [Readers Guide to Periodicals](https://en.wikipedia.org/wiki/Readers%27_Guide_to_Periodical_Literature) and specialized sibling pubs, didn't provide coverage of "pulp" magazines. Literary Criticism or Science Fact articles in Fiction magazines were not indexed.)
 
 The 1958 reference is buried in an editor's column of a mid-tier pulp mag, describing the prior appearance in another such:
 
@@ -74,17 +74,17 @@ For those interested, Gunn's 1953-54 serialization of his 1951 thesis are availa
 
 *  "The Philosophy of Science Fiction" 
    -  vol. 1 No 2 (March 1953) p 104-113
-      [ISFDB 1](http://www.isfdb.org/cgi-bin/title.cgi?239341)
+      [ISFDB 1](http://www.isfdb.org/cgi-bin/title.cgi?239341),
       [Archive 1](https://archive.org/details/Dynamic_Science_Fiction_v01n02_1953-03_Gorgon776/page/n103/mode/2up)
     - vol. 1 No 3 (June 1953), p. 83-91
-      [ISFDB 2](http://www.isfdb.org/cgi-bin/title.cgi?243111)
+      [ISFDB 2](http://www.isfdb.org/cgi-bin/title.cgi?243111),
       [Archive 2](https://archive.org/details/Dynamic_Science_Fiction_v01n03_1953-06_slpn/page/n81/mode/2up)
  * "The Plot-Forms of Science Fiction"
-     - #1 of 2, vol 1, no 5 (Oct 1953), pp 44-53 
-       [ISFDB 3](http://www.isfdb.org/cgi-bin/title.cgi?249361)
+     - 1 of 2, vol 1, no 5 (Oct 1953), pp 44-53 
+       [ISFDB 3](http://www.isfdb.org/cgi-bin/title.cgi?249361),
        [Archive 3](https://archive.org/details/Dynamic_Science_Fiction_v01n05_1953-10_slpn/page/n43/mode/2up)
-	- #2 of 2 , vol 1 No 6 (Jan 1954), p.37-43 
-      [ISFDB 4 "2 of 2"](http://www.isfdb.org/cgi-bin/title.cgi?254761)
+	- 2 of 2 , vol 1 No 6 (Jan 1954), p.37-43 
+      [ISFDB 4 "2 of 2"](http://www.isfdb.org/cgi-bin/title.cgi?254761),
       [Archive 4](https://archive.org/details/Dynamic_Science_Fiction_v01n06_1954-01_sleipnir-reconstructed/page/n35/mode/2up)
 
 NB. I can not unreservedly recommend the 'epub' versions of the above 4 books.  The OCR is poor, possibly because of the (acid)pulp discoloration of the paper. I could read them but i'm used to interpolating for bad OCR of Victorian books!

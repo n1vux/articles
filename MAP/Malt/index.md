@@ -18,7 +18,7 @@ His quest, called &quot;Primary Research Area&quot;, was to find another bottle 
     * [1995-1996 posts to MALTS-L](MOHM-on-Malts-L.html) - selected messages regarding the MOHM
     * need to find ?meaty digression on why I strongly prefer "grades" to numeric scores?
     * [Supplementary Information and Illustration](psuppl.html) (2001)
-    * [Postumous Postscripts: Denoument, Nemesis, &amp; Epilogues](./postpost.html) (2011)
+    * [Posthumous Postscripts: Denouement, Nemesis, &amp; Epilogues](./postpost.html) (2011)
     * [A Tasting For Mike (the Wake)](./tasting.html) - Mike catered his own wake: we samples some of the best of his Scotch cache.
 
 * The Research Notes - Scotch notes from before Blogs (4th Ed, 1996)
@@ -53,7 +53,7 @@ The (D)ARPAnet/MILnet/DDN Internet Research Group (IRG) networking folks had per
 
 > I replied that I had known that, but was pleased with the information anyway 
 > since it would make the event all the more memorable. 
-> Then I added that I hadjust realized I'd have had to remember it forever anyway, 
+> Then I added that I had just realized I'd have had to remember it forever anyway, 
 > since it was, after all, the first talk I'd ever given 
 > that had received a standing libation.
 
