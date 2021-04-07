@@ -45,10 +45,10 @@ His primary quest was to find another bottle of the semi-mythical A&N MOHM Glen 
 
 MAP was one of the Old Network Boys (as he said), member of the Network Working Group, author of multiple  ARPAnet/Internet RFCs and white papers on computer Networking, and recast some of them into a book, **The Elements of Networking Style**.
 
-[MAP - A Bibliography](./RFC/) *TBD coming soon*
+[MAP - A Bibliography](./RFC/) 
 
-* The Elements of Networking Style (The Book)
-* And They Argued All Night... (techno-history memoir)
+* *The Elements of Networking Style* (The Book)
+* *And They Argued All Night...* (techno-history memoir)
 * RFCs and quotations
 
 ## The Wake
@@ -58,4 +58,6 @@ MAP was one of the Old Network Boys (as he said), member of the Network Working 
 * Testimonial from fellow Old Network Boy, Vint Cerf
 
 All contents &copy; 2011, 2021 The Literary Estate of Michael A. Padlipsky & William D. Ricker
-except as otherwise marked
+except as otherwise marked.  
+
+[Feedback](https://github.com/n1vux/articles/issues/new/choose)

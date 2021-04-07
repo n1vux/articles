@@ -14,6 +14,10 @@
 
 * [Other Works](#other-works) ??TBD???
 
+* [Up to MAP home](../)
+
+* [Feedback](https://github.com/n1vux/articles/issues/new/choose)
+
 
 # More than Pulp(?): Science Fiction and the Problem of Literary Merit
 
