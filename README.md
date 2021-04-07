@@ -6,3 +6,5 @@ This Repository drives a github.io website. Anything i want to publish goes here
 The largest section is devoted to the Literary Estate of M A Padlipsky.
 
 Other things will appear as whimsy strikes. 
+
+You can provide feedback by using the **new issue** button on the **Issues** tab.
