@@ -1,0 +1,1 @@
+pandoc -s -o potys.html --css ../../pandoc.css -f markdown potys.md
