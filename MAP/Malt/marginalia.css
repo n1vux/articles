@@ -9,7 +9,7 @@ body{
 	margin-left: 16em; /* to match footnote margin, MAP liked margins, and make it universal*/
    margin-right: 16em;
 }
-span {
+span.footnote {
 	visibility: hidden; /* hidden for popup, need individual #fn3 href anchor names to avoid bad scroll; side gloss is better anyway */
 /*	visibility: visible; /* toggle */ 
 	position: absolute;

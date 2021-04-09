@@ -1,2 +1,6 @@
 *~
+*.swp
+*.old
+*.lst
+*.todo
 MAP/SciFi/00_notes_DO_NOT_COMMIT.md
