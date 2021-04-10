@@ -19,7 +19,7 @@
 * [Feedback](https://github.com/n1vux/articles/issues/new/choose)
 
 
-# More than Pulp(?): Science Fiction and the Problem of Literary Merit
+# More than Pulp(?): Science Fiction and the Problem of Literary Meritfo
 
 
 ## The ?First? (?Second?) Thesis on SciFi as LitCrit.
@@ -27,7 +27,7 @@
 MIT graciously returned to M.A.P., in 2003, copyright to M.A.P.'s 1960 Bachelor's Thesis. 
 
 * [More than Pulp(?): Science Fiction and the Problem of Literary Merit (pdf)](./SciFi/TheThesis.pdf)
-* [Same as HTML pages](./tt/) - **recommended,** to see the retrospective commentary.
+* [Same as HTML pages](./tt/0cover-t.html) - **recommended,** to see the retrospective commentary.
 * anecdotes related thereto below
 
 
@@ -107,14 +107,19 @@ And it's been expanded and emended as a real book, 2018.
 > "James Gunn--one of the founding figures of science fiction scholarship and teaching--wrote in 1951 what is likely the first master's thesis on modern science fiction. Portions were in the short-lived pulp magazine Dynamic but it has otherwise remained unavailable. Here in its first full publication, the thesis explores many of the classic Golden Age stories of the 1940s and the critical perspective that informed Gunn's essential genre history Alternate Worlds and his anthology series The Road to Science Fiction. The editor's introduction and commentary show the historical significance of Gunn's work and its relevance to today's science fiction studies."
 
 
-## POTY: Puns of the Year
+## Letters and Other Literary Works
+
+### POTY: Puns of the Year
 
 * one pun of the year is in the [Malts](../Malt/index.html#pun-of-the-year-for-1986) section 
-* TBD the rest appear here yet ...
+* [MAP's reconstructed list of POTYs](Letters/potys.html)
 
-## Other Works
+### Letters and Op Eds
 
-* tbd
+* ["A Small Plan for the Reform of the Political Process"](./Letters/smallplan.html) - *a Swiftian modest proposal from 1973 Watergate summer, relevant again in 2021.*
+* TBD - 
+
+### Limericks ?
 
 *Alas as the classic anon. limerick states,*
 
