@@ -30,6 +30,8 @@ His quest, called &quot;Primary Research Area&quot;, was to find another bottle 
 
 ## Pun of the Year for 1986
 
+(Other Puns of the Year [(POTYs)](../SciFi/Letters/potys.html) are filed under [Literary Works](../SciFi/index.html#letters-and-other-literary-works).)
+
 The (D)ARPAnet/MILnet/DDN Internet Research Group (IRG) networking folks had periodic meetings in London and NATO regarding the digitization of allies. Mike regularly stopped off in Scotland on the way home.
 
 > I was asked to give a talk at Edinburgh University, 

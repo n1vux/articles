@@ -55,9 +55,9 @@ putting Asimov in his place, something few ever accomplished, let alone agreeabl
 
 ### Corollary to Sturgeon's Law
 
-MAP also has a corollary for **Sturgeon's Law**. Ted Sturgeon, primary subject of Mike's thesis on SciFi as Lit Crit, famously replied to the criticism  "*90% of Science Fiction is Crap*" that "*90% of Everything is Crap."  **Padlipsky's Corollary** to Sturgeon's Law is that "*Sturgeon's Law must be applied recursively.*"
+MAP also has a corollary for **Sturgeon's Law**. Ted Sturgeon, primary subject of Mike's thesis on SciFi as Lit Crit, famously replied to the criticism  "*90% of Science Fiction is Crap*" that "*90% of Everything is Crap."  **Padlipsky's Corollary** to Sturgeon's Law is that "*Sturgeon's Law must be applied recursively.*"  
 
-(And if you read the prefatory afterthoughts on the Thesis, you'll what happened when MAP asked Ted about it.)
+(And if you read the [prefatory afterthoughts](./tt/01about.html) on the Thesis, you'll what happened when MAP asked Ted about the Law and Corollary.)
 
 ## Oh Shoot, Gunn Shot First (the other first thesis)
 
@@ -120,17 +120,24 @@ And it's been expanded and emended as a real book, 2018.
 ### Letters and Op Eds
 
 * ["A Small Plan for the Reform of the Political Process"](./Letters/smallplan.html) - *a Swiftian modest proposal from 1973 Watergate summer, relevant again in 2021.*
-* TBD - 
+* Others TBD - 
 
 ### Limericks ?
 
 *Alas as the classic anon. limerick states,*
 
-> The limerick packs laughs anatomical
-> Into space that is quite economical.
-> But the good ones I've seen
-> So seldom are clean
-> And the clean ones so seldom are comical
+### MAP-phorisms
+
+* See [Quotable Padlipsky]() and appendxi of The Book for technical aphorisms
+* **Padlipsky's corollary to Murphy's law**: Every silver lining has a cloud around it.
+* **[Padlipsky's corollary to Sturgeon's Law](#corollary-to-sturgeons-law)**.
+* **[Padlipsky's Law](./tt/01about.html#padlipskys_law)** regarding proof-reading.
+
+> The limerick packs laughs anatomical <br />
+> Into space that is quite economical. <br />
+> But the good ones I've seen <br />
+> So seldom are clean <br />
+> And the clean ones so seldom are comical.
 
 *so your humble editor is unclear what limericks and of-the-day Letters to the Editor might be republishable today.*
 

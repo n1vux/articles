@@ -26,8 +26,8 @@ This was for 35 years presumed to be the first academic thesis on SciFi as LitCr
 * [SciFi &amp; Literary  Section](./SciFi/)
 * The Thesis on SciFi as LitCrit, and anecdotes related thereto;
 * Puns of the Year;
-* Essays, Letters, etc.;
-* the problem with limericks has been rhymed upon ... so maybe not coming.
+* Essays, Letters, etc.; Swiftian political Satire.
+
 
 
 ## the Scotch proto-Blogger
@@ -44,13 +44,14 @@ His primary quest was to find another bottle of the semi-mythical A&N MOHM Glen 
 
 ## Technical Contributions in Internetworking
 
-MAP was one of the Old Network Boys (as he said), member of the Network Working Group, author of multiple  ARPAnet/Internet RFCs and white papers on computer Networking, and recast some of them into a book, **The Elements of Networking Style**.
+MAP was one of the Old Network Boys (as he said), member of the Network Working Group &amp; Internet Research Group, author of multiple  ARPAnet/Internet RFCs and white papers on computer Networking, and recast some of them into a book, **The Elements of Networking Style**. And also some delicious "constructively snotty" criticism of matters of "technicoaesthetics" in networking.
 
 [MAP - A Bibliography](./RFC/) 
 
 * *The Elements of Networking Style* (The Book)
 * *And They Argued All Night...* (techno-history memoir)
-* RFCs and quotations
+* index to RFCs 
+* quotations
 
 ## The Wake
 
