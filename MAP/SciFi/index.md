@@ -10,9 +10,12 @@
 	   - [Corollary to Sturgeon's Law](#corollary-to-sturgeons-law)
    * [Oh Shoot, Gunn Shot First (the other first thesis)](#oh-shoot-gunn-shot-first-the-other-first-thesis)
 
-* [POTY: Puns of the Year](#poty-puns-of-the-year)
+* [Other Works](#letters-and-other-literary-works)
 
-* [Other Works](#other-works) ??TBD???
+    - [POTY: Puns of the Year](#poty-puns-of-the-year)
+
+    - [Letters, Op Eds, Other essays](#letters-and-op-eds)
+
 
 * [Up to MAP home](../)
 

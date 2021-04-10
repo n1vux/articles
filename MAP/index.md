@@ -23,9 +23,10 @@ MIT graciously returned, in 2003, copyright to M.A.P.'s 1960 Bachelor's Thesis,
 
 This was for 35 years presumed to be the first academic thesis on SciFi as LitCrit, but no, writer and academic James E Gunn (1923-2020) did his 1951 M.A. thesis first. (Had the Internet been available in 1960, a literature search would have found it, or at least the 1958 reference to it.) Likely still the earliest Bachelors Thesis, and it centers Literary Merit right in the title.
 
-* [SciFi Section](./SciFi/)
-* anecdotes related thereto (coming!)
-* Puns of the Year (coming!)
+* [SciFi &amp; Literary  Section](./SciFi/)
+* The Thesis on SciFi as LitCrit, and anecdotes related thereto;
+* Puns of the Year;
+* Essays, Letters, etc.;
 * the problem with limericks has been rhymed upon ... so maybe not coming.
 
 
