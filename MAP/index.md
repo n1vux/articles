@@ -9,7 +9,7 @@ All contents &copy; 2011, 2021 The Literary Estate of Michael A. Padlipsky & Wil
 Michael A Padlipsky was born in NJ in 1939, grew up and attended school in Westminster, LA County, California, graduated from MIT, attended BU grad school, and worked as a systems programer/architect on 
 
 * [SAGE](https://en.wikipedia.org/wiki/SAGE_(computer)), 
-* [MIT Project MAC](https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory#Project_MAC) CTTS &amp; MULTICS,
+* [MIT Project MAC](https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory#Project_MAC) [CTSS](https://multicians.org/thvv/7094.html) &amp; [MULTICS](https://multicians.org/),
 * [(D)ARPAnet](https://en.wikipedia.org/wiki/ARPANET) NWG, [Internet](https://en.wikipedia.org/wiki/Internet) [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force), & [MILnet+DDN](https://en.wikipedia.org/wiki/MILNET), specializing in Protocols (FTP,HFEP,TCP/IP).
 
 During his working life, he lived in Cambridge MA, the DC area, Arlington MA, and finally returned to his boyhood bungalo in LA County, where he retired.
@@ -50,14 +50,14 @@ MAP was one of the Old Network Boys (as he said), member of the Network Working 
 
 * *The Elements of Networking Style* (The Book)
 * *And They Argued All Night...* (techno-history memoir)
-* index to RFCs 
+* index to RFCs
 * quotations
 
 ## The Wake
 
 
 * [A Tasting For Mike](./Malt/tasting.html) -- catered from his own Scotch collection
-* Testimonial from fellow Old Network Boy, Vint Cerf
+* Featuring a [Testimonial](./Malt/tasting.html#oration) from fellow Old Network Boy, Vint Cerf
 
 All contents &copy; 2011, 2021 The Literary Estate of Michael A. Padlipsky & William D. Ricker
 except as otherwise marked.  
