@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="pandoc.css" type="text/css" />
+</head>
+<body>
+<h1 id="oopsie-fixed">Oopsie Fixed</h1>
+<h2 id="careful-with-rsync-direction-or-else">Careful with rsync direction or else</h2>
+<p>In the rush before Thanksgiving, I <code>rsync</code>'d my desktop to laptop backwards. Which deleted all files on my desktop's personal directory that were new since the last sync. (using <code>rsync -d</code> delete, so that renames aren't duplicated; but finger error, i was pushing not pulling, using wrong alias command, oops argh).</p>
+<p>I did manage to grab the whole scrollback in laptop terminal listing all the deleted files, good.</p>
+<p>(Looked to have a lot of things that were previously merged with hardlink(8) to save space! Unexpected as the push <code>rsync</code> did have <code>-H</code> to preserve hardlinks?.)</p>
+<p>Desktop <code>/home</code> is formatted <strong><code>ext4</code></strong>, a journalling filesystem, so this should be easy, right ? It's not quite as sparkly-shiny as btrfs but good enough?</p>
+<h2 id="googling-found-two-alternatves-for-undeleting-ext4-using-journal">Googling found two alternatves for undeleting ext4 using journal</h2>
+<p>A quick Google from the laptop found two choices</p>
+<h3 id="ext4magic">ext4magic</h3>
+<ul>
+<li><a href="https://gist.github.com/ebautistabar/cca12863e6335d08a019f015f53fac4a">Recovering deleted files in Ubuntu with ext4 filesystem</a></li>
+<li>recommends <code>ext4magic</code></li>
+<li>first step ASAP: save copy of device journal<br />
+<code>sudo debugfs -R &quot;dump &lt;8&gt; /opt/sda1.journal&quot; /dev/sda1</code></li>
+<li>only then do apt install if needed</li>
+<li>options control automation, doesn't work with explicit list</li>
+</ul>
+<h3 id="extundelete">extundelete</h3>
+<ul>
+<li><a href="https://askubuntu.com/questions/217606/undelete-files-on-ext4">undelete files on ext4 (ask ubuntu)</a></li>
+<li>recommends <code>extundelete</code></li>
+<li>has multiple options, including ability to use a list of files to un-delete</li>
+<li>but lacks a <code>--dry-run</code> mode?</li>
+</ul>
+<h3 id="comparecontrast">compare/contrast</h3>
+<ul>
+<li>both :</li>
+<li>require rebooting to recovery mode menu, <code>start network</code>, <code>root shell</code>, <code>umount /home</code> (or whatever) to work</li>
+<li>require a working directory on another device e.g. <code>/opt</code> (not <code>/tmp</code> as it is likely cleaned on boot)</li>
+</ul>
+<h2 id="my-solution">My solution</h2>
+<ul>
+<li>save the device journal to <code>/opt</code> as instructed (by <code>ext4magic</code> page)</li>
+<li>and <code>mkdir /opt/me</code> and transfer the list of missing files captured on laptop there too</li>
+<li>Install: <code>sudo apt-get install ext4magic extundelete</code></li>
+<li>Reboot to singleuser recovery (&quot;advanced options&quot;, <code>umount /home</code> to dismount (or whereever was hurt!)</li>
+<li>Need a place to recover to, off the device being recovered - <code>mkdir /opt/me/recovery</code></li>
+<li>since I had a list of files, I tried to edit the list to match the format needed for <code>extundelete --restore-files listfile</code> but either it needed different --flags than I guessed or my choice of path prefix to match was wrong; it didn't work for me. I think I tried the <code>--restore-directory</code> version in the webpage also. Nope.</li>
+<li>then I tried <code>ext4magic</code> with the journal cache as recommended, first in list mode (like a dry run) and then do-it; worked like a charm. (Example has hardcoded date time_t in second command, but repeating the <code>$(date... +%s)</code> by history editing -l to -r etc is fine.)</li>
+<li>Ownership : <code>chown -r me:me ./recovery</code> (there's a stronger form <code>ext4magic -R</code> instead of <code>-r</code> that might have recovered this, but i didn't feel like trying the stronger form , on without understanding the rest of implications.)</li>
+<li>Put them back in the right placeP <code>cd ./recovery; cp -ar * /home/me/there/.</code></li>
+</ul>
+</body>
+</html>

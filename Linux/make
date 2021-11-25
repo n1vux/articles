@@ -1,0 +1,2 @@
+#
+pandoc -s -o ext4magic.html --css pandoc.css   -f markdown  ext4magic.md 
