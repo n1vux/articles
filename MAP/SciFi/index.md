@@ -48,7 +48,7 @@ MAP was a master of snark and sarcasm. One anecdote illustrating that and releva
 
 At one point in MAP's presentation of the question of literary merit in Sturgeon *et al.*, Asimov interrupted:  “A literary word has never passed my typewriter”.
 
-Without missing a eat, Mike replied, “As the resident expert, I concur”, thus
+Without missing a beat, Mike replied, “As the resident expert, I concur”, thus
 putting Asimov in his place, something few ever accomplished, let alone agreeably.
 
 (Harlan tried, but was merely disagreeable.)
@@ -128,7 +128,7 @@ And it's been expanded and emended as a real book, 2018.
 
 ### MAP-phorisms
 
-* See [Quotable Padlipsky]() and appendxi of The Book for technical aphorisms
+* See [Quotable Padlipsky]() and appendix of The Book for technical aphorisms
 * **Padlipsky's corollary to Murphy's law**: Every silver lining has a cloud around it.
 * **[Padlipsky's corollary to Sturgeon's Law](#corollary-to-sturgeons-law)**.
 * **[Padlipsky's Law](./tt/01about.html#padlipskys_law)** regarding proof-reading.
