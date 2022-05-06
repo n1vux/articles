@@ -12,3 +12,4 @@
 ## Linux
 
 * [Ooopsie, or how ext4magic saved Thanksgiving](./Linux/ext4magic.html) ([md](./Linux/ext4magic.md))
+* [Choice of Clipboard Mangers for Ubuntu](./Linux/Clipboards.html)
