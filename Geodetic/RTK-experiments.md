@@ -31,12 +31,12 @@ We get a false sense of accuracy from phone, car, hiking GPS.
 
 If we mark a point with a GPS and then ask for directions to get back there, it likely takes us to the right place close enough, as buildings/driveways are _almost_ far enough apart to be _mostly_ non-overlapping in error. Most people don't need 1m, 0.1m, or 1cm accuracy.
 
-If you download the "tracks" off a GPS that was left on in a parked car, you'll see a random "star" as the position computed varies this way and that. A disturbingly large star, that shows that only with a very long term average could you compute a 1m position. My Garmin GPS peering through a windshield-shaped hole with trees and house partially blocking what little sky it could see drew a 50×15m (150×50') error star for us. If the nearest houselots weren't vacant, many of the points in the star if chosen at random (whenever one hits the "save" button) the position wouldn't obviously be associated with my house! But the _centeroid_ of the star-cloud is roughly correct (slightly offset away from the house by i presume reflections).
+If you download the "tracks" off a GPS that was left on in a parked car, you'll see a random "star" as the position computed varies this way and that. A disturbingly large star, that shows that only with a very long term average could you compute a 1m position. My Garmin GPS peering through a windshield-shaped hole with trees and house partially blocking what little sky it could see drew a 50×15m (150×50') error star for us. If the nearest house-lots weren't vacant, many of the points in the star if chosen at random (whenever one hits the "save" button) the position wouldn't obviously be associated with my house! But the _centroid_ of the star-cloud is roughly correct (slightly offset away from the house by i presume reflections).
 
 ![Driveway Error Star](Driveway-Star.png "a driveway error star")
 
 Native GPS precision/resolution in Civilian mode is 30m; a 5 minute average can improve that to 5m, 12 hours average to maybe 1m?
-Dual Frequency L1+L2 and DGPS correciton signals can improve that slightly, since the ionosphere bends L1 and L2 bands differently, but not by much. Military grade only improves on codeless L1+L2 20%. (They didn't want us that close but algorithms are winning.)
+Dual Frequency L1+L2 and DGPS correction signals can improve that slightly, since the ionosphere bends L1 and L2 bands differently, but not by much. Military grade only improves on codeless L1+L2 20%. (They didn't want us that close but algorithms are winning.)
 
 If one wants to map things smaller than a house accurately, or things hard to see from medium distance away (10-50m) even dual L1+L2 & classical DGPS/WAAS isn't good enough. 
 
@@ -45,7 +45,7 @@ Which is why surveyors use GPS equipment that is capable of correcting for all t
 
 ![Professional GPS](Pro-Survey-RTK-A30.jpg "Professional Survey GPS")
 
-These devices cost less than new cars, but i've seen used cars for less lately. With a long-term occupation, it can get a ±1cm accurate position on the tripod, and then can share that accuracy with the portable GPS on a surveyor's rod.
+These devices cost less than new cars, but I've seen used cars for less lately. With a long-term occupation, it can get a ±1cm accurate position on the tripod, and then can share that accuracy with the portable GPS on a surveyor's rod.
 
 * What is RTK? 
 
@@ -61,7 +61,7 @@ In the simplest form, a **base station** on a _precisely_ known location records
 
 Subscription may be commercial, open/free, private, or public by e.g. MassDOT, MaineDOT (free, registration required). One can connect to the nearest station of the network by name (having looked up which is nearest) or a network may provide a Virtual base by weighted-averaging several nearest bases to derive a virtual correction for your location instead of just giving the nearest. (This requires disclosing your location to the Network.)
 
-†( Why bother _calling_ it RTK? Because there is an _alternative_ phase-difference enhancement scheme, requiring same high-end GNSS receiver hardware, that is **non**-real-time, **non**-kinematic, that compares _logged_ recieved phases - logging for 12+ satellites in both L1 and L2 bands - at both a known base-station and an unknown station, logged over many hours, unmoving, with the log comparision and calculation done _later_ to get just one (nearly) _perfect_ location solution for the unknown base. Can be < ±1cm if close enough to the known base which was already known that well. This is great for professional surveyors setting up a chain of known positions extending from the nearest public base for their future use in their remote territory, moving their own base unit around. There's also a compromise that doesn't use Internet or data radios, so is not real-time but is still kinematic: One can also log raw data while moving around and capturing approximate GPS points, and compare raw field logs to base logs later, back in the office, to get corrected positions for the points collected in the field. )
+†( Why bother _calling_ it RTK? Because there is an _alternative_ phase-difference enhancement scheme, requiring same high-end GNSS receiver hardware, that is **non**-real-time, **non**-kinematic, that compares _logged_ received phases - logging for 12+ satellites in both L1 and L2 bands - at both a known base-station and an unknown station, logged over many hours, unmoving, with the log comparison and calculation done _later_ to get just one (nearly) _perfect_ location solution for the unknown base. Can be < ±1cm if close enough to the known base which was already known that well. This is great for professional surveyors setting up a chain of known positions extending from the nearest public base for their future use in their remote territory, moving their own base unit around. There's also a compromise that doesn't use Internet or data radios, so is not real-time but is still kinematic: One can also log raw data while moving around and capturing approximate GPS points, and compare raw field logs to base logs later, back in the office, to get corrected positions for the points collected in the field. )
 
 
 ## Open-ness
@@ -79,10 +79,10 @@ Subscription may be commercial, open/free, private, or public by e.g. MassDOT, M
         - for the ESP32 and device UI [git](https://www.sparkfun.com/products/18590)
         - but **not** for F9P, which requires a proprietary firmware blob that implements core GPS
     - Free _&/or_ Open Software
-        - recommended starter Collector App is _Free as in Beer_ but **not** Open. [**SW Maps**](http://softwel.com.np/mobile_products) ([manual](http://softwel.com.np/images/download_manual/SW%20MAPS5.pdf)), built for local OpenStreetMap mappers in Nepal. ([youtube tutorials](https://www.youtube.com/playlist?list=PLBx4b7EynYBAl4niXT4MYWMG7EqpPUgHr); same fellow has a couple of QGIS tutorials also!)
+        - recommended starter Collector App is _Free as in Beer_ but **not** Open. [**SW Maps**](http://softwel.com.np/mobile_products) ([manual](http://softwel.com.np/images/download_manual/SW%20MAPS5.pdf)), built for local OpenStreetMap mappers in Nepal. ([YouTube tutorials](https://www.youtube.com/playlist?list=PLBx4b7EynYBAl4niXT4MYWMG7EqpPUgHr); same fellow has a couple of QGIS tutorials also!)
         - two FLOSS Collector App alternatives need patches in App and/or RTK-Express-Plus firmware to work via WiFi+BT; one or both _might_ work on *some* tablets via USB to RTK (I haven't tested that yet):
             - [**Vespucci**](https://vespucci.io/) OSM editor for Android (competitor to OSMAND?), knows about external GPSs), assumes you want to upload points and lines to OSM; tutorials don't document how can it act as a collector for non-OSM projects.
-            - [**QField**](https://qfield.org/) FLOSS GIS field collector app specifially optimized for QGIS projects, but can export KML as well as GPKG and GeoJSON, so not tied to QGIS.
+            - [**QField**](https://qfield.org/) FLOSS GIS field collector app specifically optimized for QGIS projects, but can export KML as well as GPKG and GeoJSON, so not tied to QGIS.
             - All three are usable with Android tablet/phone's native GPS, and *should eventually* also be able to work with enhanced precision with RTK via BT/WiFi/USB. Alas only the non-FLOSS freeware works out of the box reliably _today_.
     - other **Open Hardware**-ish projects using GPS and Rubidium for Precise Time, part of the [Open Compute](https://www.opencompute.org/) [Time Appliances](https://www.opencompute.org/wiki/Time_Appliances_Project) project
         - [TimeBeat](https://timebeat.app/) [Time4Pi GNSS Raspberry Pi CM4 module](https://store.timebeat.app/products/gnss-raspberry-pi-cm4-module) (not yet for sale; currently uses proprietary u-Blox chip and u-Blox firmware, working towards Open Firmware. Only compatible with CM4 since needs higher-end proprietary Broadcom NIC with [Precise Time Protocol (PTP)](https://en.wikipedia.org/wiki/Precision_Time_Protocol) onboard)
@@ -112,7 +112,7 @@ Subscription may be commercial, open/free, private, or public by e.g. MassDOT, M
         My first expedition is just within 25km radius of the nearest Maine CORS base-station;    
         a professional survey outside of radius would need to provide their own base on a <±1cm mark to achieve cm accuracy.  
         ![Google Earth plan](Alna-Cem-Annotated.png "Google Earth plan")  
-        I geo-refereneced the [WPA map of the cemetery](https://digitalmaine.com/arc_wpa-cemetery/) in GEarth(Pro). (I need to learn to do that in QGIS.)
+        I geo-referenced the [WPA map of the cemetery](https://digitalmaine.com/arc_wpa-cemetery/) in GEarth(Pro). (I need to learn to do that in QGIS.)
         And then set markers for known ancestors (and a few select Uncles+Aunts) using Plot Numbers from [FindAGrave.com](https://www.findagrave.com/cemetery/89622/memorial-search?firstname=&middlename=&lastname=Walker&cemeteryName=Alna+Cemetery&birthyear=&birthyearfilter=&deathyear=&deathyearfilter=&memorialid=&mcid=&linkedToName=&datefilter=&orderby=n&plot=&includeMaidenName=true&page=2#sr-49665532).   
         **Note** This WPA map is North right, viewed from road, downhill, as will be a couple screenshots, but then we will switch **North** up.
         ![Lt Uncle Neal](Neal-FaG.png "Lt Uncle Neal")
@@ -122,7 +122,7 @@ Subscription may be commercial, open/free, private, or public by e.g. MassDOT, M
         ![](SW_Maps_Alna_4.jpg "")
         The sunset icons show where a photo was gathered. Track isn't currently showing on this view.
         ![Compare RTK to normal GPS track](Compare-RTK-TG6-ground-tracks.png "Compare RTK to normal GPS track")
-        My camera's GPS was logging as i walked also. Let's compare the precision. Red Points on a dusty-rusty line are the normal GPS track points, connect the dots. Bright blue line is the RTK ground track.  On a few loops, the regular GPS Track tracks the RKT track _reasonably_ well if crudely, but others are just whacky - at no point did i jump the fence or even cross the drive north!
+        My camera's GPS was logging as i walked also. Let's compare the precision. Red Points on a dusty-rusty line are the normal GPS track points, connect the dots. Bright blue line is the RTK ground track.  On a few loops, the regular GPS Track tracks the RTK track _reasonably_ well if crudely, but others are just whacky - at no point did i jump the fence or even cross the drive north!
         ![Plan and Photo points in QGIS](QGIS-Alna-Plan+Photos.png "Plan and Photo points in QGIS")
         Here the red-dots are from the Photo layer. At each headstone, i took a PHOTO using not my camera but using the **SW Maps** program on the **tablet**, which not only geotagged the photo at high precision, it included it in the Photos layer of the GIS project. Here we've imported the Photos layer together with the planning layer. Some of the stones are rather far from their plan point, but those could be funny-shaped larger plots. (Or bad metadata in grave index.) Note how far the highlighted red dot (Nathaniel Plummer in right hand detail panel) is from his plot marker.
         ![Stone of Nat'l Plummer](NatlPlummer-726.jpg "Stone Nat'l Plummer")
@@ -132,22 +132,22 @@ Subscription may be commercial, open/free, private, or public by e.g. MassDOT, M
 * Caveats
 
     - Coordinate Reference System:  
-    With an RTK system, you get coordinates in the US national referencesystem, 
+    With an RTK system, you get coordinates in the US national reference system, 
     which is slightly different from the normal GPS and GMaps "WGS84" reference system.  
     To get sub-meter accuracy you have to understand and account for this, but
     the details would be an entire other talk and are thus omitted.
 
 * Glossary
     - [Networked Transport of RTCM via Internet Protocol (NTRIP)](https://en.wikipedia.org/wiki/Networked_Transport_of_RTCM_via_Internet_Protocol)
-    - [differential GPS (DGPS) ](https://en.wikipedia.org/wiki/Differential_GPS) can conceptually cover a range of correction enhancement techniques. Spcifically referred to  original LF harbor broadcasts to locally correct Selective Availability time offset for mariners (and VHF for air). Largely supplanted by WAAS (& end of SA). RTK is conceptually in the same family but moreso, transmitting corrections for subtler forms of error.
+    - [differential GPS (DGPS) ](https://en.wikipedia.org/wiki/Differential_GPS) can conceptually cover a range of correction enhancement techniques. Specifically referred to  original LF harbor broadcasts to locally correct Selective Availability time offset for mariners (and VHF for air). Largely supplanted by WAAS (& end of SA). RTK is conceptually in the same family but more-so, transmitting corrections for subtler forms of error.
     - [real-time kinematic positioning (**RTK**)](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning)
-    - [GPS: USA brand of GNSS](https://en.wikipedia.org/wiki/GNSS); orther sats are usable simultaneoulsy.
+    - [GPS: USA brand of GNSS](https://en.wikipedia.org/wiki/GNSS); other sats are usable simultaneously.
     - [Wide Area Augmentation System (WAAS)](https://en.wikipedia.org/wiki/Wide_Area_Augmentation_System), US GPS brand of (GNSS augmentation](https://en.wikipedia.org/wiki/GNSS_augmentation)
     - [GNSS enhancement](https://en.wikipedia.org/wiki/GNSS_enhancement) latest generation of max precision. Codeless L1/L2, carrier-phase tracking, and RTK
     - Radio Technical Commission for Maritime Services (**RTCM**) standardized RTCM Messages for RTK corrections.
     - [National Marine Electronics Association (NMEA)](https://en.wikipedia.org/wiki/National_Marine_Electronics_Association) standardized format for raw GPS output, [**NMEA sentence format**](https://en.wikipedia.org/wiki/NMEA_0183#NMEA_sentence_format).
     - [spatial reference system (SRS) or coordinate reference system (CRS)](https://en.wikipedia.org/wiki/Spatial_reference_system)
-    - [Continuously Operating Reference Station (CORS)](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning#CORS) "a network of real-time kinematik (RTK) base stations that broadcast corrections to augment the local accuracy of GNSS (e.g. GPS) readings "
+    - [Continuously Operating Reference Station (CORS)](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning#CORS) "a network of real-time kinematic (RTK) base stations that broadcast corrections to augment the local accuracy of GNSS (e.g. GPS) readings "
 
 # Credits and © 
 
