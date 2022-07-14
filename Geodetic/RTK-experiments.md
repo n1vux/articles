@@ -1,5 +1,26 @@
 # RTK Experiments
 
+Copyright ©  2022, William D. Ricker, and licensed [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) or later ![CC-BY-SA](CC-BY-SA_icon.svg.png).
+
+## Agenda/TOC
+
+* Intro
+    - Why is RTK
+    - What is RTK
+* Open-ness
+    - Open Hardware (and not)
+    - Open Firmware (and not)
+    - FLOSS and Gratis Apps
+* Product
+* Experiments
+    - kit
+    - test run
+    - first data collection expedition
+* Appendix
+    - Caveats
+    - Glossary
+    - Credits & ©
+
 ## Intro
 
 * Why is RTK
@@ -33,16 +54,17 @@ RTK is the latest walkabout form of enhanced GPS/GNSS position solution.
 It's called **Real Time Kinematic** because it corrects in real time, when moving.†
 
 
-![Simplified RTK network](RTK-network.png "a simplified RTK network")
+![Simplified RTK network](Real_time_kinematic.svg.png "a simplified RTK network")
+(from [wikimedia](https://commons.wikimedia.org/wiki/File:Real_time_kinematic.svg#/media/File:Real_time_kinematic.svg) © 2022 TS Eriksson - Own work [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) )
 
-In the simplest form, a base station on a known location records phase data on received GPS/GNSS sat signals, both L1 and L2 bands, and notes the corrections - and sends them to subscribers via Internet and/or direct data radio if nearby.
+In the simplest form, a **base station** on a _precisely_ known location records phase data on received GPS/GNSS sat signals, both L1 and L2 bands, and notes the corrections - and sends them to one or more **rovers** subscribers - most simply via direct data radio if nearby, as illustrated. One can insert the Internet (via cellular data in field) and consolidating servers for (a) added complexity (b) only buying one unit.
 
 Subscription may be commercial, open/free, private, or public by e.g. MassDOT, MaineDOT (free, registration required). One can connect to the nearest station of the network by name (having looked up which is nearest) or a network may provide a Virtual base by weighted-averaging several nearest bases to derive a virtual correction for your location instead of just giving the nearest. (This requires disclosing your location to the Network.)
 
 †( Why bother _calling_ it RTK? Because there is an _alternative_ phase-difference enhancement scheme, requiring same high-end GNSS receiver hardware, that is **non**-real-time, **non**-kinematic, that compares _logged_ recieved phases - logging for 12+ satellites in both L1 and L2 bands - at both a known base-station and an unknown station, logged over many hours, unmoving, with the log comparision and calculation done _later_ to get just one (nearly) _perfect_ location solution for the unknown base. Can be < ±1cm if close enough to the known base which was already known that well. This is great for professional surveyors setting up a chain of known positions extending from the nearest public base for their future use in their remote territory, moving their own base unit around. There's also a compromise that doesn't use Internet or data radios, so is not real-time but is still kinematic: One can also log raw data while moving around and capturing approximate GPS points, and compare raw field logs to base logs later, back in the office, to get corrected positions for the points collected in the field. )
 
 
-## Open 
+## Open-ness
 
 * Hardware solution that is partly Open Hardware
 
@@ -62,8 +84,9 @@ Subscription may be commercial, open/free, private, or public by e.g. MassDOT, M
             - [**Vespucci**](https://vespucci.io/) OSM editor for Android (competitor to OSMAND?), knows about external GPSs), assumes you want to upload points and lines to OSM; tutorials don't document how can it act as a collector for non-OSM projects.
             - [**QField**](https://qfield.org/) FLOSS GIS field collector app specifially optimized for QGIS projects, but can export KML as well as GPKG and GeoJSON, so not tied to QGIS.
             - All three are usable with Android tablet/phone's native GPS, and *should eventually* also be able to work with enhanced precision with RTK via BT/WiFi/USB. Alas only the non-FLOSS freeware works out of the box reliably _today_.
-
-
+    - other **Open Hardware**-ish projects using GPS and Rubidium for Precise Time, part of the [Open Compute](https://www.opencompute.org/) [Time Appliances](https://www.opencompute.org/wiki/Time_Appliances_Project) project
+        - [TimeBeat](https://timebeat.app/) [Time4Pi GNSS Raspberry Pi CM4 module](https://store.timebeat.app/products/gnss-raspberry-pi-cm4-module) (not yet for sale; currently uses proprietary u-Blox chip and u-Blox firmware, working towards Open Firmware. Only compatible with CM4 since needs higher-end proprietary Broadcom NIC with [Precise Time Protocol (PTP)](https://en.wikipedia.org/wiki/Precision_Time_Protocol) onboard)
+        - [TimeBeat](https://timebeat.app/) [Time Card]()
 * Product
     - _Warning_ - If you're used to GPS being inclusive complimentary in your phone, standalone GPS prices will be as staggering as real camera prices - like high end phone without carrier subsidy. These are still nickel-to-dime-on-the-dollar compared to Professional Surveyor packaged equipment that likely uses the same receiver chip.
     - [RTK Express Plus Kit](https://www.sparkfun.com/products/18589) - everything but the pole, tablet, and clamps.
@@ -127,7 +150,7 @@ Subscription may be commercial, open/free, private, or public by e.g. MassDOT, M
 
 # Credits and © 
 
-- Composite work © 2022 William D Ricker .
+- Composite work © 2022 William D Ricker . Licensed [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) or later
 - WPA Map is Public Domain, thanks to DigitalMaine for scanning and sharing.
 - Thanks to Greg T N1DAM for pungent commentary.
 - OpenStreetMap maps are "© OpenStreetMap contributors" used under their guidelines; the data is available under the Open Database License.

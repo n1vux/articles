@@ -1,0 +1,10 @@
+#! /bin/bash
+set -x
+
+dir=./slideshow
+export dir;
+mkdir -p $dir 
+rm -f ./$dir/*
+ack  '[!][\[][^\[]*[\]][(]\K\S+[.](?i-:jpe?g|png)' -o RTK-experiments.md  \
+  | perl -nlE 'my $fn=$_; my $seq = sprintf(q(%03d),$nn++);' \
+    -E ' say "$fn\t$seq-$fn";  link $fn, qq($ENV{dir}/$seq-$fn); '
