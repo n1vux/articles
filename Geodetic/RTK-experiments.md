@@ -86,7 +86,7 @@ Subscription may be commercial, open/free, private, or public by e.g. MassDOT, M
             - All three are usable with Android tablet/phone's native GPS, and *should eventually* also be able to work with enhanced precision with RTK via BT/WiFi/USB. Alas only the non-FLOSS freeware works out of the box reliably _today_.
     - other **Open Hardware**-ish projects using GPS and Rubidium for Precise Time, part of the [Open Compute](https://www.opencompute.org/) [Time Appliances](https://www.opencompute.org/wiki/Time_Appliances_Project) project
         - [TimeBeat](https://timebeat.app/) [Time4Pi GNSS Raspberry Pi CM4 module](https://store.timebeat.app/products/gnss-raspberry-pi-cm4-module) (not yet for sale; currently uses proprietary u-Blox chip and u-Blox firmware, working towards Open Firmware. Only compatible with CM4 since needs higher-end proprietary Broadcom NIC with [Precise Time Protocol (PTP)](https://en.wikipedia.org/wiki/Precision_Time_Protocol) onboard)
-        - [TimeBeat](https://timebeat.app/) [Time Card]()
+        - [TimeBeat](https://timebeat.app/) [Time Card](https://store.timebeat.app/products/ocp-tap-timecard)
 * Product
     - _Warning_ - If you're used to GPS being inclusive complimentary in your phone, standalone GPS prices will be as staggering as real camera prices - like high end phone without carrier subsidy. These are still nickel-to-dime-on-the-dollar compared to Professional Surveyor packaged equipment that likely uses the same receiver chip.
     - [RTK Express Plus Kit](https://www.sparkfun.com/products/18589) - everything but the pole, tablet, and clamps.
