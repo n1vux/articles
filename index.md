@@ -13,3 +13,9 @@
 
 * [Ooopsie, or how ext4magic saved Thanksgiving](./Linux/ext4magic.html) ([md](./Linux/ext4magic.md))
 * [Choice of Clipboard Mangers for Ubuntu](./Linux/Clipboards.html)
+
+## Geo-Odyssey
+
+Adventures in Geodesy
+
+* [First experiments with RTK data collection with (partially) Open Firmware/Hardware](./Geodetic/RTK-experiments.html)
