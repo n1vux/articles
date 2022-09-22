@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Bill Ricker" />
+  <title>Making Keyword Index to Bletchley Park Podcast</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="pandoc.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Making Keyword Index to Bletchley Park Podcast</h1>
+<p class="author">Bill Ricker</p>
+<p class="date">September, 2022</p>
+</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#why" id="toc-why">Why</a></li>
+<li><a href="#fetch-the-data-and-pretty-print-it"
+id="toc-fetch-the-data-and-pretty-print-it">Fetch the data and
+pretty-print it</a></li>
+<li><a href="#analyze-elements-used"
+id="toc-analyze-elements-used">Analyze elements used</a></li>
+<li><a href="#descriptions" id="toc-descriptions">Descriptions</a></li>
+<li><a href="#solution-1-hashtags-as-only-keywords"
+id="toc-solution-1-hashtags-as-only-keywords">Solution 1: Hashtags as
+only keywords</a></li>
+<li><a href="#deferred" id="toc-deferred">Deferred</a></li>
+<li><a href="#references" id="toc-references">References</a></li>
+</ul>
+</nav>
+<h2 id="why">Why</h2>
+<p>A <a
+href="https://twitter.com/VirtualColossus/status/1572294343091683328">Discussion
+on Twitter with the Pod Producer M.C.Fontaine</a> and another fan
+(<code>\@VirtualColossus</code>) raised the issue that the Pod could use
+a Keyword index. So I’ve <a href="./BPP-Keywords.html">prototyped
+one</a>.</p>
+<h2 id="fetch-the-data-and-pretty-print-it">Fetch the data and
+pretty-print it</h2>
+<p><code>wget https://audioboom.com/channels/451365.rss</code></p>
+<p><code>xml_grep --root rss --pretty_print indented 451365.rss  &gt; bpark-pod-rss.xml</code></p>
+<h2 id="analyze-elements-used">Analyze elements used</h2>
+<p>Structure is</p>
+<pre><code>rss/channel/
+   title,description,link, atom:, itunes:, audioboom:, pubDate,language, image/..., copyright
+   
+rss/channel/item/
+    title,description,enclosure,guid,link,pubDate
+    media:content,rights
+    itunes:image,duration,explicit,episodeType
+    dc:creator
+    </code></pre>
+<p>The Audioboom episode page XPath spec is <code>item/link</code>; MP3
+file is directly linked by both <code>enclosure</code> and
+<code>media/content[url]</code> (same content).</p>
+<p>Mix of RSS XML and embedded HTML in description etc; observed
+<code>&lt;tags&gt;</code> are:</p>
+<pre><code>ack &#39;&lt;(\w+)[ &gt;]&#39; --output &#39;$1&#39; bpark-pod-rss.xml | sort | uniq -c &gt; element-counts.lst
+      4 a
+    279 br
+      1 channel
+      1 copyright
+    244 description
+    997 div
+     22 em
+    243 enclosure
+    243 guid
+      1 image
+    243 item
+      1 language
+      2 li
+    245 link
+   1094 p
+    244 pubDate
+      1 rss
+      1 strong
+    245 title
+      2 ul
+      1 url
+      1 xml_grep
+</code></pre>
+<p>Additional diagnostic:</p>
+<p><code>xml_grep --root item/title --text_only bpark-pod-rss.xml | sort -o titles.lst</code></p>
+<p>Aside from titles starting E99, there are <code>Extra - E99</code>
+and <code>Intelligence Insight No. 013</code> <code>Teaser 3</code>
+series and a number of specials that will need short ids created (which
+non-series we’ll call “Specials” or <code>SP999</code> for now).</p>
+<h2 id="descriptions">Descriptions</h2>
+<p>The <code>&lt;description&gt;</code> element contains embedded
+<code>CDATA</code> HTML, that uses
+<code>&lt;div&gt; &lt;br&gt; &amp;entity; &lt;p&gt;</code> and even
+<code>&lt;em&gt; &lt;strong&gt; &lt;ul&gt;&lt;li&gt; &lt;a&gt;</code> of
+which only <code>&lt;a&gt;</code> will have attributes.</p>
+<p>Most descriptions include <code>#hashtags</code> for keywords,
+including in all but the earliest teasers and one non-numbered episode
+(which i call Specials).</p>
+<p>A first cut could just connect <code>&lt;title&gt;</code> to each
+hashtag <code>#keyword</code> in <code>&lt;description&gt;</code>.</p>
+<h2 id="solution-1-hashtags-as-only-keywords">Solution 1: Hashtags as
+only keywords</h2>
+<p><code>keywords.pl</code></p>
+<p>Reads the saved RSS XML, emits Markdown for Keywords: Episodes, with
+links to AudioBoom episode page.</p>
+<pre><code>$ perl -C keywords.pl &gt; BPP-Keywords.md  # reads bpark-pod-rss.xml 
+No hashtags for SP001 at keywords.pl line 87.
+No hashtags for SP002 at keywords.pl line 87.
+No hashtags for E105 at keywords.pl line 87.
+
+$  bash -x ./make BPP-Keywords.html
++ fn=BPP-Keywords.html
++ shift
++ echo BPP-Keywords
+BPP-Keywords
++ pandoc -o BPP-Keywords.html --css pandoc.css -s --toc --toc-depth=2 -f markdown BPP-Keywords.md</code></pre>
+<p>Since most episodes have keywords in addition to
+<code>#BletchleyPark</code> and the like, those universal tags are only
+saved if applied to a Teaser or non-series Special.</p>
+<h2 id="deferred">Deferred</h2>
+<ul>
+<li>Detect duplicate listings in RSS/XML (e.g. EX006 Extra - E06) and
+suppress one of them.</li>
+<li>Extract additional proper-noun keywords from Title and Description
+(e.g. <code>BBC</code> <code>Alan Turing</code>
+<code>Dermot Turing</code> <code>Mavis Baty</code> and detecting Enigma,
+Lorenze, Hagelin, Dollis-Hill when not hash-tagged). But de-duplicate
+these against hashtags e.g. <code>#AlanTuring</code>.</li>
+<li>Generate a neater table of contents by adjusting CSS or
+something.</li>
+<li>Consider a Tag Cloud whereby font-size denotes number of episodes
+for a keyword.</li>
+<li>Combine tags with the same spelling?</li>
+</ul>
+<h2 id="references">References</h2>
+<ul>
+<li><a href="https://linux.die.net/man/1/wget">wget</a> Command-line
+HTTP client to fetch file(s) etc</li>
+<li><a href="https://beyondgrep.com">ack</a> a text-search tool
+specifically for code; not unlike <code>grep --perl-regexp</code></li>
+<li><a
+href="https://metacpan.org/dist/XML-Twig/view/tools/xml_grep/xml_grep">xml_grep</a>
+find parts of an XML file using XPath specifications, which is included
+with</li>
+<li><a href="https://metacpan.org/pod/XML::Twig">XML::Twig</a> a Perl
+module for accessing an XML DOM (Document Object Model) via XPath
+specs.</li>
+<li><a href="https://pandoc.org/">Pandoc</a> a tool to convert document
+formats, using an extended/universal MarkDown as common format</li>
+</ul>
+</body>
+</html>

@@ -1,0 +1,4 @@
+#
+fn=$1; shift
+echo ${fn%.*}
+pandoc  -o ${fn%.*}.html --css pandoc.css -s --toc --toc-depth=2   -f markdown  ${fn%.*}.md 
