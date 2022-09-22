@@ -112,7 +112,7 @@ a Keyword index. So I've prototyped one.
 
 See [How](./how.html) for discussion of how this was
 made, known limitations, possible extensions. 
-And [Source Code](https://github.com/n1vux/articles/Cryptology/BletchleyParkPod/)
+And [Source Code](https://github.com/n1vux/articles/tree/master/Cryptology/BletchleyParkPod)
 for way too much info.
 
 # Hashtags in Episode Descriptions

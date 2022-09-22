@@ -9,6 +9,10 @@ A [Discussion on Twitter with the Pod Producer M.C.Fontaine](https://twitter.com
 and another fan (`\@VirtualColossus`) raised the issue that the Pod could use 
 a Keyword index. So I've [prototyped one](./BPP-Keywords.html).
 
+See also  [Source Code](https://github.com/n1vux/articles/tree/master/Cryptology/BletchleyParkPod)
+for way too much info.
+
+
 
 ## Fetch the data and pretty-print it
 
