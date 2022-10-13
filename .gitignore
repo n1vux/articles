@@ -3,6 +3,8 @@ nohup.out
 *~
 *.swp
 *.old
+*.bak
+*.[12334]
 *.lst
 *.todo
 MAP/SciFi/00_notes_DO_NOT_COMMIT.md
