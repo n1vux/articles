@@ -155,6 +155,7 @@ Subscription may be commercial, open/free, private, or public by e.g. MassDOT, M
 
 - Composite work © 2022 William D Ricker . Licensed [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) or later
 - WPA Map is Public Domain, thanks to DigitalMaine for scanning and sharing.
+- [MaineDOT CORS](https://mdotcors.maine.gov/) corrections feed for RTK 
 - Thanks to Greg T N1DAM for pungent commentary.
 - OpenStreetMap maps are "© OpenStreetMap contributors" used under their [guidelines](https://www.openstreetmap.org/copyright); the data is available under the [Open Database License](https://wiki.osmfoundation.org/wiki/Licence).
 - Two original photos copyright © 2022 William D Ricker.
