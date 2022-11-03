@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title>NatickF(L)OSS – Mastodon, or The Birdapp Migration</title>
+  <style type="text/css">
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" type="text/css" media="screen, projection, print"
+      href="./offline-slidy.css" />
+<!--  href="https://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" -->
+  <link rel="stylesheet" type="text/css" media="screen, projection, print"
+   href="pandoc.css" />
+  <script src="https://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js"
+    charset="utf-8" type="text/javascript"></script>
+</head>
+<body>
+<div class="slide titlepage">
+  <h1 class="title">Mastodon, or The Birdapp Migration</h1>
+</div>
+<div id="why" class="title-slide slide section level2">
+<h1>Why</h1>
+<p>I think we know why.</p>
+<p>As the bluebird app turns emerald green</p>
+</div>
+
+<div id="where-to-the-fediverse"
+class="title-slide slide section level2">
+<h1>Where to? The Fediverse !</h1>
+<p>Choice is good?</p>
+<p>Alas having had ONE place for academics, activists, and journalist to
+find eachother was useful.</p>
+<p><img src="./Fediverse.png" style="width:50.0%;height:50.0%"
+alt="The many branches of the Fediverse" /> <a
+href="https://social.xbm.se/@axbom/109275520716021795">CC BY-NC Per
+Axborm</a></p>
+</div>
+<div id="what-is-the-fediverse" class="slide section level3">
+<h1>What is the Fediverse ?</h1>
+<p>The Fedirated Universe (Fediverse) is every server that publishes and
+subscribes via W3C recommended <strong>ActivityPub</strong>
+decentralized social networking protocol, playing nicely with
+others.</p>
+<p><a href="https://fediverse.party/"
+class="uri">https://fediverse.party/</a> lists 10 major federated
+(non-centralized) social apps, with info pages for each</p>
+<p>Except as noted the following Fediverse projects are microblogging
+and were started 2014-2018.</p>
+<ul>
+<li>diaspora (<strong>Macro</strong>blogging; supports Markdown;
+2010)</li>
+<li>Friendica (<strong>Macro</strong>blogging; 2010)</li>
+<li>GNU Social (2010; first microblogging)</li>
+<li>Hubzilla (<strong>Macro</strong>blogging; channelized?)</li>
+<li><strong>Mastodon</strong></li>
+<li>Misskey</li>
+<li>PeerTube (<strong>Video</strong>)</li>
+<li>Pleroma (lightweight microblogging, so Twitterish but less?)</li>
+<li>Pixelfed (<strong>Image</strong>)</li>
+<li>Funkwhale (<strong>Audio</strong>)</li>
+</ul>
+<p>which omits forks, old-school precursors, private gardens, &amp;
+minor players that appear on charts and lists.</p>
+<div class="figure">
+<img src="./socials.dot-circo.png" style="width:50.0%;height:50.0%"
+alt="" />
+<p class="caption">connections</p>
+</div>
+<p>Key</p>
+<ul>
+<li><span style="color:lightgreen">Microblogging</span></li>
+<li><span style="color:cyan">Macroblogging</span></li>
+<li><span style="color:red">Media Streaming/Sharing</span></li>
+</ul>
+</div>
+<div id="other-choices" class="slide section level3">
+<h1>Other “choices” ?</h1>
+<p>Mostly just like Twitter, Non-Federated &amp; Centralized, but with
+additional problems; but a few are Non-Federated &amp;/or Centralized in
+some sense.</p>
+<ul>
+<li><p><strong>Private-Label Social</strong><br />
+There is (are?) <a href="https://www.disciplemedia.com/">firm(s)</a>
+selling turn-key Social Media phone+web apps that will provide a
+walled-garden community for the sponsor’s palls. At remarkably low rates
+since the app is merely branded for each client.<br />
+Likely invitation-only or sponsor’s mailing list / website only.
+<em>That reminds me i need to check the Beta …</em></p></li>
+<li><p><strong>Alt-Right choices</strong> (without fact-checking)<br />
+(which private gardens might be purchased from above vendor(s)?)</p>
+<ul>
+<li>“Truth” Social</li>
+<li>Parler</li>
+<li>Rumble ? <em>never heard of it but it’s listed</em></li>
+<li>Newsmax <em>news app’s comment section, or do they have a full
+social walled garden?</em></li>
+</ul></li>
+<li><p><strong>Old School</strong></p>
+<ul>
+<li>antique bboards/forums - Web 1.0 ports of Dialup Bulletin Boards
+(usually obsolete PHP code) e.g. <code>/.</code>, <code>reddit</code>,
+<code>4chan</code> etc, various Forums packages</li>
+<li>IRC still exists ! ( <em>even tho newer AIM, G-chat gateway, etc
+have shut down</em> )<br />
+IRC is <strong>decentralized</strong> - lots of servers - but theyre
+<strong>not</strong> Federated; so while FLOSS and standards-coforming
+for no lock-in, moving hosts is painful, as we found out when an old
+reliable FLOSS-friendly host got sold.</li>
+<li>Slack (commercial multimedia chat for corps; some FLOSS project use
+it instead of dogfooding FLOSS because they have Slack at day-job, it
+just works (same as the MacBook Air), <em>etc</em> )</li>
+<li>USEnet mostly doesn’t exist anymore (<em>and the history is hard to
+find</em>) but a few of the old news groups live yet! Somewhat Federated
+&amp; decentralized, but with Google Groups defacto Center, less so than
+in the good old days.</li>
+<li>Mailing lists ( <em>like our NatickFoss discussion list</em> ) -
+since there are list-servers other than Google,
+<strong>decentralized</strong>, and if you forward to another list,
+somewhat <strong>federated</strong> ! But very old school in handling of
+media attachments.</li>
+<li>Blogs with RSS and automatic track-back links. <strong>Federated
+&amp; decentralized</strong>.</li>
+<li>WebRings - <strong>Federated &amp; decentralized</strong>!</li>
+</ul></li>
+<li><p><strong>Counter.Social (CoSo)</strong><br />
+Overtly political Twitter-alternative, run by an anonymous, career
+Grey-hat hacktivist.<br />
+<em>Anitifa? Anarcho-Socialist? Unclear, but not GQP. Radically
+anti-troll.</em></p>
+<ul>
+<li>“No trolls. No abuse. No Ads. No fake news. No foreign ifluence
+ops.”</li>
+<li>“Deepfake Detector. Botsentinel. Identity Breach Alerts.
+Factlayer.”</li>
+<li>Private groups are supposedly E2E encrypted, which is tricky.</li>
+<li>Originally a clone/fork of Mastodon; an (A)GPL compliant fork, but
+not federated because history.</li>
+<li>Blocks countries considered by hacker-in-chief to be opposed to
+democratic West.</li>
+<li>Supports VR Goggles as well as Browser and Mobiles! ( <em>So is Meta
+before Meta™ is Meta</em> ?)</li>
+<li>( <em>Does it try to detect VPN from blocked countries?</em> )</li>
+<li><em>The promises and claims sound good technologically, one can
+debate the absolutist blocking of countries that run professional trolls
+as wise or over-reactive; but IDK who is running it, any other
+decentralization is indistiguishable from single Corp Edge, just can’t
+see what if any Corp, so interesting but wait and see for me. Also, not
+being decentralized/federated, is hit harder in Migration.</em> <a
+href="https://countersocial.documize.com/s/c30dhakp0nhtab60utag/countersocial-blog">TheJester’s
+view of history</a>; <a
+href="https://directorblue.blogspot.com/2018/10/the-anti-social-networkwhat-is.html">history&amp;interview
+by a CoSo users</a>.</li>
+</ul></li>
+</ul>
+</div>
+
+<div id="mastodon-microblogging-toot-to-the-fediverse"
+class="title-slide slide section level2">
+<h1>Mastodon Microblogging : TOOT to the Fediverse</h1>
+<p><a href="https://fediverse.party/en/mastodon/"
+class="uri">https://fediverse.party/en/mastodon/</a></p>
+<p><strong>Mastodon</strong> is the current center of the Federated
+Multi-Verse (Fediverse) per above graph from Fediverse Party data.</p>
+</div>
+<div id="not-exactly-what-youre-expecting" class="slide section level3">
+<h1>Not exactly what you’re expecting?</h1>
+<p>Instead of Tweeting, we <strong>Toot</strong>; instead of
+<code>#Twitterstorians</code>, there are <code>#Histodonts</code>; there
+is no Verified ✓ . Unless you buy a server, there’s usually no charge,
+just a <strong>tip jar</strong>.</p>
+<p>Instead of an edge-cloud with eventual-consistency distributed DB run
+by one mega corp, Fediverse is scaled by having many collaborating
+instances under separate management that collaborite, each scaling
+according to own daily output &amp; input, and funds available.</p>
+<p>Each instance server can <em>but is not required to</em> exchange
+content with (most) others, Mastodon or fork or other compatible project
+(see chart).</p>
+<p>Each instance sets it’s <strong>own content policy, moderation
+policy, privacy policy</strong>, open enrollment or invite only, etc.,
+and picks which nodes it trusts to federate with.</p>
+<p>(E.g. <a href="https://mastodon.radio">mastodon.radio</a> does NOT
+accept federation with nodes that have too loose a policy registered or
+fail to enforce their policy, e.g., <a
+href="https://masthead.social">masthead.social</a>, which is nominally
+for journalists, policy says <strong>NoSpam</strong>, but is actually
+just unmoderated spam.)</p>
+<ul>
+<li>Tutorial Video <a href="https://youtu.be/mrsiej2dpBY"
+class="uri">https://youtu.be/mrsiej2dpBY</a></li>
+<li><a href="https://axbom.com/mastodon-guide/">brief Mastodon guide for
+social media worriers</a></li>
+</ul>
+</div>
+<div id="picking-a-mastodon-server-host-node"
+class="slide section level3">
+<h1>Picking a “Mastodon server” (host node)</h1>
+<ul>
+<li><a
+href="https://carlchenet.com/the-importance-of-choosing-the-correct-mastodon-instance/">The
+Importance of Choosing the Correct Mastodon Instance</a></li>
+<li><a
+href="https://agaric.gitlab.io/raw-notes/notes/2020-07-26-choosing-a-mastodon-instance-and-why-i-joined-social-coop/">Choosing
+a Mastodon instance and why i joined Social.coop</a></li>
+<li><a href="https://instances.social/">Mastodon choice wizard</a>, can
+check out registered nodes (by appending instance name
+e.g.](https://instances.social/fosstodon.org)</li>
+<li><a href="https://joinmastodon.org/servers"
+class="uri">https://joinmastodon.org/servers</a></li>
+<li>(One could reasonably pick a server of one of the non-Mastodon but
+compatible kinds. I can’t give hints on that.)</li>
+</ul>
+<p>Many are named <code>Mastodon.${TLD}</code> but not all; can be
+whatever someone wants. (If not masto- or -don something, it may be a
+clone or an API compatible as opposed to a Mastodon instance <em>per
+se</em> , or they had a better pun.)</p>
+<ul>
+<li><a href="https://Mastodon.social">Mastodon.social</a> the original
+and default node; bilingual German and English; <em>getting hammered by
+new refugees.</em></li>
+<li><a href="https://Mastodon.xyz">Mastodon.xyz</a>(invite only temp.)
+<a href="https://mstdn.social">mstdn.social</a> <a
+href="https://mastodon.online">mastodon.online</a> alt generics</li>
+<li><a href="https://fosstodon.org">fosstodon.org</a>(waitlist), <a
+href="https://social.linux.pizza">social.linux.pizza</a>(waitlisted) -
+FOSS/FLOSS</li>
+<li><a href="https://social.coop">social.coop</a> strong code of
+conduct, activism centered, see article link above.</li>
+<li><a href="https://Mastodon.Art">Mastodon.Art</a> <a
+href="https://Mastodon.Radio">Mastodon.Radio</a> <a
+href="https://scicomm.xyz">scicomm.xyz</a> <a
+href="https://glammr.us">glammr.us</a> (museums galleries archives) <a
+href="https://tenforward.social">tenforward.social</a> <a
+href="https://tabletop.social">tabletop.social</a> … special interest
+communities</li>
+<li>have your own!! Turnkey hosting at usual suspects’ DigitalOcean,
+Exoscale, <em>etc</em> standard rates; or recommended specialist managed
+hosting with <a href="https://masto.host/"
+class="uri">https://masto.host/</a> (from $6/mon, throughput limited not
+fixed # of accounts) and <a href="https://federation.spacebear.ee"
+class="uri">https://federation.spacebear.ee</a> (as recommended by
+FediTips).</li>
+<li>You can have accounts on more than one to compartmentalize your
+social life (similar to having Alt accounts on TW, FB, but with
+natural-branding by hosts’ themes)</li>
+</ul>
+<p>Alas the published indices don’t currently show any US-based regional
+servers.</p>
+<p>And a lot of natural birds of a feather communities aren’t yet
+represented, but likely will pop up during the migration period. <em>I
+don’t feel like putting up the cash to start one, but we could chip in
+to have our own server!</em></p>
+</div>
+<div id="notes" class="slide section level3">
+<h1>Notes</h1>
+<ul>
+<li>Mastodon DMs are not encrypted, and instead of being readable only
+by any Twitter DevOps who cares to gain privilege (or comply with a
+government order/request), are readable by sender &amp; recipient’s node
+admins, whomever they are. A DM is just a Post or Reply with Visibility
+reset from default (likely World <strong>🌎</strong>) to Private
+(<strong>🖂</strong>), addresee(s) only. Arguably even worse substitute
+for secure messaging than Twitter DM.</li>
+<li>Follow <code>@feditips@mstdn.social</code> for how-to tips</li>
+<li>You can move between instances later, <a
+href="https://docs.joinmastodon.org/user/moving/"
+class="uri">https://docs.joinmastodon.org/user/moving/</a>. you can move
+followers <strong>and follows</strong> with you, but posts won’t.</li>
+</ul>
+</div>
+<div id="additional" class="slide section level3">
+<h1>Additional</h1>
+<h4 id="content-warnings">Content Warnings</h4>
+<p>For things that some folks would rather not see or forward, use a
+Content Warning. This is more built-in in Mastodon &amp; ActivityPub; it
+was just a convention in TW&amp;FB.</p>
+<h4 id="posee">POSEE</h4>
+<p><strong>Publish (on your) Own Site, Syndicate Elsewhere</strong> or
+perhaps Everywhere.</p>
+<p>Don’t have your created content locked into a host that may vanish or
+claim ownership.</p>
+<p>Use Mastodon and the other social media to spread awareness and have
+discussions, but keep the actual content yours.</p>
+<p>If using free services to host your content, be sure to keep another
+copy elsewhere for safety !! Backup all the things.</p>
+<p><a href="https://indieweb.org/POSSE"
+class="uri">https://indieweb.org/POSSE</a></p>
+<p>(<em>I’m using GitHub Pages for this content. Which you might think
+is giving <em>them</em> content, but the original copy is on my
+harddrive and checked into a Git repository that they have a copy of …
+and i can replicate to any other webserver or repository i want, it
+won’t go away if M$ closes GH. But aslong as GitHub.io exists, RSS or
+SocialMedia links to here will be good; and if it vanishes, this can
+reappear elsewhere.</em>)</p>
+<h4 id="rss">RSS</h4>
+<blockquote>
+<p>FediFollows <span class="citation">@FediFollows</span><span
+class="citation">@mastodon.online</span></p>
+</blockquote>
+<blockquote>
+<p>RSS fans! You can get RSS feeds of any specific tag in
+https://fedi.directory by adding /feed/ to the end of the tag’s URL. For
+example the tag for “Gardening” is at the URL:
+https://fedi.directory/tag/gardening/ …so if you wanted to use RSS to
+track all new gardening accounts, the feed would be:
+https://fedi.directory/tag/gardening/feed/ When new accounts are added
+to tags you follow like this, they will appear in your RSS feed. #RSS
+#Fediverse #Mastodon</p>
+</blockquote>
+<h4 id="verification">Verification</h4>
+<blockquote>
+<p>Fedi.Tips <span class="citation">@feditips</span><span
+class="citation">@mstdn.social</span></p>
+</blockquote>
+<blockquote>
+<p>There are no “verified” badges on here. If you see someone using a
+symbol like :verified: it’s just a custom emoji that means absolutely
+nothing. However, there are still ways you can verify your identity on
+here. For example we know that the European Commission’s official
+account is <span class="citation">@EU_Commission</span> Here’s an
+article going through how to verify your account on Mastodon and the
+Fediverse: <a
+href="https://fedi.tips/how-to-use-mastodon-and-the-fediverse-advanced-tips/"
+class="uri">https://fedi.tips/how-to-use-mastodon-and-the-fediverse-advanced-tips/</a><br />
+#HowDoIVerifyMyAccount</p>
+</blockquote>
+<p>There’s no charge on here for verifying, and anyone can do it.</p>
+<h4 id="replies-etiquette">Replies Etiquette</h4>
+<blockquote>
+<p>Per Axbom <span class="citation">@axbom</span><span
+class="citation">@social.xbm.se</span> An etiquette tidbit I just
+learned from <span class="citation">@HunterZ</span> When you write
+threads, you can set the visibility of all the reply posts to
+“Unlisted”. This way all the non-initial posts won’t flood user
+timelines in reverse chronological order (and interspersed between
+others’ toots), which can confuse. People will just see the initial post
+and upon clicking that see the whole thread. I will try to remember
+this. But I will obviously also forget at times.</p>
+</blockquote>
+<p>#FediTips</p>
+</div>
+<div id="applications" class="slide section level3">
+<h1>Applications</h1>
+<ul>
+<li>Basic Mastodon <strong>web</strong> interface (default on most
+instance nodes) looks like TweetDeck in Dark mode: it has Columns. You
+can monitor <code>#NatickFoss</code> or <code>@algot@mastodon.art</code>
+in a column.
+<ul>
+<li><a href="https://Pinafore.social">Pinafore.social</a> - alt web
+interface</li>
+<li><a href="https://Halcyon.social">Halcyon.social</a> - alt web
+interface</li>
+</ul></li>
+<li>There are a couple choices in iOS <strong>Apple App</strong> Store
+and <strong>Android Google Play</strong> Store, which get different
+reviews from different people. They look more like Twitter Android, but
+differ how Local vs Federated feeds are navigated to. Both have
+requested Notifications permission only (if turned on). I presume will
+request access Pictures (&amp; files?) if i try to post a picture from
+it?
+<ul>
+<li><strong>Tusky</strong> (Android) <a
+href="https://mastodon.social/tusky"><span
+class="citation">@tusky</span><span
+class="citation">@mastodon.social</span></a></li>
+<li><strong>Mastodon</strong> (official Android client) - has a small
+index of major thematic nodes in Start page.</li>
+<li>if you run both on same device, eventually either disable/remove one
+or turn off notifications on one!!</li>
+<li>Similar choices for <strong>iOS</strong>, i haven’t tested.</li>
+</ul></li>
+</ul>
+</div>
+
+<div id="section" class="title-slide slide section level2">
+<h1>-30-</h1>
+<p><strong>Q&amp;A</strong> and more <strong>Demo</strong></p>
+</div>
+</body>
+</html>

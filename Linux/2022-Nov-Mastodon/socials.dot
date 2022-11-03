@@ -1,0 +1,131 @@
+digraph class_extends {
+    // rankdir=LR; // default Top Down
+    size="20,20"
+    subgraph cluster_1 {
+                    // node [style=filled];
+                    fontzie=36
+                    label = <<B><FONT POINT-SIZE="36">Socials: Connects To</FONT></B>>;
+                    color=blue
+
+                    // defaults
+                    // node [shape = doublecircle]; LR_0 LR_3 LR_4 LR_8;
+                    node [style=filled, shape = rectangle, fixedsize=true, width=2, height=0.5, fontsize=12, fillcolor=green];
+                    // Microblogging = green
+
+                    // custom callout colors
+                    "Mastodon" [style=filled, fillcolor=green, fontsize=18, fontcolor=red]
+
+                    "Twitter" [style="bold,filled", color=blue, penwidth=7,  fillcolor=green, fontsize=14, fontcolor=blue ]
+                    "CounterSocial" [style="bold,filled", penwidth=7, color=gray, fillcolor=green, fontcolor=black ]
+
+                    "rss" [shape = ellipse, fillcolor=white ]
+
+                    // Macroblobbing
+                    "Hubzilla"  [ style=filled, fillcolor=cyan ] 
+                    "diaspora"  [ style=filled, fillcolor=cyan ] 
+                    "Friendica"  [ style=filled, fillcolor=cyan ] 
+
+                    // Video, Image, Audio
+                    "PeerTube"  [ style=filled, fillcolor=red ] 
+                    "PixelFed"  [ style=filled, fillcolor=red ] 
+                    "Funkwhale" [ style=filled, fillcolor=red ] 
+                    
+                    // "other"  [ style=filled, fillcolor=cyan ] 
+        // ARCS
+        // "a" -> "b" [ label = "name", color = red ];
+
+        // diaspora (macroblogging) (i thought it was suppsed to be micro??)
+        "diaspora" -> "Friendica"  ;
+        "diaspora" -> "Hubzilla" ;
+        "diaspora" -> "Socialhome" ;
+
+        // Hubzilla (macroblogging)
+        "Hubzilla" -> "diaspora" ;
+        "Hubzilla" -> "Mastodon" ;
+        "Hubzilla" -> "Friendica" ;
+        "Hubzilla" -> "GNU Social" ;
+        "Hubzilla" -> "Pleroma" ;
+
+        // Mastodon (microblogging)
+        "Mastodon" -> "Hubzilla" ;
+        "Mastodon" -> "microblog.pub" ;
+        "Mastodon" -> "Misskey" ;
+        "Mastodon" -> "PeerTube" ;
+        "Mastodon" -> "PixelFed" ;
+        "Mastodon" -> "Pleroma" ;
+        "Mastodon" -> "Plume" ;
+        "Mastodon" -> "WriteFreely" ;
+        "rss"      -> "Mastodon" [ label = "bot" , fontcolor=red, color = red ] ;
+        "Twitter"  -> "Mastodon" [ label = "crossposts" , fontcolor=red, color = red ] ;
+        "Twitter"  -> "Mastodon" [ label = "migrate" , fontcolor=green, color = green ] ;
+
+        "Glitch"   -> "Mastodon" [ label = "fork" , fontcolor=purple, color = purple ] ;
+        "Hometown" -> "Mastodon" [ label = "fork" , fontcolor=purple, color = purple ] ;
+        "Fedibird" -> "Mastodon" [ label = "fork" , fontcolor=purple, color = purple ] ;
+        "Ecko"     -> "Mastodon" [ label = "fork" , fontcolor=purple, color = purple ] ;
+        "CounterSocial"     -> "Mastodon" [ label = "fork+politics" , fontcolor=purple, color = purple ] ;
+
+        // Misskey (microblogging)
+        "Misskey" -> "Friendica" ;
+        "Misskey" -> "Hubzilla" ;
+        "Misskey" -> "microblog.pub" ;
+        "Misskey" -> "Mastodon" ;
+        "Misskey" -> "PeerTube" ;
+        "Misskey" -> "PixelFed" ;
+        "Misskey" -> "Pleroma" ;
+        "Misskey" -> "Plume" ;
+        "Misskey" -> "WriteFreely" ;
+        "Calckey"     -> "Misskey" [ label = "fork" , fontcolor=purple, color = purple ] ;
+        "Foundkey"     -> "Misskey" [ label = "fork" , fontcolor=purple, color = purple ] ;
+        "Meiskey"     -> "Misskey" [ label = "fork" , fontcolor=purple, color = purple ] ;
+
+        // Peertube (Video)
+        "PeerTube" -> "Friendica" ;
+        "PeerTube" -> "Mastodon" ;
+        "PeerTube" -> "Pleroma" ;
+
+        // Pleroma (microblogging)
+        "Pleroma" -> "Friendica" ;
+        "Pleroma" -> "GNU Social" ;
+        "Pleroma" -> "Hubzilla" ;
+        "Pleroma" -> "Mastodon" ;
+        "Pleroma" -> "microblog.pub" ;
+        "Pleroma" -> "Misskey" ;
+        "Pleroma" -> "PeerTube" ;
+        "Pleroma" -> "PixelFed" ;
+        "Pleroma" -> "Plume" ;
+        "Pleroma" -> "WriteFreely" ;
+        "Akkoma"     -> "Pleroma" [ label = "fork" , fontcolor=purple, color = purple ] ;
+        "Soapbox"     -> "Pleroma" [ label = "fork" , fontcolor=purple, color = purple ] ;
+
+        // GNU Social (microblogging)
+        "GNU Social" -> "Friendica" ;
+        "GNU Social" -> "Hubzilla" ;
+        "GNU Social" -> "Mastodon" ;
+        "GNU Social" -> "Pleroma" ;
+        
+        // PixelFed
+        "PixelFed" -> "Friendica" ;
+        "PixelFed" -> "Mastodon" ;
+        "PixelFed" -> "Misskey" ;
+        "PixelFed" -> "Pleroma" ;
+        
+        // Friendica (macroblogging)
+        "Friendica" -> "diaspora" ;
+        "Friendica" -> "GNU Social" ;
+        "Friendica" -> "Hubzilla" ;
+        "Friendica" -> "Mastodon" ;
+        "Friendica" -> "Misskey" ;
+        "Friendica" -> "PixelFed" ;
+        "Friendica" -> "Pleroma" ;
+        "Friendica" -> "Plume" ;
+        "rss"      -> "Friendica" [ label = "bot" , fontcolor=red, color = red ] ;
+
+        // Funkwhale (audo streaming)
+        "Funkwhale" -> "Mastodon" ;
+
+        
+	
+    }
+}
+
