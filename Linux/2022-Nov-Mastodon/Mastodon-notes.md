@@ -37,7 +37,9 @@ Except as noted the following Fediverse projects are microblogging and were star
 
 which omits forks, old-school precursors, private gardens, & minor players that appear on charts and lists.
 
-![connections](./socials.dot-circo.png){ height=50% width=50% }
+### Connections in the Fediverse 
+
+![connections](./socials.dot-fdp.png){ height=50% width=50% }
 
 Key
 
@@ -116,7 +118,7 @@ Each instance sets it's **own content policy, moderation policy, privacy policy*
 
 * [The Importance of Choosing the Correct Mastodon Instance](https://carlchenet.com/the-importance-of-choosing-the-correct-mastodon-instance/)
 * [Choosing a Mastodon instance and why i joined Social.coop](https://agaric.gitlab.io/raw-notes/notes/2020-07-26-choosing-a-mastodon-instance-and-why-i-joined-social-coop/)
-* [Mastodon choice wizard](https://instances.social/), can check out registered nodes (by appending instance name e.g.](https://instances.social/fosstodon.org)
+* [Mastodon choice wizard](https://instances.social/), can check out registered nodes (by appending instance name e.g. <https://instances.social/fosstodon.org>)
 * <https://joinmastodon.org/servers>
 * (One could reasonably pick a server of one of the non-Mastodon but compatible kinds. I can't give hints on that.)
 
@@ -171,12 +173,16 @@ If using free services to host your content, be sure to keep another copy elsewh
 > FediFollows @FediFollows@mastodon.online
 
 > RSS fans!
-> You can get RSS feeds of any specific tag in https://fedi.directory by adding /feed/ to the end of the tag's URL.
+
+> You can get RSS feeds of any specific tag in 
+<https://fedi.directory> by adding `/feed/` to the end of the tag's URL.
+
 > For example the tag for "Gardening" is at the URL:
-> https://fedi.directory/tag/gardening/
+<https://fedi.directory/tag/gardening/>  
+
 > ...so if you wanted to use RSS to track all new gardening accounts, the feed would be:
-> https://fedi.directory/tag/gardening/feed/
-> When new accounts are added to tags you follow like this, they will appear in your RSS feed.
+<https://fedi.directory/tag/gardening/feed/>
+> When new accounts are added to tags you follow like this, they will appear in your RSS feed.  
 > #RSS #Fediverse #Mastodon
 
 
@@ -184,22 +190,24 @@ If using free services to host your content, be sure to keep another copy elsewh
 
 > Fedi.Tips @feditips@mstdn.social
 
-> There are no "verified" badges on here. If you see someone using a symbol like :verified: it's just a custom emoji that means absolutely nothing.
-> However, there are still ways you can verify your identity on here. For example we know that the European Commission's official account is @EU_Commission 
-> Here's an article going through how to verify your account on Mastodon and the Fediverse:
+> There are no "verified" badges on here. If you see someone using a symbol like :verified: it's just a custom emoji that means absolutely nothing.  
+> However, there are still ways you can verify your identity on here. For example we know that the European Commission's official account is @EU_Commission  
+> Here's an article going through how to verify your account on Mastodon and the Fediverse:  
 > <https://fedi.tips/how-to-use-mastodon-and-the-fediverse-advanced-tips/>  
 >  #HowDoIVerifyMyAccount
-
-There's no charge on here for verifying, and anyone can do it.
+> There's no charge on here for verifying, and anyone can do it.
 
 #### Replies Etiquette
 
 > Per Axbom @axbom@social.xbm.se
+
 > An etiquette tidbit I just learned from @HunterZ
+
 > When you write threads, you can set the visibility of all the reply posts to "Unlisted". This way all the non-initial posts won't flood user timelines in reverse chronological order (and interspersed between others' toots), which can confuse. People will just see the initial post and upon clicking that see the whole thread.
+
 > I will try to remember this. But I will obviously also forget at times.
 
-#FediTips
+> #FediTips
 
 
 ### Applications

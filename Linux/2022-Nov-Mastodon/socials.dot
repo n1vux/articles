@@ -63,7 +63,7 @@ digraph class_extends {
         "Hometown" -> "Mastodon" [ label = "fork" , fontcolor=purple, color = purple ] ;
         "Fedibird" -> "Mastodon" [ label = "fork" , fontcolor=purple, color = purple ] ;
         "Ecko"     -> "Mastodon" [ label = "fork" , fontcolor=purple, color = purple ] ;
-        "CounterSocial"     -> "Mastodon" [ label = "fork+politics" , fontcolor=purple, color = purple ] ;
+        "CounterSocial"     -> "Mastodon" [ label = "fork, NO FEDERATION" , fontcolor=grey, color = grey ] ;
 
         // Misskey (microblogging)
         "Misskey" -> "Friendica" ;
