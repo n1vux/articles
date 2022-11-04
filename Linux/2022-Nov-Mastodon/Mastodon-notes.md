@@ -18,7 +18,7 @@ Alas having had ONE place for academics, activists, and journalist to find eacho
 
 ### What is the Fediverse ? 
 
-The Fedirated Universe (Fediverse) is every server that publishes and subscribes via W3C recommended **ActivityPub** decentralized social networking protocol, playing nicely with others.
+The Fedirated Universe (Fediverse) is every server that publishes and subscribes via W3C recommended **[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)** decentralized social networking protocol, playing nicely with others.
 
 <https://fediverse.party/> lists 10 major federated (non-centralized) social apps, with info pages for each
 
@@ -76,6 +76,16 @@ Mostly just like Twitter, Non-Federated & Centralized, but with additional probl
     * Mailing lists ( _like our NatickFoss discussion list_ ) - since there are list-servers other than Google, **decentralized**, and if you forward to another list, somewhat **federated** ! But very old school in handling of media attachments.
     * Blogs with RSS and automatic track-back links. **Federated & decentralized**.
     * WebRings - **Federated & decentralized**!
+
+* **Alt-Left alternatives? (or Alt and not Alt-Right??)**
+
+or at least, pro-Democracy, and suppressing "fake news" is fact-based. But not necessarily Progressive or "left".
+
+[BlueSky](https://en.wikipedia.org/wiki/Bluesky_%28protocol%29) looks to federate by its own rules, unlcear if bridging to Fediverse ActivityPub would be plausible or allowed.
+
+    * **BlueSky** - BlueSKy is apparently a Protocol in competition with the Fediverse's ActivityPub, with a demo implementation only just in Beta; backed by Dorsey, to make something that his Twitter could've been but didn't as “protocol for large-scale distributed social applications that will allow for account portability, algorithmic choice, interoperability and performance". Anti-commercial. [oct.25 article](https://uk.finance.yahoo.com/news/jack-dorsey-bluesky-social-app-twitter-050005805.html). Started as a Twitter FLOSS spinoff? Original rumors of Blockchain denied. Dorsey BlueSky [may be collaborative](https://davetroy.medium.com/no-elon-and-jack-are-not-competitors-theyre-collaborating-3e88cde5267d) with Musk Twitter!?(_sounds like a conspiracy theory but by an insider so might be real?_)  Not ready yet. Intersting to watch.
+
+    * **TribelSocial** claims to be pro-Democracy, but is reportedly just as data-harvesting as the big Socials where we're the product, not the customer.
 
 * **Counter.Social (CoSo)**  
   Overtly political Twitter-alternative, run by an anonymous, career Grey-hat hacktivist.  
@@ -153,9 +163,9 @@ For things that some folks would rather not see or forward, use a Content Warnin
 This is more built-in in Mastodon & ActivityPub; it was just a convention in TW&FB.
 
 
-#### POSEE
+#### POSSE
 
-**Publish (on your) Own Site, Syndicate Elsewhere** or perhaps Everywhere.
+**Publish (on your) Own Site, Syndicate Elsewhere** _or perhaps **E**verywhere_.
 
 Don't have your created content locked into a host that may vanish or claim ownership.
 
@@ -165,7 +175,7 @@ If using free services to host your content, be sure to keep another copy elsewh
 
 <https://indieweb.org/POSSE>
 
-(_I'm using GitHub Pages for this content. Which you might think is giving _them_ content, but the original copy is on my harddrive and checked into a Git repository that they have a copy of ... and i can replicate to any other webserver or repository i want, it won't go away if M$ closes GH. But aslong as GitHub.io exists, RSS or SocialMedia links to here will be good; and if it vanishes, this can reappear elsewhere._)
+(_I'm using GitHub Pages for this content. Which you might think is giving _them_ content, but the _original_ copy is on my harddrive and checked into a Git repository that they have a copy of ... and i can replicate to any other webserver or repository i want, it won't go away if M$ ever closes or pivots GH. But as long as GitHub.io exists, RSS or SocialMedia links to (t)here will be good; and if it vanishes, this can (will) reappear elsewhere._)
 
 
 #### RSS

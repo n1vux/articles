@@ -1,4 +1,4 @@
-# Articles
+% Articles by William D Ricker
 
 ## WW1 Armistice - Massachusetts last casualties remembered
 
@@ -6,13 +6,19 @@
 
 ## Michael A Padlipsky Memorial &amp; homage
 
+Protocol architect on the early Internet, and the original Scotch blogger, before blogs.
+
 * [MAP](./MAP/)
 * [Weirdest whisky bottles in his collection](./MAP/Malt/Mike-Empties-WDA.html), archived from WWWDA.
 
-## Linux
+## Linux and other FLOSS
+
+Free Libre Open Source Software
 
 * [Ooopsie, or how ext4magic saved Thanksgiving](./Linux/ext4magic.html) ([md](./Linux/ext4magic.md))
 * [Choice of Clipboard Mangers for Ubuntu](./Linux/Clipboards.html)
+* Update on Mastodon and choice in Fediverse of social media [slides](./Linux/2022-Nov-Mastodon/Mastodon.md.slidy.html), or [web-page view](./Linux/2022-Nov-Mastodon/Mastodon.md.doc.html)
+
 
 ## Geo-Odyssey
 
