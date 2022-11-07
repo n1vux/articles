@@ -24,7 +24,7 @@ The Fedirated Universe (Fediverse) is every server that publishes and subscribes
 
 Except as noted the following Fediverse projects are microblogging and were started 2014-2018.
 
-* diaspora (**Macro**blogging; supports Markdown; 2010)
+* diaspora* (**Macro**blogging; supports Markdown; 2010)
 * Friendica (**Macro**blogging; 2010)
 * GNU Social (2010; first microblogging)
 * Hubzilla (**Macro**blogging; channelized?)
@@ -69,6 +69,7 @@ Mostly just like Twitter, Non-Federated & Centralized, but with additional probl
 * **Old School**
 
     * antique bboards/forums - Web 1.0 ports of Dialup Bulletin Boards (usually obsolete PHP code) e.g. `/.`, `reddit`, `4chan` etc, various Forums packages
+    * MetaFilter
     * IRC still exists ! ( _even tho newer AIM, G-chat gateway, etc have shut down_ )  
       IRC is **decentralized** - lots of servers - but theyre **not** Federated; so while FLOSS and standards-coforming for no lock-in, moving hosts is painful, as we found out when an old reliable FLOSS-friendly host got sold.
     * Slack (commercial multimedia chat for corps; some FLOSS project use it instead of dogfooding FLOSS because they have Slack at day-job, it just works (same as the MacBook Air), _etc_ )
