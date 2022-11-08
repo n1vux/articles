@@ -28,6 +28,15 @@
 <header id="title-block-header">
 <h1 class="title">Mastodon, or The Birdapp Migration</h1>
 </header>
+<p>Notes taken on the migration path</p>
+<p><a href="%22https://mastodon.radio/@n1vux%22"><span class="citation"
+data-cites="n1vux">@n1vux</span><span class="citation"
+data-cites="Mastodon.Radio">@Mastodon.Radio</span></a> aka <a
+href="https://fosstodon.org/@BRicker">BRicker@fosstodon.org</a></p>
+<p>Original version Nov 3, 2022; updated shortly after I learn
+something? To see just the diffs, since you last looked, <a
+href="https://github.com/n1vux/articles/commits/master/Linux/2022-Nov-Mastodon/Mastodon.md">view
+Diffs</a>.</p>
 <h2 id="why">Why</h2>
 <p>I think we know why.</p>
 <p>As the bluebird app turns emerald green</p>
@@ -177,10 +186,11 @@ class="uri">https://fediverse.party/en/mastodon/</a></p>
 Multi-Verse (Fediverse) per above graph from Fediverse Party data.</p>
 <h3 id="not-exactly-what-youre-expecting">Not exactly what you’re
 expecting?</h3>
-<p>Instead of Tweeting, we <strong>Toot</strong>; instead of
+<p>Instead of Tweeting, we <strong>Post</strong> (or
+<strong>Toot</strong> if one wants a pun); instead of
 <code>#Twitterstorians</code>, there are <code>#Histodonts</code>; there
-is no Verified ✓ . Unless you buy a server, there’s usually no charge,
-just a <strong>tip jar</strong>.</p>
+is no Verified ✓ , just verified URLs. Unless you buy a server, there’s
+usually no charge, just a <strong>tip jar</strong>.</p>
 <p>Instead of an edge-cloud with eventual-consistency distributed DB run
 by one mega corp, Fediverse is scaled by having many collaborating
 instances under separate management that collaborite, each scaling
@@ -192,11 +202,20 @@ content with (most) others, Mastodon or fork or other compatible project
 policy, privacy policy</strong>, open enrollment or invite only, etc.,
 and picks which nodes it trusts to federate with.</p>
 <p>(E.g. <a href="https://mastodon.radio">mastodon.radio</a> does NOT
-accept federation with nodes that have too loose a policy registered or
-fail to enforce their policy, e.g., <a
-href="https://masthead.social">masthead.social</a>, which is nominally
-for journalists, policy says <strong>NoSpam</strong>, but is actually
-just unmoderated spam.)</p>
+accept federation with nodes that have a looser a policy registered, or
+fail to enforce their stated policy, e.g., <code>masthead.social</code>
+which is nominally for journalists, whose policy <em>says</em>
+<strong>NoSpam</strong>, but is actually just unmoderated spam. This
+isn’t censorship, this is decentralized federation providing for policy
+backbone.)</p>
+<p>Since there’s no Algorithm, Favorites ⭐ are like they <em>used to
+be</em> on Twitter ages ago before they adulterated it with faceless
+<code>^</code>Algorithms<code>^</code>: they tell the author you like it
+(and perhaps them), but doesn’t help the post fly further. If you want
+to boost the post, you use the Boost 🔄 button to relay it to your own
+Followers (like RT on bluebirdapp).</p>
+<p>Also since there’s no Algorithm, <strong>#HashTag</strong> all the
+things.</p>
 <ul>
 <li>Tutorial Video <a href="https://youtu.be/mrsiej2dpBY"
 class="uri">https://youtu.be/mrsiej2dpBY</a></li>
@@ -269,18 +288,149 @@ government order/request), are readable by sender &amp; recipient’s node
 admins, whomever they are. A DM is just a Post or Reply with Visibility
 reset from default (likely World <strong>🌎</strong>) to Private
 (<strong>🖂</strong>), addresee(s) only. Arguably even worse substitute
-for secure messaging than Twitter DM.</li>
-<li>Follow <code>@feditips@mstdn.social</code> for how-to tips</li>
+for secure messaging than Twitter DM.<br />
+</li>
+<li><ul>
+<li>Note that this ‘Visibility’ means DMs go to EVERYONE who is
+@-mentioned therein; so omit the @’s if you’re trying to talk ABOUT
+someone privately!!</li>
+</ul></li>
+<li>Follow <code>@feditips@mstdn.social</code> for how-to tips (more
+below)</li>
 <li>You can move between instances later, <a
 href="https://docs.joinmastodon.org/user/moving/"
 class="uri">https://docs.joinmastodon.org/user/moving/</a>. you can move
 followers <strong>and follows</strong> with you, but posts won’t.</li>
 </ul>
 <h3 id="additional">Additional</h3>
+<p>follow <code>#FediTips</code> in a spare column to get tips, follow
+<code>@feditips@mstdn.social</code> to get them in your stream, or
+subscribe via <a href="https://mstdn.social/@feditips.rss">RSS</a>; <a
+href="https://fedi.tips/" class="uri">https://fedi.tips/</a> is the
+Archive. <strong><a
+href="https://fedi.tips/mastodon-and-the-fediverse-beginners-start-here/">Beginners
+Start Here</a></strong> has a brilliant explanation of WTAF is a
+Federated Network.</p>
+<blockquote>
+<p>Federated networks have been around for centuries, and all of us have
+used them all our lives. The entire world is built around federated
+communications networks. The postal service is federated,…</p>
+</blockquote>
+<p>elucidating that what’s different is this decentralized, federated
+social network is not that it’s novel, but that it’s not the private
+walled garden of singular mega-corporation, it’s a return to how things
+used to be in real life and in Internet 1.0, but with the sort of modern
+interface that set Twitter apart from e.g. Usenet.</p>
+<p>Intros</p>
+<ul>
+<li><a
+href="https://gorillasun.de/blog/getting-started-with-mastodon">GorillaSun</a></li>
+<li><a
+href="https://infosec.exchange/@Em0nM4stodon/109282181601490676">Em0nM4stodon</a></li>
+<li><a
+href="https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/">djnavarro</a></li>
+<li><a
+href="https://mastodon.art/@eishiya/109302863700761738">eishiya</a></li>
+</ul>
+<h4 id="is-confusing-bad">Is Confusing Bad?</h4>
+<p>Setting reasonable expectations is <strong>welcoming</strong>;
+setting unreasonable expectations “it’s easy!” may drive away folks.</p>
+<blockquote>
+<p>Matt Blaze <a
+href="https://federate.social/@mattblaze/109301093901463161"><span
+class="citation" data-cites="mattblaze">@mattblaze</span><span
+class="citation"
+data-cites="federate.social">@federate.social</span></a></p>
+</blockquote>
+<blockquote>
+<p>I have to disagree with my friends who keep hammering on the idea
+that people shouldn’t say Mastodon is confusing. The user experience is
+fine (it’s confusing, but not in any unexpected ways, and you can figure
+it out). But onboarding process, ambushing prospective users to choose a
+server, is something lots of people have trouble with. Not at even
+acknowledging that it’s confusing amplifies how off putting this can
+be.</p>
+</blockquote>
+<blockquote>
+<p>I’m no expert here, I’ve only been around for a few days. But I’ve
+helped a number of people sign up, and every one of them has been
+BAFFLED by this. So was I when I signed up. Claiming that it’s not
+confusing just signals that they aren’t welcome, or that this place
+isn’t for them.</p>
+</blockquote>
 <h4 id="content-warnings">Content Warnings</h4>
 <p>For things that some folks would rather not see or forward, use a
-Content Warning. This is more built-in in Mastodon &amp; ActivityPub; it
-was just a convention in TW&amp;FB.</p>
+Content Warning.</p>
+<p><span class="citation"
+data-cites="vantablack">@vantablack</span><span class="citation"
+data-cites="beach.city">@beach.city</span>](https://beach.city/<span
+class="citation"
+data-cites="vantablack/109298070673055369">@vantablack/109298070673055369</span>)
+writes:</p>
+<pre><code>okay more new user tips
+content warnings are extremely important here
+they&#39;re ingrained in our culture
+they&#39;re not censorship, but rather consent
+they allow someone to decide if they wanna engage with your post, and if so on what terms
+they&#39;re a courtesy, and you have legiterally no reason to not use them as much as possible
+they&#39;re one of the best features mastodon has
+think of it like a subject line or a title for your post
+you&#39;re MORE LIKELY to get &quot;engagement&quot; if you use them right</code></pre>
+<p>Content Warnings allows you to display a warning, and hides the
+content of your post; folks who want to view can click to unwrap, and
+others can scroll past. <a
+href="https://infosec.exchange/@Em0nM4stodon/109282181601490676">an
+Intro post to CW</a></p>
+<p>This is more built-in in Mastodon &amp; ActivityPub, and enforced; it
+was just a convention in TW&amp;FB. Each node will have policy as to
+which Content Warnings are <em>required</em> on their node, and nodes
+with tighter warning policy will not accept un-warned content from those
+with looser. Failure to abide by home-node CW policy is expected to
+result in “Moderation” (which may be timeout/warning or straight
+boot/ban if Mods are busy, guess what, it’s AOL September for Mastodon,
+they’re busy).</p>
+<p>It’s suggested that <strong>Twitter</strong> is a content-warning
+topic as well as the usual.</p>
+<p><a
+href="https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/">Article
+discussing content warnings</a> usage in Mastodon.</p>
+<h4 id="blockingmuting">Blocking/Muting</h4>
+<p>Not only can you block or mute a single annoying account, if the host
+(=node, =instance) name looks like it exists solely to be a source of
+bother (Spam, Trolls, Ponzi, Phishing, …), you can block the whole
+instance.</p>
+<h4 id="slow-mode">Slow Mode</h4>
+<blockquote>
+<p>In <code>Preferences &gt; Appearance</code>, you can select the
+option “Slow mode” to hide automatic feed updates. You will then have to
+click at the top of the timelines to see new posts (ex: “10 new items”).
+<span class="citation"
+data-cites="Em0nM4stodon">@Em0nM4stodon</span><span class="citation"
+data-cites="infosec.exchange">@infosec.exchange</span></p>
+</blockquote>
+<p><a
+href="https://infosec.exchange/@Em0nM4stodon/109287715784844066">more
+hints from same message</a></p>
+<h4 id="camelcasehashtags">#CamelCaseHashtags</h4>
+<blockquote>
+<p>When writing hashtags, please use CamelCase instead of alllowercase!
+Example: not “mastoart”, but “MastoArt”.</p>
+</blockquote>
+<blockquote>
+<p>That way, they’re easier to read and it’s easier to spot typos :] In
+addition, screen readers generally do a much better job with camel case
+because they can see the word breaks.</p>
+</blockquote>
+<blockquote>
+<p>The hashtag suggestions often suggest the all lower-case version
+because so many people use those. Please resist the temptation to just
+click it and move on, type out the CamelCase version :D</p>
+</blockquote>
+<blockquote>
+<p>#FediTips</p>
+</blockquote>
+<p><a
+href="https://mastodon.art/@eishiya/109302863700761738">eishiya</a></p>
 <h4 id="posse">POSSE</h4>
 <p><strong>Publish (on your) Own Site, Syndicate Elsewhere</strong>
 <em>or perhaps <strong>E</strong>verywhere</em>.</p>
@@ -347,6 +497,40 @@ class="uri">https://fedi.tips/how-to-use-mastodon-and-the-fediverse-advanced-tip
 #HowDoIVerifyMyAccount There’s no charge on here for verifying, and
 anyone can do it.</p>
 </blockquote>
+<p>(I have inserted <code>&lt;a rel="me" href=...&gt;</code> tags in
+hopes link here will verify.)</p>
+<h4 id="streaming">Streaming</h4>
+<blockquote>
+<p>Fedi.Tips <span class="citation"
+data-cites="feditips">@feditips</span><span class="citation"
+data-cites="mstdn.social">@mstdn.social</span> <strong>Livestreaming
+people!</strong></p>
+</blockquote>
+<blockquote>
+<p>Do you want people on Mastodon to be able to follow your livestream
+and be notified when you go live?</p>
+</blockquote>
+<blockquote>
+<p>There’s a free open source streaming platform called <span
+class="citation" data-cites="owncast">@owncast</span> which is also part
+of the Fediverse:</p>
+</blockquote>
+<blockquote>
+<p>➡️ https://owncast.online</p>
+</blockquote>
+<blockquote>
+<p>You can follow OwnCast streams from Mastodon, and a post will appear
+in your timeline when they go live.</p>
+</blockquote>
+<blockquote>
+<p>For example you can follow music accounts like <span class="citation"
+data-cites="live">@live</span> or tech &amp; gaming streamers like <span
+class="citation" data-cites="Hamish">@Hamish</span> or <span
+class="citation" data-cites="hatnix">@hatnix</span></p>
+</blockquote>
+<blockquote>
+<p>#Fediverse #ActivityPub #OwnCast</p>
+</blockquote>
 <h4 id="replies-etiquette">Replies Etiquette</h4>
 <blockquote>
 <p>Per Axbom <span class="citation"
@@ -371,6 +555,93 @@ times.</p>
 <blockquote>
 <p>#FediTips</p>
 </blockquote>
+<h4 id="data-loss-exposure-to-randy-billionaires">Data Loss ? Exposure
+to randy Billionaires ?</h4>
+<p>One of the guiding lights <a
+href="https://social.xbm.se/@axbom/109301136826923094">posts</a></p>
+<blockquote>
+<p>Per Axbom <span class="citation"
+data-cites="axbom">@axbom</span><span class="citation"
+data-cites="social.xbm.se">@social.xbm.se</span></p>
+</blockquote>
+<blockquote>
+<p>Mastodon gGmbH is a non-profit (only since 2021), but that is not
+what makes it ”not possible to buy”. The software is licensed under the
+GNU Affero General Public License v3.0 so any code based on it, or any
+modifications, have to be made freely available.</p>
+</blockquote>
+<blockquote>
+<p>I guess a big player can come in and make a big instance and lure
+people there (easier-to-use, better performance, apps, etc) but they
+would have to surrender and make available any code changes for
+free.</p>
+</blockquote>
+<blockquote>
+<p>Now a billionaire could just refuse and drag things out in court. But
+Mastodon as we see it would still be open source and free and possible
+to install for anyone. The community would likely rally to best any
+improvements.</p>
+</blockquote>
+<blockquote>
+<p>So there is no way a billionaire can take away the premise of
+open-source software and our option to use Mastodon for free. But they
+could use all sorts of tactics to make something else appear more
+attractive. Some may be seduced.</p>
+</blockquote>
+<p>Ovid asks a great question -</p>
+<blockquote>
+<p>Q. Given the federated nature of Mastodon, if a server goes away
+(domain expires, doesn’t pay the bills, etc.) do I lose my account? (And
+thus, do I forever lose my history unless I’ve backed it up?)</p>
+</blockquote>
+<p>My answer</p>
+<blockquote>
+<p>A. yes and no. The JoinMastodon index compact requires 60 day notice
+of node shutdown. The account transfer tool moves profile, follows, and
+(amazinglu) followers. This works, someone ran into life events and had
+announced they can’t transfer years of trust to new Ops quickly, so
+shutting at EOY. Posts alas aren’t transferable - I’m guessing because
+no algorithm to assure bulk remoderation to new host policies? But also,
+under POSSE, better to treat microblog as ephemeral, save the good ones
+into a macroblog or static web page?</p>
+</blockquote>
+<p>(Obviously if a node goes down unexpectedly and irrecoverably, well,
+that’s bad and sad. Volunteer run nodes fueld off tip-jars are NOT
+expected to have cross-region disaster recovery replication let along
+in-region hot-spares.)</p>
+<h4 id="importing-follows-from-tw-bluebird-site">Importing Follows from
+TW bluebird site</h4>
+<blockquote>
+<p>Bryan Cantrill <a
+href="https://mastodon.social/@bcantrill/109299388045950092"><span
+class="citation" data-cites="bcantrill">@bcantrill</span><span
+class="citation"
+data-cites="mastodon.social">@mastodon.social</span></a></p>
+</blockquote>
+<blockquote>
+<p>I love <span class="citation" data-cites="Luca">@Luca</span>’s
+Fedifinder (https://fedifinder.glitch.me/); t’s been very important to
+get networks rehydrated here! For me, it seems to stop at “14999
+accounts scanned” when scanning followers; are others hitting this as
+well? Do folks happen to know if this is a Twitter limitation?</p>
+</blockquote>
+<h4 id="finding-kindred-spirits">Finding kindred spirits</h4>
+<p>in addition to</p>
+<ul>
+<li>picking host node <code>@MyFavoritThing</code> ,</li>
+<li>putting <code>#HashTags</code> in your <strong>Profile</strong></li>
+<li>and in your customary <code>#Introduction</code> post,</li>
+<li>and searching for same,</li>
+<li>there’s node <a href="https://a.gup.pe"
+class="uri">https://a.gup.pe</a> 🐟 which creates a <strong>virtual user
+for a group topic.</strong> The mere act of Following
+<code>@ExampleTopic@a.gup.pe</code> <a
+href="https://a.gup.pe/u/exampletopic">brings it into existence</a> if
+not already there, and having followed, you’ll get in your home stream
+any message that tags <code>@ExampleTopic@a.gup.pe</code> as the bot
+Boosts as the topic-user anything tagging it. (Which this message just
+did.)</li>
+</ul>
 <h3 id="applications">Applications</h3>
 <ul>
 <li>Basic Mastodon <strong>web</strong> interface (default on most
@@ -402,7 +673,24 @@ or turn off notifications on one!!</li>
 <li>Similar choices for <strong>iOS</strong>, i haven’t tested.</li>
 </ul></li>
 </ul>
+<p><strong>MORE “Delightful Fediverse Clients”</strong></p>
+<blockquote>
+<p>Don Watkins :linux: <a
+href="https://fosstodon.org/@donwatkins/109302794890546466"><span
+class="citation" data-cites="donwatkins">@donwatkins</span><span
+class="citation"
+data-cites="fosstodon.org">@fosstodon.org</span></a></p>
+<p>A curated list of Fediverse client applications based on the
+ActivityPub protocol. - delightful-fediverse-clients - Codeberg.org <a
+href="https://codeberg.org/fediverse/delight"
+class="uri">https://codeberg.org/fediverse/delight</a></p>
+</blockquote>
 <h2 id="section">-30-</h2>
+<p>Feel free to follow either or both me, <a
+href="%22https://mastodon.radio/@n1vux%22"><span class="citation"
+data-cites="n1vux">@n1vux</span><span class="citation"
+data-cites="Mastodon.Radio">@Mastodon.Radio</span></a> aka <a
+href="https://fosstodon.org/@BRicker">BRicker@fosstodon.org</a></p>
 <p><strong>Q&amp;A</strong> and more <strong>Demo</strong></p>
 </body>
 </html>

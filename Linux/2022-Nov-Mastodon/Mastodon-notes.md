@@ -1,5 +1,12 @@
 % Mastodon, or The Birdapp Migration 
 
+Notes taken on the migration path
+
+[@n1vux@Mastodon.Radio]("https://mastodon.radio/@n1vux") 
+aka [BRicker@fosstodon.org](https://fosstodon.org/@BRicker)
+
+Original version Nov 3, 2022; updated shortly after I learn something?
+To see just the diffs, since you last looked, [view Diffs](https://github.com/n1vux/articles/commits/master/Linux/2022-Nov-Mastodon/Mastodon.md).
 
 ## Why
 
@@ -110,7 +117,7 @@ or at least, pro-Democracy, and suppressing "fake news" is fact-based. But not n
 
 ### Not exactly what you're expecting?
 
-Instead of Tweeting, we **Toot**; instead of `#Twitterstorians`, there are `#Histodonts`; there is no Verified ✓ . Unless you buy a server, there's usually no charge, just a **tip jar**.
+Instead of Tweeting, we **Post** (or **Toot** if one wants a pun); instead of `#Twitterstorians`, there are `#Histodonts`; there is no Verified ✓ , just verified URLs. Unless you buy a server, there's usually no charge, just a **tip jar**.
 
 Instead of an edge-cloud with eventual-consistency distributed DB run by one mega corp, Fediverse is scaled by having many collaborating instances under separate management that collaborite, each scaling according to own daily output & input, and funds available.
 
@@ -118,7 +125,11 @@ Each instance server can _but is not required to_ exchange content with (most) o
 
 Each instance sets it's **own content policy, moderation policy, privacy policy**, open enrollment or invite only, etc., and picks which nodes it trusts to federate with.  
 
-(E.g. [mastodon.radio](https://mastodon.radio) does NOT accept federation with nodes that have too loose a policy registered or fail to enforce their policy, e.g.,  [masthead.social](https://masthead.social), which is nominally for journalists, policy says **NoSpam**, but is actually just unmoderated spam.)
+(E.g. [mastodon.radio](https://mastodon.radio) does NOT accept federation with nodes that have a looser a policy registered, or fail to enforce their stated policy, e.g.,  `masthead.social` which is nominally for journalists, whose policy _says_ **NoSpam**, but is actually just unmoderated spam. This isn't censorship, this is decentralized federation providing for policy backbone.)
+
+Since there's no Algorithm, Favorites ⭐  are like they _used to be_ on Twitter ages ago before they adulterated it with faceless `^`Algorithms`^`: they tell the author you like it (and perhaps them), but doesn't help the post fly further. If you want to boost the post, you use the Boost 🔄 button  to relay it to your own Followers (like RT on bluebirdapp).
+
+Also since there's no Algorithm, **#HashTag** all the things.
 
 
 * Tutorial Video <https://youtu.be/mrsiej2dpBY>
@@ -151,17 +162,86 @@ And a lot of natural birds of a feather communities aren't yet represented, but 
 
 ### Notes
 
-* Mastodon DMs are not encrypted, and instead of being readable only by any Twitter DevOps who cares to gain privilege (or comply with a government order/request), are readable by sender & recipient's node admins, whomever they are.   A DM is just a Post or Reply with Visibility reset from default (likely World **🌎**) to Private (**🖂**), addresee(s) only. Arguably even worse substitute for secure messaging than Twitter DM.
-* Follow `@feditips@mstdn.social` for how-to tips
+* Mastodon DMs are not encrypted, and instead of being readable only by any Twitter DevOps who cares to gain privilege (or comply with a government order/request), are readable by sender & recipient's node admins, whomever they are.   A DM is just a Post or Reply with Visibility reset from default (likely World **🌎**) to Private (**🖂**), addresee(s) only. Arguably even worse substitute for secure messaging than Twitter DM.  
+* * Note that this 'Visibility' means DMs go to EVERYONE who is @-mentioned therein; so omit the @'s if you're trying to talk ABOUT someone privately!!
+* Follow `@feditips@mstdn.social` for how-to tips (more below)
 * You can move between instances later, <https://docs.joinmastodon.org/user/moving/>.
 you can move followers **and follows** with you, but posts won’t.
 
 ### Additional 
 
+follow `#FediTips` in a spare column to get tips, follow `@feditips@mstdn.social` to get them in your stream, or subscribe via [RSS](https://mstdn.social/@feditips.rss); <https://fedi.tips/> is the Archive.  **[Beginners Start Here](https://fedi.tips/mastodon-and-the-fediverse-beginners-start-here/)** has a brilliant explanation of WTAF is a Federated Network.
+
+> Federated networks have been around for centuries, and all of us have used them all our lives. The entire world is built around federated communications networks. The postal service is federated,…
+
+elucidating that what's different is this decentralized, federated social network is not that it's novel, but that it's not the private walled garden of singular mega-corporation, it's a return to how things used to be in real life and in Internet 1.0, but with the sort of modern interface that set Twitter apart from e.g. Usenet.
+
+Intros
+
+* [GorillaSun](https://gorillasun.de/blog/getting-started-with-mastodon)
+* [Em0nM4stodon](https://infosec.exchange/@Em0nM4stodon/109282181601490676)
+* [djnavarro](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/) 
+* [eishiya](https://mastodon.art/@eishiya/109302863700761738)
+
+#### Is Confusing Bad?
+
+Setting reasonable expectations is **welcoming**; setting unreasonable expectations "it's easy!" may drive away folks.
+
+> Matt Blaze [@mattblaze@federate.social](https://federate.social/@mattblaze/109301093901463161)
+
+> I have to disagree with my friends who keep hammering on the idea that people shouldn't say Mastodon is confusing. The user experience is fine (it's confusing, but not in any unexpected ways, and you can figure it out). But onboarding process, ambushing prospective users to choose a server, is something lots of people have trouble with. Not at even acknowledging that it's confusing amplifies how off putting this can be.
+
+> I'm no expert here, I've only been around for a few days. But I've helped a number of people sign up, and every one of them has been BAFFLED by this. So was I when I signed up. Claiming that it's not confusing just signals that they aren't welcome, or that this place isn't for them.
+
 #### Content Warnings 
 
 For things that some folks would rather not see or forward, use a Content Warning.
-This is more built-in in Mastodon & ActivityPub; it was just a convention in TW&FB.
+
+@vantablack@beach.city](https://beach.city/@vantablack/109298070673055369) writes:
+
+    okay more new user tips
+    content warnings are extremely important here
+    they're ingrained in our culture
+    they're not censorship, but rather consent
+    they allow someone to decide if they wanna engage with your post, and if so on what terms
+    they're a courtesy, and you have legiterally no reason to not use them as much as possible
+    they're one of the best features mastodon has
+    think of it like a subject line or a title for your post
+    you're MORE LIKELY to get "engagement" if you use them right
+
+Content Warnings allows you to display a warning, and hides the content of your post; folks who want to view can click to unwrap, and others can scroll past. 
+[an Intro post to CW](https://infosec.exchange/@Em0nM4stodon/109282181601490676)
+
+This is more built-in in Mastodon & ActivityPub, and enforced; it was just a convention in TW&FB. 
+Each node will have policy as to which Content Warnings are _required_ on their node, and nodes with tighter warning policy will not accept un-warned content from those with looser. Failure to abide by home-node CW policy is expected to result in "Moderation" (which may be timeout/warning or straight boot/ban if Mods are busy, guess what, it's AOL September for Mastodon, they're busy).
+
+ It's suggested that **Twitter** is a content-warning topic as well as the usual. 
+
+[Article discussing content warnings](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/) usage in Mastodon.
+
+#### Blocking/Muting
+
+Not only can you block or mute a single annoying account, if the host (=node, =instance) name looks like it exists solely to be a source of bother (Spam, Trolls, Ponzi, Phishing, …), you can block the whole instance.
+
+#### Slow Mode
+
+> In `Preferences > Appearance`, you can select the option “Slow mode” to hide automatic feed updates. You will then have to click at the top of the timelines to see new posts (ex: “10 new items”).
+> @Em0nM4stodon@infosec.exchange
+
+[more hints from same message](https://infosec.exchange/@Em0nM4stodon/109287715784844066)
+
+#### #CamelCaseHashtags
+
+> When writing hashtags, please use CamelCase instead of alllowercase! Example: not "mastoart", but "MastoArt".
+
+> That way, they're easier to read and it's easier to spot typos :] In addition, screen readers generally do a much better job with camel case because they can see the word breaks.
+
+> The hashtag suggestions often suggest the all lower-case version because so many people use those. Please resist the temptation to just click it and move on, type out the CamelCase version :D
+
+> #FediTips
+
+[eishiya](https://mastodon.art/@eishiya/109302863700761738)
+
 
 
 #### POSSE
@@ -208,6 +288,25 @@ If using free services to host your content, be sure to keep another copy elsewh
 >  #HowDoIVerifyMyAccount
 > There's no charge on here for verifying, and anyone can do it.
 
+(I have inserted `<a rel="me" href=...>` tags in hopes link here will verify.)
+
+#### Streaming
+
+> Fedi.Tips @feditips@mstdn.social
+**Livestreaming people!**
+
+> Do you want people on Mastodon to be able to follow your livestream and be notified when you go live?
+
+> There's a free open source streaming platform called @owncast which is also part of the Fediverse:
+
+> ➡️  https://owncast.online
+
+> You can follow OwnCast streams from Mastodon, and a post will appear in your timeline when they go live.
+
+> For example you can follow music accounts like @live or tech & gaming streamers like @Hamish or @hatnix 
+
+> #Fediverse #ActivityPub #OwnCast
+
 #### Replies Etiquette
 
 > Per Axbom @axbom@social.xbm.se
@@ -220,6 +319,49 @@ If using free services to host your content, be sure to keep another copy elsewh
 
 > #FediTips
 
+#### Data Loss ? Exposure to randy Billionaires ?
+
+One of the guiding lights [posts](https://social.xbm.se/@axbom/109301136826923094)
+
+> Per Axbom @axbom@social.xbm.se
+
+> Mastodon gGmbH is a non-profit (only since 2021), but that is not what makes it ”not possible to buy”. The software is licensed under the GNU Affero General Public License v3.0 so any code based on it, or any modifications, have to be made freely available.
+
+> I guess a big player can come in and make a big instance and lure people there (easier-to-use, better performance, apps, etc) but they would have to surrender and make available any code changes for free.
+
+> Now a billionaire could just refuse and drag things out in court. But Mastodon as we see it would still be open source and free and possible to install for anyone. The community would likely rally to best any improvements.
+
+> So there is no way a billionaire can take away the premise of open-source software and our option to use Mastodon for free. But they could use all sorts of tactics to make something else appear more attractive. Some may be seduced.
+
+
+Ovid asks a great question - 
+
+> Q. Given the federated nature of Mastodon, if a server goes away (domain expires, doesn't pay the bills, etc.) do I lose my account? (And thus, do I forever lose my history unless I've backed it up?)
+
+My answer 
+
+> A. yes and no. The JoinMastodon index compact requires 60 day notice of node shutdown. The account transfer tool moves profile, follows, and (amazinglu) followers. 
+>   This works, someone ran into life events and had announced they can't transfer years of trust to new Ops quickly, so shutting at EOY.
+> Posts alas aren't transferable - I'm guessing because no algorithm to assure bulk remoderation to new host policies?
+> But also,  under POSSE, better to treat microblog as ephemeral, save the good ones into a macroblog or static web page?
+
+(Obviously if a node goes down unexpectedly and irrecoverably, well, that's bad and sad. Volunteer run nodes fueld off tip-jars are NOT expected to have cross-region disaster recovery replication let along in-region hot-spares.)
+
+#### Importing Follows from TW bluebird site
+
+> Bryan Cantrill [@bcantrill@mastodon.social](https://mastodon.social/@bcantrill/109299388045950092)
+
+> I love @Luca's Fedifinder  (https://fedifinder.glitch.me/); t's been very important to get networks rehydrated here!  For me, it seems to stop at "14999 accounts scanned" when scanning followers;  are others hitting this as well? Do folks happen to know if this is a Twitter limitation?
+
+#### Finding kindred spirits
+
+in addition to 
+
+* picking host node `@MyFavoritThing` , 
+* putting `#HashTags` in your **Profile** 
+* and in your customary `#Introduction` post, 
+* and searching for same, 
+* there's node <https://a.gup.pe> 🐟  which creates a **virtual user for a group topic.** The mere act of Following `@ExampleTopic@a.gup.pe` [brings it into existence](https://a.gup.pe/u/exampletopic) if not already there, and having followed, you'll get in your home stream any message that tags `@ExampleTopic@a.gup.pe` as the bot Boosts as the topic-user anything tagging it. (Which this message just did.)
 
 ### Applications
 
@@ -232,6 +374,16 @@ If using free services to host your content, be sure to keep another copy elsewh
     * if you run both on same device, eventually either disable/remove one or turn off notifications on one!!
     * Similar choices for **iOS**, i haven't tested.
 
+**MORE "Delightful Fediverse Clients"**
+
+> Don Watkins :linux: [@donwatkins@fosstodon.org](https://fosstodon.org/@donwatkins/109302794890546466)
+> 
+A curated list of Fediverse client applications based on the ActivityPub protocol. - delightful-fediverse-clients - Codeberg.org <https://codeberg.org/fediverse/delight>
+
 ## -30-
+
+Feel free to follow either or both me, 
+[@n1vux@Mastodon.Radio]("https://mastodon.radio/@n1vux") 
+aka [BRicker@fosstodon.org](https://fosstodon.org/@BRicker)
 
 **Q&A** and more **Demo** 
