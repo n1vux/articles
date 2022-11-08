@@ -1,5 +1,10 @@
 % Articles by William D Ricker
 
+<a rel="me" href="https://mastodon.radio/@n1vux">Mastodon</a> 1,
+<a rel="me" href="https://fosstodon.org/@BRicker">Mastodon</a> 2,
+<a href="https://twitter.com/n1vux">twitter</a> if it lives;
+CPAN BRICKER, GH n1vux .
+
 ## WW1 Armistice - Massachusetts last casualties remembered
 
 * [11-11-11: Armistice #WW100 html](./11-11-11/output.html)  ([md](./11-11-11/output.md))
