@@ -162,7 +162,7 @@ And a lot of natural birds of a feather communities aren't yet represented, but 
 
 ### Notes
 
-* Mastodon DMs are not encrypted, and instead of being readable only by any Twitter DevOps who cares to gain privilege (or comply with a government order/request), are readable by sender & recipient's node admins, whomever they are.   A DM is just a Post or Reply with Visibility reset from default (likely World **🌎**) to Private (**🖂**), addresee(s) only. Arguably even worse substitute for secure messaging than Twitter DM.  
+* Mastodon DMs are not encrypted, and instead of being readable only by any Twitter DevOps who cares to gain privilege (or comply with a government order/request), are readable by sender & recipient's node admins, whomever they are.   A DM is just a Post or Reply with Visibility reset from default (likely World **🌎**) to Private (**🖂** or **@** icon), addresee(s) only. Arguably even worse substitute for secure messaging than Twitter DM.  
 * * Note that this 'Visibility' means DMs go to EVERYONE who is @-mentioned therein; so omit the @'s if you're trying to talk ABOUT someone privately!!
 * Follow `@feditips@mstdn.social` for how-to tips (more below)
 * You can move between instances later, <https://docs.joinmastodon.org/user/moving/>.
@@ -359,7 +359,7 @@ in addition to
 
 * picking host node `@MyFavoritThing` , 
 * putting `#HashTags` in your **Profile** 
-* and in your customary `#Introduction` post, 
+* and in your customary `#Introductions` post, 
 * and searching for same, 
 * there's node <https://a.gup.pe> 🐟  which creates a **virtual user for a group topic.** The mere act of Following `@ExampleTopic@a.gup.pe` [brings it into existence](https://a.gup.pe/u/exampletopic) if not already there, and having followed, you'll get in your home stream any message that tags `@ExampleTopic@a.gup.pe` as the bot Boosts as the topic-user anything tagging it. (Which this message just did.)
 
