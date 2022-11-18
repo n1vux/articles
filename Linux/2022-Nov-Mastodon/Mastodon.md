@@ -86,14 +86,13 @@ Mostly just like Twitter, Non-Federated & Centralized, but with additional probl
     * WebRings - **Federated & decentralized**!
 
 * **Alt-Left alternatives? (or Alt and not Alt-Right??)**
+    or at least, pro-Democracy, and suppressing "fake news" is fact-based. But not necessarily Progressive or "left".
 
-or at least, pro-Democracy, and suppressing "fake news" is fact-based. But not necessarily Progressive or "left".
+    - **[BlueSky](https://en.wikipedia.org/wiki/Bluesky_%28protocol%29)** looks to federate by its own rules, unlcear if bridging to Fediverse ActivityPub would be plausible or allowed.
 
-[BlueSky](https://en.wikipedia.org/wiki/Bluesky_%28protocol%29) looks to federate by its own rules, unlcear if bridging to Fediverse ActivityPub would be plausible or allowed.
+        **BlueSky** - BlueSKy is apparently a Protocol in competition with the Fediverse's ActivityPub, with a demo implementation only just in Beta; backed by Dorsey, to make something that his Twitter could've been but didn't as “protocol for large-scale distributed social applications that will allow for account portability, algorithmic choice, interoperability and performance". Anti-commercial. [oct.25 article](https://uk.finance.yahoo.com/news/jack-dorsey-bluesky-social-app-twitter-050005805.html). Started as a Twitter FLOSS spinoff? Original rumors of Blockchain denied. Dorsey BlueSky [may be collaborative](https://davetroy.medium.com/no-elon-and-jack-are-not-competitors-theyre-collaborating-3e88cde5267d) with Musk Twitter!?(_sounds like a conspiracy theory but by an insider so might be real?_)  Not ready yet. Intersting to watch.
 
-    * **BlueSky** - BlueSKy is apparently a Protocol in competition with the Fediverse's ActivityPub, with a demo implementation only just in Beta; backed by Dorsey, to make something that his Twitter could've been but didn't as “protocol for large-scale distributed social applications that will allow for account portability, algorithmic choice, interoperability and performance". Anti-commercial. [oct.25 article](https://uk.finance.yahoo.com/news/jack-dorsey-bluesky-social-app-twitter-050005805.html). Started as a Twitter FLOSS spinoff? Original rumors of Blockchain denied. Dorsey BlueSky [may be collaborative](https://davetroy.medium.com/no-elon-and-jack-are-not-competitors-theyre-collaborating-3e88cde5267d) with Musk Twitter!?(_sounds like a conspiracy theory but by an insider so might be real?_)  Not ready yet. Intersting to watch.
-
-    * **TribelSocial** claims to be pro-Democracy, but is reportedly just as data-harvesting as the big Socials where we're the product, not the customer.
+    - **TribelSocial** claims to be pro-Democracy, but is reportedly just as data-harvesting as the big Socials where we're the product, not the customer.
 
 * **Counter.Social (CoSo)**  
   Overtly political Twitter-alternative, run by an anonymous, career Grey-hat hacktivist.  
