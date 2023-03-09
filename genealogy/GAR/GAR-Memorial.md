@@ -6,6 +6,8 @@ _As seen in Maine Sunday Telegram and Lewiston Sun-Journal, Feb 26, 2023;
 authored by the family, 
 so Copyright &copy; 2023 Estate and Heirs of Geo. A Ricker._
 
+![George A Ricker (source: NWUC portrait)](./GAR.jpg){ height=20% width=20% }
+
 **George Albion Ricker** died peacefully at home in Windham, surrounded
 by family, February 16. George, age 90, grew up on the family farm,
 Ricker Hill Orchards, in Turner, Maine, with his late parents, Albion
@@ -68,14 +70,14 @@ A memorial service will be held at the North Windham Union Church on
 Thursday, March 2nd,  at 10 am (masks provided).
 
 Donations in George’s memory may be made to the Little Meeting House
-(P O Box 962, Windham ME 04062) or the North Windham Union Church
+(P O Box 962, Windham ME 04062) or the [North Windham Union Church](https://www.northwindhamunionchurch.org)
 (723 Roosevelt Trail, Windham ME 04062).
 
 # Memorial Service
 
 ## Order of Worship
 
-North Windham Union Church
+[North Windham Union Church](https://www.northwindhamunionchurch.org)
 
 United Church of Christ
 
