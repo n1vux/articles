@@ -105,7 +105,7 @@ Dad and Art Bierce,
 his long term car-pool from North Windham to Bonny Eagle High (18 years!),  
 his opposite number in English Dept  
 (English Lit vs American Lit, a convivial rivalry),  
-the pair referred to as Statler & Waldorf by Gen X & Gen Jones students raised on *Sesame Street* and *The Muppet Show*,
+the pair referred to as Statler & Waldorf by Gen X & Gen Jones students raised on *Sesame Street* and *The Muppet Show*,  
 had pledged to read Tennyson's "*Crossing the Bar*"  
 at **each other's** funerals  
 -- irony fully intended -- they taught rhetoric, so of course the irony was intended!
@@ -171,46 +171,52 @@ and those he left for us.
 Dad shared his love of many things with us.
 
 ### love of travel
-    * Dad loved to travel
-    * possibly from growing up riding as companion for distant apple deliveries, and Masonic and Pomological meetings, 
-    * possibly from reading about far places.
-    * as kids we drove everywhere as a family, usually with a small travel-trailer behind the station-wagon. We saw 47 of the lower 48 states, counted only if we'd stopped at the State Capitol building; ands many of the greatest National Parks (and Mom & Dad saw the rest later!).
-    * as young-retireds, our parents upgraded from the tiny camp trailer to smallest large RV and wandered as far as Alaska's Arctic Circle one summer but mostly south in winter as migratory snowbirds; and they continued to tour after selling on the RV.
-    * We shared a week together in FL just before plague in 2020 when our winter snowbird sojourns overlapped. Dad and I drove from his brother's cottage to one of the island parks for a day; i poked fortifications, Dad read his newspaper in the shade. He knew where the gift-shop with the ice-cream was. Then we had a joy ride over the sky-bridge and back just because it was there.
+
+* Dad loved to travel
+* possibly from growing up riding as companion for distant apple deliveries, and Masonic and Pomological meetings, 
+* possibly from reading about far places.
+* as kids we drove everywhere as a family, usually with a small travel-trailer behind the station-wagon. We saw 47 of the lower 48 states, counted only if we'd stopped at the State Capitol building; ands many of the greatest National Parks (and Mom & Dad saw the rest later!).
+* as young-retireds, our parents upgraded from the tiny camp trailer to smallest large RV and wandered as far as Alaska's Arctic Circle one summer but mostly south in winter as migratory snowbirds; and they continued to tour after selling on the RV.
+* We shared a week together in FL just before plague in 2020 when our winter snowbird sojourns overlapped. Dad and I drove from his brother's cottage to one of the island parks for a day; i poked fortifications, Dad read his newspaper in the shade. He knew where the gift-shop with the ice-cream was. Then we had a joy ride over the sky-bridge and back just because it was there.
 
 ### love of reading and love of learning
-    * Dad shared by example his love of reading - literature or genre, travel or history.
-    * So when i was at Arlington School - which once shared a driveway here - the only day better than School Lunch Pizza day was Scholastic Book Service book day.
-    * From Dad i also learned to look for bargain used books. Buck-a-Bag or Buck-a-foot day on the Sunday of a Library weekend booksale was his favorite. We scoured such sales to collect Readers Digest condensed volumes, which Bonny Eagle Vocational students would rebind into custom anthologies for his classes needing faster paced, gentler introductions to good literature.
+
+* Dad shared by example his love of reading - literature or genre, travel or history.
+* So when i was at Arlington School - which once shared a driveway here - the only day better than School Lunch Pizza day was Scholastic Book Service book day.
+* From Dad i also learned to look for bargain used books. Buck-a-Bag or Buck-a-foot day on the Sunday of a Library weekend booksale was his favorite. We scoured such sales to collect Readers Digest condensed volumes, which Bonny Eagle Vocational students would rebind into custom anthologies for his classes needing faster paced, gentler introductions to good literature.
 
 ### love of history
-    * While known as a teacher of English and Guidance counselor, Dad's major was History & Government with a minor in English with just enough Education classes to do student teaching. (Professional Credentialling has reversed since then!)
-    * So our available books and travel both included a lot of history.
+
+* While known as a teacher of English and Guidance counselor, Dad's major was History & Government with a minor in English with just enough Education classes to do student teaching. (Professional Credentialling has reversed since then!)
+* So our available books and travel both included a lot of history.
 
 ### love of family history
-    * growing up as he did with four generations sharing a door-yard on the farm that was first cleared and settled when Maine was still just a District and several Counties of Massachuesetts, family history was as near as great-grandmother's sick-bed and the family attic.
-    * since the Library of Congress was the one air-conditioned public building within distance of his army post, he naturally advanced to formal genealogy, reading town histories and family histories, first of his family and then of his fiancée's as well. Which got her and her Aunt interested too, and now me.
-    * as with Guidance, he largely passed the torch on Genealogy when computers took over!
+
+* growing up as he did with four generations sharing a door-yard on the farm that was first cleared and settled when Maine was still just a District and several Counties of Massachuesetts, family history was as near as great-grandmother's sick-bed and the family attic.
+* since the Library of Congress was the one air-conditioned public building within distance of his army post, he naturally advanced to formal genealogy, reading town histories and family histories, first of his family and then of his fiancée's as well. Which got her and her Aunt interested too, and now me.
+* as with Guidance, he largely passed the torch on Genealogy when computers took over!
 
 ### love of public speaking and drama
-    * Dad was a strong advocate of public speaking and drama in schools.
-    * Mom and Dad met at college drama club!
-    * He taught and coached debate, speech, drama.
-    * Dad encouraged not just _his_ students but also _my_ practice at public speaking in H.S., 
-    * which has served me well professionally, 
-    * and again today.
-    * Thank you once again, Dad.
+
+* Dad was a strong advocate of public speaking and drama in schools.
+* Mom and Dad met at college drama club!
+* He taught and coached debate, speech, drama.
+* Dad encouraged not just _his_ students but also _my_ practice at public speaking in H.S., 
+* which has served me well professionally, 
+* and again today.
+* Thank you once again, Dad.
 
 ### love of Boston Red Sox
-    * and inadvertently love of Boston
-    * Dad would nearly annually  ironically ask, 
-    * "How did i raise two city kids?"
-    * Dad, you taught us to love the Red Sox, win or lose;
-    * and to enjoy walkable cities;
-    * and with your Guidance research and instinct helped pick perfect Boston colleges for each of us.
-    * So naturally we came to love Boston as well as Maine.
-    * That we found jobs and stayed there isn't entirely your fault.
-    * in 2004, his kid brother, our Uncle Don, had just 2 tickets to one Red Sox World Series home game. So he took his brother on a once-in-a-lifetime roadtrip. Short in mileage by either of their travel standards, but long in memories.
+
+* and inadvertently love of Boston
+* Dad would nearly annually  ironically ask, 
+* "How did i raise two city kids?"
+* Dad, you taught us to love the Red Sox, win or lose;
+* and to enjoy walkable cities;
+* and with your Guidance research and instinct helped pick perfect Boston colleges for each of us.
+* So naturally we came to love Boston as well as Maine.
+* That we found jobs and stayed there isn't entirely your fault.
+* in 2004, his kid brother, our Uncle Don, had just 2 tickets to one Red Sox World Series home game. So he took his brother on a once-in-a-lifetime roadtrip. Short in mileage by either of their travel standards, but long in memories.
 
 and of course
 
