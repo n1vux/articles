@@ -1,6 +1,6 @@
 % Updates for Jewetts of America
 
-Additional descendants (non-living only) from select JoA v.1 & v.2 listings.
+Additional descendants (non-living only) from select [Jewetts of America](https://archive.org/search?query=%22Jewetts+of+America%22) volumes 1 & 2 listings. AFAIK, none of the added persons here were in the Newsletters nor volumes 3 & 4.
 
 
 ![](Screenshot_from_2023-03-09_19-34-16.png)
