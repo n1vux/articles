@@ -179,21 +179,24 @@ Dad shared his love of many things with us.
 ### love of travel
 
 Dad loved to travel possibly from growing up riding as companion
-for distant apple deliveries, and Masonic and Pomological meetings, *
-possibly from reading about far places.  * as kids we drove everywhere as
-a family, usually with a small travel-trailer behind the station-wagon. We
-saw 47 of the lower 48 states, counted only if we'd stopped at the State
-Capitol building; and many of the greatest National Parks (and Mom &
-Dad saw the rest later!).  * as young-retireds, our parents upgraded
-from the tiny camp trailer to smallest large RV and wandered as far
-as Alaska's Arctic Circle one summer but mostly south in winter as
-migratory snowbirds; and they continued to tour after selling on the RV.
+for distant apple deliveries, and Masonic and Pomological meetings,
+possibly from reading about far places.  
+
+As kids we drove everywhere as a family, usually with a small
+travel-trailer behind the station-wagon. We saw 47 of the lower 48 states,
+counted only if we'd stopped at the State Capitol building; and many of
+the greatest National Parks (and Mom & Dad saw the rest later!).
+
+As young-retireds, our parents upgraded from the tiny camp trailer to
+smallest large RV and wandered as far as Alaska's Arctic Circle one
+summer but mostly south in winter as migratory snowbirds; and they
+continued to tour after selling on the RV.
 
 We shared a week together in FL just before plague in 2020 when our
 winter snowbird sojourns overlapped. Dad and I drove from his brother's
 cottage to one of the island parks for a day; i poked fortifications,
 Dad read his newspaper in the shade. He knew where the gift-shop with
-the ice-cream was. Then we had a joy ride over the sky-bridge and back
+the ice-cream was. Then we had a joy-ride over the sky-bridge and back
 just because it was there.
 
 ### love of reading and love of learning
