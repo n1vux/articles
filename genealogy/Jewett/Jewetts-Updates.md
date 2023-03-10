@@ -1,6 +1,6 @@
 % Updates for Jewetts of America
 
-Additional descendants (non-living only) from select [Jewetts of America](https://archive.org/search?query=%22Jewetts+of+America%22) volumes 1 & 2 listings. AFAIK, none of the added persons here were in the Newsletters nor volumes 3 & 4.
+Additional descendants (non-living only) from select [_Jewetts of America_](https://archive.org/search?query=%22Jewetts+of+America%22) volumes 1 & 2 listings. AFAIK, none of the added persons here were in the Newsletters nor volumes 3 & 4.
 
 
 ![](Screenshot_from_2023-03-09_19-34-16.png)
@@ -12,7 +12,7 @@ Key:
 * Red &#x1f534; on marriage is consanguineous; sometimes not Jewett!  
 * On Person: red &#x1f534; is medical doctor; <span style="background-color:cyan">sky blue</span> is immigrant; orange &#x1F7E0; is unsure connection; purple &#x1f7ea; is clergy or deacon; <span style="background-color:  #9bdd47">lt.green</span> is proprietor; dk.brown &#x1F7EB; is slave-holder; medium blue &#x1F7E6; is soldier or militia; <span style="background-color:tan">tan</span> is Mayflower descent.
 
-Numbers prefixed with J# are Jewetts of America numbers. Any other descendency ids are identified when used.
+Note: Numbers below that are prefixed with J# are [_Jewetts of America_](https://archive.org/search?query=%22Jewetts+of+America%22) numbers from those books, which are referred to as **JoA**. Other family descendency ids provided as cross-reference are identified when used.
 
 ----------
 
@@ -215,10 +215,9 @@ sp. **Rawstron**, Albert Victor (b. 1882-05-24, d. 1942-01-11)
 
 -----------
 
-# J#7151 DAVID NATHANIEL JEWETT 
+# J#7151 David Nathaniel Jewett 
 
 `(David^4697, Joseph^2736, Moses^1369, Moses^646, Aaron^#221, Jeremiah^69, Jeremiah^15, Joseph^4, Edward^1)`
-
 
 
 (b. 1848, d. 1922)
