@@ -143,7 +143,7 @@ I hope to see my Pilot face to face
 
 -----------
 
-## B. Tree of Life design
+## Tree of Life design
 
 While Tree of Life is a very popular metaphor,  
 making this urn a best-seller,  
@@ -168,7 +168,7 @@ and those he left for us.
 
 ---------
 
-## C. Bill's Remembrance
+## Bill's Remembrance
 
 Dad shared his love of many things with us.
 
@@ -177,7 +177,7 @@ Dad shared his love of many things with us.
 * Dad loved to travel
 * possibly from growing up riding as companion for distant apple deliveries, and Masonic and Pomological meetings, 
 * possibly from reading about far places.
-* as kids we drove everywhere as a family, usually with a small travel-trailer behind the station-wagon. We saw 47 of the lower 48 states, counted only if we'd stopped at the State Capitol building; ands many of the greatest National Parks (and Mom & Dad saw the rest later!).
+* as kids we drove everywhere as a family, usually with a small travel-trailer behind the station-wagon. We saw 47 of the lower 48 states, counted only if we'd stopped at the State Capitol building; and many of the greatest National Parks (and Mom & Dad saw the rest later!).
 * as young-retireds, our parents upgraded from the tiny camp trailer to smallest large RV and wandered as far as Alaska's Arctic Circle one summer but mostly south in winter as migratory snowbirds; and they continued to tour after selling on the RV.
 * We shared a week together in FL just before plague in 2020 when our winter snowbird sojourns overlapped. Dad and I drove from his brother's cottage to one of the island parks for a day; i poked fortifications, Dad read his newspaper in the shade. He knew where the gift-shop with the ice-cream was. Then we had a joy ride over the sky-bridge and back just because it was there.
 
@@ -189,12 +189,12 @@ Dad shared his love of many things with us.
 
 ### love of history
 
-* While known as a teacher of English and Guidance counselor, Dad's major was History & Government with a minor in English with just enough Education classes to do student teaching. (Professional Credentialling has reversed since then!)
+* While known as a teacher of English and Guidance counselor, Dad's major was History & Government with a minor in English with just enough Education classes to do student teaching. (Professional Credentialing has reversed since then!)
 * So our available books and travel both included a lot of history.
 
 ### love of family history
 
-* growing up as he did with four generations sharing a door-yard on the farm that was first cleared and settled when Maine was still just a District and several Counties of Massachuesetts, family history was as near as great-grandmother's sick-bed and the family attic.
+* growing up as he did with four generations sharing a door-yard on the farm that was first cleared and settled when Maine was still just a District and several Counties of Massachusetts, family history was as near as great-grandmother's sick-bed and the family attic.
 * since the Library of Congress was the one air-conditioned public building within distance of his army post, he naturally advanced to formal genealogy, reading town histories and family histories, first of his family and then of his fiancée's as well. Which got her and her Aunt interested too, and now me.
 * as with Guidance, he largely passed the torch on Genealogy when computers took over!
 
