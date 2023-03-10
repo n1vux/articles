@@ -5,6 +5,10 @@
 <a href="https://twitter.com/n1vux">twitter</a> if it lives;
 CPAN BRICKER, GH n1vux .
 
+## [Genealogy](./genealogy/)
+
+* [George A Ricker Memorial](./genealogy/GAR/GAR-Memorial.html)
+
 ## WW1 Armistice - Massachusetts last casualties remembered
 
 * [11-11-11: Armistice #WW100 html](./11-11-11/output.html)  ([md](./11-11-11/output.md))

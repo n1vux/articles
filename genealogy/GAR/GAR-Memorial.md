@@ -1,5 +1,9 @@
 % George A Ricker Memorial
 
+([up to genealogy](..)) ([up to articles home](../..))
+
+-----------
+
 # Obituary
 
 _As seen in [Maine Sunday Telegram](https://www.pressherald.com/2023/02/26/obituarygeorge-albion-ricker-2/) and [Lewiston Sun-Journal](https://www.sunjournal.com/2023/02/26/obituarygeorge-albion-ricker-2/), Feb 26, 2023;
