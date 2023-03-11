@@ -93,7 +93,7 @@ George Ricker
 
 * Welcome
 * Invocation - Rev Debra Girard
-* Pastoral Praye - Rev Debra Girard
+* Pastoral Prayer - Rev Debra Girard
 * Hymn _How Great Thou Art_
 * Intro to the 23rd Psalm  - Rev Debra Girard
 * Unison Reading, 23rd Psalm
