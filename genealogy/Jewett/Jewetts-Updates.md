@@ -19,7 +19,7 @@ Note: Numbers below that are prefixed with J# are [_Jewetts of America_](https:/
 
 # J#4624  Jewett, Florence Anna 
 
-`(William H.^2692, John^1346, Noah^587, Stephen^198, Aquila^64, Joseph^4, Maximilian^3, Edward^1)`
+`(William H.^2692, John^1346, Noah^587, Stephen^198, Aquila^64, Joseph^11, Maximilian^3, Edward^1)`
 
 (b. 1857-06-07 - Double Branch, GA, d. 1941-12-20)
 
@@ -180,9 +180,9 @@ multiple living descent.
 
 ------------
 
-# J#1341 Jewett, Sarah 
+# J#1341 Jewett, Sarah (aka Sally)
 
-`(Deac. Noah^587, Stephen^198, Aquila^64, Joseph^4, Maximilian^3, Edward^1)`
+`(Deac. Noah^587, Stephen^198, Aquila^64, Joseph^11, Maximilian^3, Edward^1)`
 
 
 _sister of John #1346 mentioned above_
@@ -475,3 +475,8 @@ _Enoch and Sally were parents of [**Charles H Barker, MD**](#barker-charles-hubb
 * 4. Barker, Humphrey
 
 -----------
+
+# Sarah, Ellsworth 211 612 ...
+
+------
+
