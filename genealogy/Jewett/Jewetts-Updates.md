@@ -1,8 +1,25 @@
 % Updates for Jewetts of America
 
-Additional descendants (non-living only) from select [_Jewetts of America_](https://archive.org/search?query=%22Jewetts+of+America%22) volumes 1 & 2 listings. 
-As far as i know (AFAIK), none of the added persons here were in the Newsletters nor volumes 3 & 4, but i should verify that!
+---------
 
+# Jewett Ancestors not previously listed
+
+This page reports additional Descendants (non-living only) of [_Jewetts of America_](https://archive.org/search?query=%22Jewetts+of+America%22) ([OpenLibrary](https://openlibrary.org/books/OL7001732M/History_and_genealogy_of_the_Jewetts_of_America#editions-list)) volumes 1 & 2 persons in my own ancestry. (_Hereafter referred to as JoA and J#._)
+
+As far as I know (AFAIK), none of the un-numbered persons listed here were in the Newsletters or Annuals. (If [JoA society](https://www.jewett.org/) newsletter editor would like this reformatted for newsletter, contact me on FB or email!)
+
+Siblings and/or parents of two last-numbered ancestors here are mentioned in Newsletter/Quarterly articles, but not the last-numbered ancestor nor first un-numbered, as noted below at [J#7151 & J#9180 + J#9181](#j7151-david-nathaniel-jewett), [J#217 & J#645](217-hannah-jewett), _q.v._
+
+
+I've made my own index of Vols 3 & 4 clusters, and i have verified none of those newly numbered clusters match these un-numbered lines. Though several are adjacent: 
+
+* J#17 Hannnah, aunt & m. cousin, sibling of J#15 Jeremiah [iii:1], which latter is in my J#217 Hannah and J#7151 David N lines; 
+* J#22 Joseph, Step-father, and half-sibling of ancestor J#15 so ½uncle [iii:14], ditto;
+* J#63 Jonathan, uncle, bro. of J#64 Aquila [iii:26], which latter is in my J#4624 Florence, J#1341 Sarah  lines; 
+* J#645 James, Uncle, bro. of J#646 Moses, which latter is in my J#7151 David N line; James died of woulds at seige of Louisburg, where many ancestors fought, some died [iii:154]; 
+* J#2735 Moses, uncle, as bro. of J#2736 Joseph [iv:878], which latter is in my J#7151 David N line.)
+
+# Jewett Ancestry of William Ricker  
 
 ![](Screenshot_from_2023-03-09_19-34-16.png)
 ![](Screenshot_from_2023-03-09_19-35-27.png)
@@ -10,10 +27,11 @@ As far as i know (AFAIK), none of the added persons here were in the Newsletters
 
 Key:
 
-* Red &#x1f534; on marriage is consanguineous; sometimes not Jewett!  
-* On Person: red &#x1f534; is medical doctor; <span style="background-color:cyan">sky blue</span> is immigrant; orange &#x1F7E0; is unsure connection; purple &#x1f7ea; is clergy or deacon; <span style="background-color:  #9bdd47">lt.green</span> is proprietor; dk.brown &#x1F7EB; is slave-holder; medium blue &#x1F7E6; is soldier or militia; <span style="background-color:tan">tan</span> is Mayflower descent.
+* This view shows connection of **Edward^1** to your humble reporter, two lines below margin; omitting non-Jewett in-laws. Produced in the [GRAMPS desktop program](https://gramps-project.org/blog/).
+* Red &#x1f534; on marriage denotes consanguineous marriage; sometimes not Jewett! Text below should indicate degree of cousinship.
+* On Person: red &#x1f534; is medical doctor; <span style="background-color:cyan">sky blue</span> is immigrant; orange &#x1F7E0; is unsure connection; purples &#x1f7ea; are clergy or deacon; <span style="background-color:  #9bdd47">lt.green</span> is proprietor; dk.brown &#x1F7EB; is slave-holder; medium blue &#x1F7E6; is soldier or militia; <span style="background-color:tan">tan</span> is Mayflower descent line carrier. (These colors are my own mnemonic choices for my selection of filterable "tags" on people and families.)
 
-Note: Numbers below that are prefixed with J# are [_Jewetts of America_](https://archive.org/search?query=%22Jewetts+of+America%22) numbers from those books, which are referred to as **JoA**. Other family descendency ids provided as cross-reference are identified when used.
+Note: Numbers below that are prefixed with **J#** are [_Jewetts of America_](https://archive.org/search?query=%22Jewetts+of+America%22) numbers from those books, which are referred to as **JoA**. Other family descendency ids provided as cross-reference are identified when used.
 
 ----------
 
@@ -277,6 +295,8 @@ _**Emma Mary Shea (Jewett)**, wife of **J#7151 David Jewett**
 is supposedly also of Jewett Descent,
 from [**J#642 Jeremiah Pearson**](#j642-jeremiah-pearson); supposed line given below, q.v.
 
+_This family is mentioned in JoA 1998 Quarterly article, issue no.2, ["Jewett Families Buried at Whitefield Cemetery" , Barbara Jewett Shaw](https://www.jewett.org/jfa_backissues/jfa_quarterly_1998_2.pdf) for the burial of parents and siblings of my ancestors; our gal is buried with her in-laws in Alna._
+
 3 Children.  _I have as yet no additional information to offer on J#9180 2. Mabel and J#9181 3. Alvin Nathaniel lines._
 
 ## 1. J#9179 Almira Jewett. aka Almyra.
@@ -368,6 +388,8 @@ Living descent.
 `(Jeremiah^69, Jeremiah^15, Joseph^4, Edward^1)`
 
 sp. LT Stephen Pearson (jr); 
+
+Lt. Stephen and Hannah (Jewett) Pearson (J#217)are mentioned in [_Jewett Family America Quarterly_, 1999 No.2](https://www.jewett.org/jfa_backissues/jfa_quarterly_1999_2.pdf) article correcting Vol. III, Cluster 645, [iii:154], regarding illegitimate and consanguineous parentage of J#10207 James Jewett, husband of their daughter J#638 Mary Pearson; citing _The Maine Genealogist_.
 
 ### J#642 Jeremiah Pearson
 
@@ -592,4 +614,6 @@ _Aunt Cora never married, no issue. School teacher._
 sp. Barton, Eunice (b. about 1768), m. about 1805
 
 ------
+
+Individual facts are not copyright, by law. This compilation Copyright &copy; 2023 William D Ricker.
 
