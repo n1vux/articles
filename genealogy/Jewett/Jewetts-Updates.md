@@ -306,7 +306,7 @@ d. 2006-06-08 - Damariscotta, Lincoln Co, ME),
 
 m. 1930
 
-Cross-Reference [Book of Dow #adkfbeibb](https://archive.org/details/bookofdowgenealo00dowr/page/378/mode/1up?q=adkfbeib); son of Abbie L Farrington#92 [Farrington Memorial rev.ed p.17](https://babel.hathitrust.org/cgi/pt?id=wu.89066007758&view=1up&seq=39&skin=2021).
+_**George F Dow** is of Jewett Descent via [**J#612 Jonathan Ellsworth**](#j612-jonathan-ellsworth) below, q.v._
 
 3 children:
 
@@ -476,7 +476,120 @@ _Enoch and Sally were parents of [**Charles H Barker, MD**](#barker-charles-hubb
 
 -----------
 
-# Sarah, Ellsworth 211 612 ...
+# J#612 Jonathan Ellsworth 
+
+`(Jonathan^211 Jeremiah^68 Sarah^13, Maximilian^3, Edward^1)` 
+
+_Ellsworth genealogy has total of 9 siblings including Jonathan (jr)._
+
+
+(b. 1763-06-13 - Rowley, Essex Co, MA,
+d. 1836 - Avon, Franklin Co, ME,)
+
+sp. Storer, Esther (b. about 1773)
+
+two Ellsworth children:
+
+## 1. Ellsworth, Levi (b. 1801, d. 1879-10-11)
+
+sp. McManus, Lucy Ann (b. before 1812, d. 
+1885), m. 1831-03-10
+
+following one child -
+
+### 1.  Ellsworth, Caroline (b. 1832-05-27, d. 1900-02-04)
+
+sp. Dow, Charles Curtis (b. 1835-09-30 - 
+East Livermore - Livermore Falls, 
+Androscoggin Co, Maine, USA, d. 1919-02-09
+- Fayette, Kennebec, Maine, Kennebec Co, 
+ME, Maine, USA)
+
+3 Dow Children:
+
+#### 1. Dow, James Henry 
+
+(b. 1861-10-17 - Freeman, Franklin Co, ME, 
+d. 1961-06-11 - Orono, Penobscot Co, ME)
+
+sp. (m.1) Bradbury, Myra E (b. 1866, d. 1893)
+
+sp. (m.2) Farrington, Abbie Louisa 
+(b. 1869-11-14 - Holden, Penobscot Co, ME, 
+d. 1948-12-07 - Bangor, Penobscot Co, ME), 
+
+
+Cross-Reference Farrington#92 [Farrington Memorial rev.ed p.17](https://babel.hathitrust.org/cgi/pt?id=wu.89066007758&view=1up&seq=39&skin=2021).
+
+m. 1903-07-10 - Portland, Cumberland Co, ME
+
+Children with Abbie only:
+
+* 1. Dow, Ruth E 
+
+(b. 1904-04-19, 
+d.   2005-10-09 -  Damariscotta, Lincoln Co, ME)
+
+* 2. Dow, George Farrington 
+
+(b. 1905-07-22 - South Portland, Cumberland Co ME, 
+d. 2006-06-08 - Damariscotta, Lincoln Co, ME)
+
+sp. Walker, Myrtle Margaret 
+(b. 1908-02-14 - Alna, Lincoln Co, ME, 
+d. 1992-02-07 Maine), 
+
+m. 1930
+
+
+Cross-Reference George Dow is [Book of Dow #adkfbeibb](https://archive.org/details/bookofdowgenealo00dowr/page/378/mode/1up?q=adkfbeib).
+
+**George F Dow** and [**Myrtle M Walker**](#j9179-almira-jewett.-aka-almyra.) above, daughter of **J#9179 Almira** Jewett _q.v._, were 8th Cousins 2 Removes by **J#1 Edward Jewett** (and also 8th, 1 R by John Hoyt).
+
+_See under Myrtle's line above for further descent._
+
+
+#### 2. Dow, Dorrill Winfield aka Winfield, Dorrilous
+
+_**WARNING** Details for Uncle Dorrill's descent are unverified from Web Genealogies._
+
+(b. 1866-06-16,
+d. 1919-02-06 - Portland, Cumberland Co, ME)
+
+sp. Wall, Carrie M 
+(b. - Augusta, Kennebec Co, ME, 
+d. 1902-11-09 - Portland, Cumberland Co, ME),
+
+sp. Haskell, Mary Frances (b. 1875 - 
+Cape Elizabeth, Cumberland, Maine, 
+Falmouth (greater, qua Portland), 
+Cumberland Co ME, Maine, USA), m. 
+1907-10-02
+
+Children with m.1 Carrie :
+
+* 1. Dow, Carroll Winfield (b. 1894-01-02 - Portland, Cumberland Co, ME; d. 1950-10-23 - Portland)
+
+* 2. Dow, Florence Edna (b. 1895-07-24, d. 1954-07-04)
+
+sp. Crossett, Calvin D 
+(b. 1898-01-00, d. 1953-01-10), 
+
+m. 1919-09-02 - Freeport, Cumberland Co, ME;
+
+_Crossett descent seen on web._
+
+Children of Dorrill with m.2 Mary Frances
+
+* 3. Dow, Frances Winifred (b. 1909)
+
+#### 3. Dow, Cora Caroline (b. 1873)
+
+_Aunt Cora never married, no issue. School teacher._
+
+## 2. Ellsworth, Joanna (b. 1798, d. 1873)
+
+sp. Barton, Eunice (b. about 1768), m. about 1805
 
 ------
 
