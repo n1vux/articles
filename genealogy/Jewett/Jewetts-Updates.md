@@ -36,7 +36,7 @@ _Note **J#1346 John Jewett**'s wife **Betsey Barker** is his fourth cousin, of J
 
 3 children:
 
-## J#7032 1. Ricker, Bess 
+## J#7032 1. Ricker, Bess(ie) Jewett
 
 (b. 1880-11-21, d.  1906-08-04)
 
