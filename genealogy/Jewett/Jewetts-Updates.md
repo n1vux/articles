@@ -575,10 +575,12 @@ _See under Myrtle's line above for further descent._
 
 #### 2. Dow, Dorrill Winfield aka Winfield, Dorrilous
 
-_**WARNING** Details for Uncle Dorrill's descent are unverified from Web Genealogies._
+&#x26A0; **WARNING:** _Details for Uncle Dorrill's descent are unverified, from Web Genealogies, but they do look similar to what Mom has told me._
 
 (b. 1866-06-16,
 d. 1919-02-06 - Portland, Cumberland Co, ME)
+
+_Uncle Dorrill was a railroad official of some sort. He nursed his father through the 1918 Flu (in 1918); he went back to the city on business, and dropped dead as he descended to the platform, supposedly. His father also died within days. His brother J Henry nursed young teen Grandfather George through the 'Flu successfully._
 
 sp. Wall, Carrie M 
 (b. - Augusta, Kennebec Co, ME, 
