@@ -4,9 +4,9 @@
 
 # Jewett Ancestors not previously listed
 
-This page reports additional Descendants (non-living only) of [_Jewetts of America_](https://archive.org/search?query=%22Jewetts+of+America%22) ([OpenLibrary](https://openlibrary.org/books/OL7001732M/History_and_genealogy_of_the_Jewetts_of_America#editions-list)) volumes 1 & 2 persons in my own ancestry. (_Hereafter referred to as JoA and J#._)
+This page reports my tangled Jewett pedigree, noting additional Descendants (non-living only) of [_Jewetts of America_](https://archive.org/search?query=%22Jewetts+of+America%22) ([OpenLibrary](https://openlibrary.org/books/OL7001732M/History_and_genealogy_of_the_Jewetts_of_America#editions-list)) volumes 1 & 2 persons therein. (_Hereafter referred to as JoA and J#._)
 
-As far as I know (AFAIK), none of the un-numbered persons listed here were in the Newsletters or Annuals. (If [JoA society](https://www.jewett.org/) newsletter editor would like this reformatted for newsletter, contact me on FB or email!)
+As far as I know (AFAIK), none of the un-numbered persons listed here were in the Newsletters, Quarterly, or Annual publications of the society. (_If [JoA society](https://www.jewett.org/) newsletter editor would like this reformatted for newsletter, i would consider - and will also share further details with the Historian._)
 
 Siblings and/or parents of two last-numbered ancestors here are mentioned in Newsletter/Quarterly articles, but not the last-numbered ancestor nor first un-numbered, as noted below at [J#7151 & J#9180 + J#9181](#j7151-david-nathaniel-jewett), [J#217 & J#645](217-hannah-jewett), _q.v._
 
