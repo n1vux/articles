@@ -11,7 +11,7 @@ As far as I know (AFAIK), none of the un-numbered persons listed here were in th
 Siblings and/or parents of two last-numbered ancestors here are mentioned in Newsletter/Quarterly articles, but not the last-numbered ancestor nor first un-numbered, as noted below at [J#7151 & J#9180 + J#9181](#j7151-david-nathaniel-jewett), [J#217 & J#645](217-hannah-jewett), _q.v._
 
 
-I've made my own index of Vols 3 & 4 clusters, and i have verified none of those newly numbered clusters match these un-numbered lines. Though several are adjacent: 
+I've made my own [index of Vols 3 & 4 clusters](joa-v3+4-clusters.html), and i have verified none of those newly numbered clusters match these un-numbered lines. Though several are adjacent: 
 
 * J#17 Hannnah, aunt & m. cousin, sibling of J#15 Jeremiah [iii:1], which latter is in my J#217 Hannah and J#7151 David N lines; 
 * J#22 Joseph, Step-father, and half-sibling of ancestor J#15 so ½uncle [iii:14], ditto;
@@ -27,7 +27,7 @@ I've made my own index of Vols 3 & 4 clusters, and i have verified none of those
 
 Key:
 
-* This view shows connection of **Edward^1** to your humble reporter, two lines below margin; omitting non-Jewett in-laws. Produced in the [GRAMPS desktop program](https://gramps-project.org/blog/).
+* This view shows connection of **Edward^1** to your humble reporter, who would appear two lines below the bottom margin. This view is omitting non-Jewett in-laws as well as all living persons. Produced in the [GRAMPS desktop program](https://gramps-project.org/blog/).
 * Red &#x1f534; on marriage denotes consanguineous marriage; sometimes not Jewett! Text below should indicate degree of cousinship.
 * On Person: red &#x1f534; is medical doctor; <span style="background-color:cyan">sky blue</span> is immigrant; orange &#x1F7E0; is unsure connection; purples &#x1f7ea; are clergy or deacon; <span style="background-color:  #9bdd47">lt.green</span> is proprietor; dk.brown &#x1F7EB; is slave-holder; medium blue &#x1F7E6; is soldier or militia; <span style="background-color:tan">tan</span> is Mayflower descent line carrier. (These colors are my own mnemonic choices for my selection of filterable "tags" on people and families.)
 
@@ -396,7 +396,7 @@ Lt. Stephen and Hannah (Jewett) Pearson (J#217)are mentioned in [_Jewett Family 
 As noted above, there is a web genealogy with a Jewett line from this Jeremiah 
 to the wife of [**J#7151 David Jewett** ](#j7151-david-nathaniel-jewett) above.
 
-i have **not** verified this line found on the web myself, yet. 
+&#x26A0; **WARNING:** _I have **not verified** this line found on the web myself, yet. The connections between Pearson and Carleton are quite plausible as the families were professionally connected, but i want more proof._
 
 * Lois Pearson
 	- Jeremeiah Carleton
@@ -421,7 +421,7 @@ Cross-reference [Barker#20 Noah^3](https://archive.org/details/barkergenealogyr0
 
 multiple children _of whom we follow:_
 
-### J#164 Ebenezer Barker
+### J#164 Ebenezer Barker (sr)
 
 _who is common Barker ancestor of Will Ricker and Mary Barker._
 
@@ -431,6 +431,8 @@ _who is common Barker ancestor of Will Ricker and Mary Barker._
 sp. Rundlett, Mary (b. calculated about 1721, d.  1791-09-14)
 
 Cross-reference [Barker#35 Ebenezer^4](https://archive.org/details/barkergenealogyr00bark/page/411/mode/1up?q=79+Noah).
+
+&#x26A0; **WARNING:** _I have some slight caveats on the connections of J#164 Ebenezer Barker and reported wive(s); and also identifying Enoch Merrill Barker & Enoch Barker as the same person; these seem sound but more TBD._
 
 Multiple children, of whom we follow only 2:
 
