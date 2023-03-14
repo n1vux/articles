@@ -337,13 +337,15 @@ _**George F Dow** is of Jewett Descent via [**J#612 Jonathan Ellsworth**](#j612-
 * 2. Dow, Barbara Louise
 
 (b. 1934-12-31 - Penobscot Co, ME, Maine, USA, 
-d. 2021-01-01 - Raleigh, Wake Co., NC) [obit](), [joint memorial service video](https://www.facebook.com/watch/live/?ref=watch_permalink&v=3052922898299695)
+d. 2021-01-01 - Raleigh, Wake Co., NC) [obit](./Barbara-Turner-obit.html).
 
 sp. **Turner**, James Harvey aka "Jim"
 (b. 1931-05-29 - Illinois, USA, 
-d. 2020-07-09 Raleigh, Wake Co., NC), [joint memorial service video](https://www.facebook.com/watch/live/?ref=watch_permalink&v=3052922898299695)
+d. 2020-07-09 Raleigh, Wake Co., NC), 
 
 m. 1957-12-28
+
+Cary Presbyterian held a joint memorial service for Jim & Barbara. Video on [FB](https://www.facebook.com/watch/live/?ref=watch_permalink&v=3052922898299695) or [web](https://www.carypresbyterian.org/media/gkd2zhz/jim-barbara-turner-service-of-witness-to-the-resurrection).
 
 Living descent.
 
@@ -559,7 +561,7 @@ d.   2005-10-09 -  Damariscotta, Lincoln Co, ME)
 * 2. Dow, George Farrington 
 
 (b. 1905-07-22 - South Portland, Cumberland Co ME, 
-d. 2006-06-08 - Damariscotta, Lincoln Co, ME)
+d. 2006-06-08 - Damariscotta, Lincoln Co, ME) [Nobleboro Hist Soc Obit + Eulogy](http://www.nobleborohistoricalsociety.org/GeorgeDow.shtml)
 
 sp. Walker, Myrtle Margaret 
 (b. 1908-02-14 - Alna, Lincoln Co, ME, 
