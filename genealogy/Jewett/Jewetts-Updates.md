@@ -109,15 +109,15 @@ Cross-reference - Ricker#15716.
 3 children: 
 
 * 1.  Ricker, George Albion
-(b.  1932-03-28 - Lewiston, Androscoggin, ME, Androscoggin Co, Maine, USA,
-d. 2023-02-16 - at home, East Windham,  Cumberland Co ME)
+(b.  1932-03-28 - Lewiston, Androscoggin, ME, Androscoggin Co, Maine, USA,  
+d. 2023-02-16 - at home, East Windham,  Cumberland Co ME); burial TBD; [Obit and Eulogies](../GAR/GAR-Memorial.html).
 
-spouse living; living descent (including this reporter).
+spouse living; living descent (_including this reporter; see my Remembrance or eulogy at link above_).
 
 Cross-reference - Ricker#29711.
 
 * 2.  Ricker, William Gordon 
-(b.  1935-04-02 - Ricker Hill, Turner, ME, Androscoggin Co, Maine, USA, 
+(b.  1935-04-02 - Ricker Hill, Turner, ME, Androscoggin Co, Maine, USA,  
 d.  1935-04-04 - Ricker Hill, Turner, ME, Androscoggin Co, Maine, USA)
 [(F-a-G)](https://www.findagrave.com/memorial/239726354/william-gordon-ricker)
 
@@ -132,7 +132,7 @@ sp. **Boothby**, Laurence Bizzell
 
 m.  1931-08-15
 
-multiple children, of whom most are living; two alas updatable:
+multiple children, of whom most are living; two alas are share-able:
 
 *  Boothby, Eleanor Belle 
 (b.  1934-05-12, 
@@ -183,11 +183,13 @@ no issue.
 
 
 * 3. Hatch, Marion (b. 1916-08-22, d.  2018-07-27)
-[(F-a-G)](https://www.findagrave.com/memorial/239583106/marion-bowman)
+[(F-a-G)](https://www.findagrave.com/memorial/239583106/marion-bowman), [obit](https://www.pressherald.com/2018/07/31/marion-bowman/)
 
 sp. **Bowman**, Ben Cook (b.  1912-12-22, d. 2001-02-01);
 
 no issue.
+
+_She was the doyen of Mid-Century Modern when MCM was new; and was also once a [professional genealogical researcher](https://archive.org/details/researchinameric00kirk/page/60/mode/1up?q=Marion+Hatch+Bowman). He was Newberry Library Librarian among other posts._
 
 * 4. Hatch, Priscilla (b. 1921-02-07, d. 2011-11-22)
 [(F-a-G)](https://www.findagrave.com/memorial/239587198/priscilla-moore)
