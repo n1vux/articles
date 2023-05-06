@@ -21,9 +21,8 @@ I've made my own [index of Vols 3 & 4 clusters](joa-v3+4-clusters.html), and i h
 
 # Jewett Ancestry of William Ricker  
 
-![](Screenshot_from_2023-03-09_19-34-16.png)
-![](Screenshot_from_2023-03-09_19-35-27.png)
-![](Screenshot_from_2023-03-09_19-36-03.png)
+![](top.png)
+![](bottom.png)
 
 Key:
 
@@ -504,7 +503,7 @@ _Enoch and Sally were parents of [**Charles H Barker, MD**](#barker-charles-hubb
 
 -----------
 
-# J#612 Jonathan Ellsworth 
+## J#612 Jonathan Ellsworth 
 
 `(Jonathan^211 Jeremiah^68 Sarah^13, Maximilian^3, Edward^1)` 
 
@@ -518,14 +517,14 @@ sp. Storer, Esther (b. about 1773)
 
 two Ellsworth children:
 
-## 1. Ellsworth, Levi (b. 1801, d. 1879-10-11)
+### 1. Ellsworth, Levi (b. 1801, d. 1879-10-11)
 
 sp. McManus, Lucy Ann (b. before 1812, d. 
 1885), m. 1831-03-10
 
 following one child -
 
-### 1.  Ellsworth, Caroline (b. 1832-05-27, d. 1900-02-04)
+#### 1.  Ellsworth, Caroline (b. 1832-05-27, d. 1900-02-04)
 
 sp. Dow, Charles Curtis (b. 1835-09-30 - 
 East Livermore - Livermore Falls, 
@@ -535,7 +534,7 @@ ME, Maine, USA)
 
 3 Dow Children:
 
-#### 1. Dow, James Henry 
+##### 1. Dow, James Henry 
 
 (b. 1861-10-17 - Freeman, Franklin Co, ME, 
 d. 1961-06-11 - Orono, Penobscot Co, ME)
@@ -577,7 +576,7 @@ Cross-Reference George Dow is [Book of Dow #adkfbeibb](https://archive.org/detai
 _See under Myrtle's line above for further descent._
 
 
-#### 2. Dow, Dorrill Winfield aka Winfield, Dorrilous
+##### 2. Dow, Dorrill Winfield aka Winfield, Dorrilous
 
 &#x26A0; **WARNING:** _Details for Uncle Dorrill's descent are unverified, from Web Genealogies, but they do look similar to what Mom has told me._
 
@@ -613,13 +612,98 @@ Children of Dorrill with m.2 Mary Frances
 
 * 3. Dow, Frances Winifred (b. 1909)
 
-#### 3. Dow, Cora Caroline (b. 1873)
+##### 3. Dow, Cora Caroline (b. 1873)
 
 _Aunt Cora never married, no issue. School teacher._
 
-## 2. Ellsworth, Joanna (b. 1798, d. 1873)
+### 2. Ellsworth, Joanna (b. 1798, d. 1873)
 
 sp. Barton, Eunice (b. about 1768), m. about 1805
+
+------
+
+## J#587 Deac. Noah Jewett
+
+J#587 ***Deacon Noah Jewett***'s wife Lydia Boynton (Jewett) ***might*** have been J#817 Lydia Boynton, 
+daughter of J#325 Lydia Jewett (Boynton), daughter of J#117  Samuel Jewett (sr) (who died in Hollis N.H.) 
+and thus sister of J#816 Samuel (jr);
+and if so this would have been a consanguinious marriage, 3d cousins 1 remove.
+
+But this appears to be a Savage-esque leap to conclusion; dates are wrong by 5 or 6 years from the Samuel and Lydia siblings buried in Cornish. _A close match but no prize!_
+
+Per [F-A-G 182374016](https://www.findagrave.com/memorial/182374016/noah-jewett) and
+Maine Nathan Hale Cemetery records (_details below_), Deac Noah J#587 d.     10 Oct 1839 (aged 82)  
+Cornish, York Co, ME; Buried in Ricker Ancient Burial Ground aka Old High Rd Cem. there.
+
+[Saco Valley Settlers](https://archive.org/details/sacovalleysettle00byuridl/page/139/mode/1up) 
+at "Founders of Cornish" pp 139-140 
+says Deacon Jewett's brother-in-law Samuel Boynton is from Stratham New Hampshire.
+
+> ***Dea. Noah Jewett*** was one of the founders of Cornish, and was chosen 
+a deacon of the first church organization; a carpenter by trade and in the year 
+1800 built the first Cornish meeting-house from a plan made by Dr. Cyrus 
+Snell, now in existence. Deacon Jewett was a genuine Puritan, possessing the 
+stern religious zeal chatacteristic of his time. He was fully conscious of 
+the importance of his sacred office, and claimed a share of that deference 
+supposed to be due to the dignitaries of the period. He had not only failings 
+but the virtues of the Puritan believer; in person said to be small, of swarthy 
+complexion, and led forward by an enormous nose, a facial appendage that has 
+been duplicated by some of his descendants who are supposed to be proud of 
+this inheritance from the anatomy of their progenitor. 
+
+> (For the family genealogy, see second part. ) 
+
+_but alas no Jewett genealogy is included there._
+
+> ...
+
+> **Samuel Boynton**, one of the early settlers, 
+came from Stratham, N.H.,  and was brother-in-law of ***Deacon Jewett***.  
+He settled on the High road; was  a worthy man, possessed of a “peppery
+temper”; capable in town business;  in person tall and spare. 
+He was twice married; second wife, Mary Deering,  a short, stout, 
+intellectual woman of serene temperament, well calculated to  get on with the crusty husband.
+She was an unwavering believer in ghosts,  witches,
+and fairies, and in her old age caused troubled dreams for the 
+children by the stories she told of what she had seen and heard.
+
+_Alas Genealogy section does not give his parents._
+
+
+
+* WikiTree has parentage of Noah's wife Lydia, with estimated birth consistent with [F-a-G reading of gravestone, 1757](https://www.findagrave.com/memorial/182374014/lydia-jewett) instead of J#325 Lydia's b. 1751,
+and also having a brother Samuel, who fits Samuuel buried across town, and the Saca Valley "brother in law".
+
+* Maine's [Nathan Hale Cemetery Records Collection](https://www.familysearch.org/ark:/61903/1:1:QVJ5-4Y3P) provides a second transcription of gravestones (taken 1975), confirming b. 1757 d. 1827; which argues strongly against J#817 Lydia being Mrs Noah (_and makes foliage in FaG photo not a problem_) -
+
+    Image [1405](https://www.familysearch.org/ark:/61903/3:1:3QS7-89FW-F9NP?i=1404&cc=2241461) of 1542 (hers [1360](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9FW-FSWQ?i=1359&cc=2241461&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3AQVJ5-4YSH) of 1542)
+
+```
+	Name	Age	Event Type	Event Date	Event Place	Cemetery	Birth Date	Birth Year	Death Date	Digital Folder Number
+    Noah Jewett 	82 	Burial 	1839 	Cornish, York, Maine, United States 	Old High Rd 	11 Feb 1758 	1758 	10 Oct 1839 	007586605
+    Lydia Boynton Jewett 	70 	Burial 	1827 	Cornish, York, Maine, United States 	Old High Road 	10 May 1757 	1757 	16 Jul 1827 	007586605 
+    Old High Rd (Cem.), High Rd., Cornish, York (Co).
+```
+
+So I consider this possible consanguinous Lydia disproved,
+and need to dig deeper to see if the WikiTree line from Mrs Lydia (Boynton) Jewett back to
+_Early Rowley Settler_ (Rev Ed 1933)
+[John¹ Boynton](https://babel.hathitrust.org/cgi/pt?id=uva.x000380798&view=1up&seq=61&q1=John%20Boynton) ESR#22,
+[Samuel²](https://babel.hathitrust.org/cgi/pt?id=uva.x000380798&view=1up&seq=62&q1=John%20Boynton) ESR#22-7, 
+Daniel³ #22-30 is confirmable. 
+
+Of _Jewett_ interest, **John¹ Boynton** was first husband of ***Maximilian Jewett***'s 2d wife Eleanor.
+
+Alas [The Boynton Family](https://archive.org/details/boyntonfamilygen00boyn/page/71/mode/2up) 1897 
+gives a not-quite-certain _by even Victorian standards_ parentage for Samuel Jr, and no sister Lydia.
+
+Further information on family of ***Hannah Farwell***, wife of J#198 ***Dea. Stephen Jewett*** (sr) 
+(parents of J#587 ***Dea. Noah***), can be found in
+
+*  [Reminiscences of old Dunstable](https://archive.org/details/reminiscencesofo00inhill/page/60/mode/2up?q=Jewett) p.60-61, 
+* [The Farwell family (IA borrowable)](https://archive.org/details/farwellfamilyhis01farw/mode/1up?q=%22Noah+Jewett%22) 1929, vol 1. (Vol 2 available from [Hathi Tr.](https://catalog.hathitrust.org/Record/005730879?type%5B%5D=all&lookfor%5B%5D=The%20Farwell%20Family&ft=ft))
+* [Farwell Memorial](https://babel.hathitrust.org/cgi/pt?id=wu.89066138637&view=1up&seq=35&q1=Stephen%20Jewett) 1879, p.19.
+
 
 ------
 
