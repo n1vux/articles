@@ -1,5 +1,5 @@
 /*
- * from https://gist.github.com/killercup/5917178
+ * adapted from https://gist.github.com/killercup/5917178
  * he says:
  * I add this to html files generated with pandoc.
  */
@@ -22,6 +22,10 @@ body {
   background: #fefefe;
 }
 
+.RoY { /* Red On Yellow */
+  color: red; 
+  background-color: yellow;
+}
 a {
   color: #0645ad;
   text-decoration: underline #0645ad;
@@ -172,9 +176,18 @@ sub {
   bottom: -0.25em;
 }
 
+/* List margins much tightened for this section only */
+
 ul, ol {
-  margin: 1em 0;
+line-height: 120%;
+  # margin: 1em 0;
+  margin: 0 0; /* vertical horizontal */
+  /* top | right | bottom | left */
   padding: 0 0 0 2em;
+}
+
+li p {
+	margin: 0;
 }
 
 li p:last-child {
@@ -182,7 +195,8 @@ li p:last-child {
 }
 
 ul ul, ol ol {
-  margin: .3em 0;
+  # margin: .3em 0;
+  margin: 0;
 }
 
 dl {
