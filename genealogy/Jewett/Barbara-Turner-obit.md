@@ -1,12 +1,21 @@
-% Barbara Turner
+% Barbara Turner (1934-2021)
+% William Ricker (ed); Cary Presbyterian
+% 2021, 2023
 
-> Cary Presbyterian Church
-> January 7, 2021
+_The following is the appreciation/obituary posted for Barbara by her church, archived here for genealogical purposes._
+
+_Cary Presbyterian also held a joint memorial service for Jim & Barbara (Dow) Turner. 
+Video on [FB](https://www.facebook.com/watch/live/?ref=watch_permalink&v=3052922898299695) or [web](https://www.carypresbyterian.org/media/gkd2zhz/jim-barbara-turner-service-of-witness-to-the-resurrection)._
+
+-----------
+
 
 # A Heartfelt Farewell to Barbara Turner
 
-December 31, 1934 - January 1, 2021
+**December 31, 1934 - January 1, 2021**
 
+> [Cary Presbyterian Church](https://www.carypresbyterian.org)  
+> January 7, 2021
 
 It is with deep sadness that Cary Presbyterian says goodbye to Dr. Barbara Turner, whose presence and impact at CPC were constant.  Barbara was almost always here, preparing for her beloved children's Sunday School class, or changing a church display case, or coming in to update the roll books, or to attend a Bible study. She was always doing something at church.
 
@@ -22,7 +31,7 @@ More than the many things Barbara was busy doing, she was a person who had a dee
 
 If you are curious to know even more about Barbara's work at CPC follow this linkto our description of Barbara when she was awarded an Outstanding Older Adult Award by New Hope Presbytery in 2018.
 
-(_p.47 in [2018](https://nhpresbytery.org/wp-content/uploads/2018OutstandingOlderAdultBook.pdf)_)
+(_p.47 in [2018 Outstanding Older Adult Book(pdf)](https://nhpresbytery.org/wp-content/uploads/2018OutstandingOlderAdultBook.pdf)_)
 
 If you want to send condolences to Tim and Kim, please contact the church office at this link for their mailing address.
 
