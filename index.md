@@ -2,8 +2,9 @@
 
 <a rel="me" href="https://mastodon.radio/@n1vux">Mastodon</a> 1,
 <a rel="me" href="https://fosstodon.org/@BRicker">Mastodon</a> 2,
+<a href="https://bsky.app/profile/bill-n1vux.bsky.social">BlueSky</a>,
 <a href="https://twitter.com/n1vux">twitter</a> if it lives;
-CPAN BRICKER, GH n1vux .
+CPAN BRICKER, GH n1vux . *etc*.
 
 ## [Genealogy](./genealogy/)
 
