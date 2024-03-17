@@ -12,6 +12,9 @@ All contents &copy; 2023 William D Ricker (except as marked)
 # Pages 
 
 * [George A Ricker Memorial](./GAR/GAR-Memorial.html)
+* [Barbara (Dow) Turner Memorial](./Jewett/Barbara-Turner-obit.html)
+* [Jewett connections](./Jewett/Jewetts-Updates.html)
+
 
 ([up to articles home](..))
 
@@ -20,7 +23,7 @@ All contents &copy; 2023 William D Ricker (except as marked)
 my lines in New England (all colonies; & a bit of upper NYS)
 
 * Ricker
-* Jewett/Tenney
+* [Jewett](./Jewett/Jewetts-Updates.html)/Tenney _of Rowley_
 * Barker
 * Burgess
 * Field
@@ -35,13 +38,13 @@ my lines in New England (all colonies; & a bit of upper NYS)
 * Shea
 * Carleton/Carlton
 * Pearson
-* Brewster
-* Hopkins
-* Rogers
+* Brewster &#x1F4AE; 
+* Hopkins &#x1F4AE; 
+* Rogers &#x1F4AE; 
 * Mayo/Prence/Sparrow
-* Warren
-* Doty
-* Cooke
+* Warren &#x1F4AE; 
+* Doty &#x1F4AE; 
+* Cooke &#x1F4AE; 
 * Capen
 * Bachiler/Ba(t)chelder
 * Littlefield
@@ -87,7 +90,7 @@ and on my wife's side in mid-Atlantic colonies (New Amsterdam, East Jersey, West
 * Eichel/Gippel/Wisznewski
 
 
-All contents &copy;  2023  William D. Ricker
-except as otherwise marked.  
+All contents &copy;  2023,2024  William D. Ricker
+except as otherwise marked, and of course, individual facts are not copyrightable.
 
 [Feedback](https://github.com/n1vux/articles/issues/new/choose)

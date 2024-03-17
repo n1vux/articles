@@ -33,6 +33,7 @@ If you are curious to know even more about Barbara's work at CPC follow this lin
 
 (_p.47 in [2018 Outstanding Older Adult Book(pdf)](https://nhpresbytery.org/wp-content/uploads/2018OutstandingOlderAdultBook.pdf)_)
 
+
 If you want to send condolences to Tim and Kim, please contact the church office at this link for their mailing address.
 
 
