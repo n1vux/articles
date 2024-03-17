@@ -81,7 +81,7 @@ sp. Bailey, Grace L (Forster) (b.  1909, d. 2000) [obit](https://www.findagrave.
     - no issue from this marriage.
     - (Her (m.2); she (m.1) Francis Lee **Bailey** sr. - 3 sons, including noted attorney **F Lee Bailey (jr)** (1933-06-10 - 2021-06-03; [obit](https://www.dignitymemorial.com/obituaries/houston-tx/francis-bailey-10221337), [news](https://www.abajournal.com/news/article/disbarred-lawyer-f-lee-bailey-who-took-on-the-demons-of-society-dies-at-87)); 
 _AFAIK her other children may yet live so not included._)
-    - Don B Mitchell was fostered in his Uncle Will's household, his mother Bessie having died when he was age 2 days.
+    - Don B Mitchell was fostered in his Uncle Will's household (see next **J#7033**), his mother Bessie having died when he was age 2 days.
 
 ##  &#x2469; J#7033 2. Ricker, William Jewett, aka "Will" and "W.J."
 
@@ -324,7 +324,7 @@ _This family is mentioned in JoA 1998 Quarterly article, issue no.2, ["Jewett Fa
 d. 1971-01-17 - Maine)
 [(F-a-G)](https://www.findagrave.com/memorial/49664815/almira-walker) has errors reported.
 
-sp. Walker, George Wilmot 
+sp. **Walker**, George Wilmot 
 (b. 1884-05-04 - Alna, Lincoln Co, ME d. 1964-08-27 - Rockland, Knox Co, ME), 
 (&#x1F4AE; _Doty_)
 
@@ -673,7 +673,7 @@ In which we find less connection between
 than _we_ had suspected. (JoA books did _not_ claim she was a Jewett.)
 Deac Noah's wife Lydia (Boynton) Jewett _was_ a cousin of his cousin of same name, but *not* the same person.
 
-This section discusses a tempting confusion of two cousins named Lydia Boynton, one of which has a Jewett mother and the other a Jewett husband. Had their identity been confirmed, it would have provided a marriage for &#x2466; J#817 Lydia and in-laws for &#x2465; J#587 Noah, which were lacking. 
+This section discusses a tempting confusion of two cousins named Lydia Boynton, one of which has a Jewett mother and the other a Jewett husband. Had their identity been confirmed, it would have provided a marriage for &#x2466; J#817 Lydia and in-laws for &#x2465; J#587 Noah, both of  which were lacking. 
 With all the &#x1F7E5; consanguineous Jewett marriages, it was reasonable *but wrong* to attempt to identify them.  
 Instead we only can offer an as yet unverified claim of in-laws for Deacon Noah and citations for his mother and her first husband. So this is more a <span class=RoY>&#x26A0;</span> Warning and case study in rejecting spurious connections, but has those bits of potential news as well. 
 
