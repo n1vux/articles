@@ -3,4 +3,4 @@
 fn=$1; shift
 echo ${fn%.*}
 options=--toc
-pandoc $options -s -o ${fn%.*}.html --css pandoc.css   -f markdown  ${fn%.*}.md 
+pandoc $options -s -o ${fn%.*}.html --css pandoc.css   -f markdown+superscript+strikeout  ${fn%.*}.md 

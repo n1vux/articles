@@ -33,7 +33,7 @@ I've made my own [index of Vols 3 & 4 clusters](joa-v3+4-clusters.html), and i h
 * This view is omitting non-Jewett in-laws as well as all living persons. Produced in the [GRAMPS desktop program](https://gramps-project.org/blog/).
 * On Marriage: Red &#x1F7E5; denotes consanguineous marriage; often but not always Jewett! Text below should indicate degree of cousinship.
 * On Person: red &#x1f534; is medical doctor; <span style="background-color:cyan">sky blue</span> is immigrant; orange &#x1F7E0; is unsure connection; purples &#x1f7ea; are clergy or deacon/elder; <span style="background-color:  #9bdd47">lt.green</span> is proprietor; dk.brown &#x1F7EB; is slave-holder; medium blue &#x1F7E6; is soldier or militia, if paired with <span style="background-color: #75507B; color: #FFFFFF">deep purple</span>, Revolutionary service; <span style="background-color:tan">tan</span> is Mayflower descent line carrier (marked &#x1F4AE; in text below).  Black &#x25A0; marks end of line on old wall fan-chart, (or killed/executed/witch, but not on _this_ chart).  (_These colors are my own mnemonic choices for my selection of filterable "tags" on people and families in GRAMPS._)
-* One line from my parents' fan-chart, J#6 Ezekiel to J#817 Lydia, I think is busted; the line is correct, but it's not the right Lydia for our tree; and so appears struck-out with translucent gray above, and is discussed below [re J#587 Deac. Noah Jewett’s wife Lydia](#re-j587-deac.-noah-jewetts-wife-lydia-is-not-j325-lydia
+* <span style="background-color:grey">grey strikeout</span> One line from my parents' fan-chart, J#6 Ezekiel to J#817 Lydia, I think is busted; the line is correct in the JoA books, but it's not the _right_ Lydia for _our_ tree; and so appears struck-out with translucent gray above, and is discussed below [re J#587 Deac. Noah Jewett’s wife Lydia](#re-j587-deac.-noah-jewetts-wife-lydia-is-not-j325-lydia
 ).
 
 ## Notations
@@ -42,13 +42,13 @@ Numbers that are prefixed with **J#** (pr prefixed with only **#** in chart abov
 
 Other family descendency ids provided as _Cross-Reference_ are identified when used and listed in [Bibliography](#bibliography-for-cross-reference-numbers). 
 
-Jewett Descent Generation numbers are shown in circles &#x2468; . These are usually given as superscripts^9^ in most other family genealogies, but the JoA books use the descent number as superscript, ala Aquila^64^,  Maximilian^3^ which i render as `Aquila^64`, `Maximilian^3` only when quoting JoA pedigree line) .  Generations from other families' progenitor are shown conventionally as Noah^5^ Barker.
+Jewett Descent Generation numbers are shown in circles &#x2468;&nbsp; in the descent outline. These are usually given as superscripts^9^ in most other family genealogies, but the JoA books use the descent number as superscript, ala Aquila^64^,  Maximilian^3^; which I will use here only when quoting the JoA known descent.  Generations from **other** families' progenitor are shown conventionally as Noah^5^ Barker.
 
 ----------
 
 # &#x2468; J#4624  Jewett, Florence Anna 
 
-`(William H.^2692, John^1346, Noah^587, Stephen^198, Aquila^64, Joseph^11, Maximilian^3, Edward^1)` [[JoA:i:459](https://archive.org/details/historygenealogy01jewe/page/459/mode/1up?q=2692+4624),[JoA:ii:697](https://archive.org/details/historygenealogy03jewe/page/697/mode/1up?q=2692+4624)]
+(William H.^2692^, John^1346^, Noah^587^, Stephen^198^, Aquila^64^, Joseph^11^, Maximilian^3^, Edward^1^) [[JoA:i:459](https://archive.org/details/historygenealogy01jewe/page/459/mode/1up?q=2692+4624),[JoA:ii:697](https://archive.org/details/historygenealogy03jewe/page/697/mode/1up?q=2692+4624)]
 
 (b. 1857-06-07 - Double Branch, GA, d. 1941-12-20)
 
@@ -91,17 +91,17 @@ d.  1964-02-26 - Turner, ME, Androscoggin Co, Maine, USA)
 
 sp. **Barker**, Mary "Maisie" Alice 
 (b. 1884-04-15, d. 1979), 
-[(F-a-G)](https://www.findagrave.com/memorial/81717470/mary-ricker)
+[(F-a-G)](https://www.findagrave.com/memorial/81717470/mary-ricker) (&#x1F4AE; _Cooke, via Burgess_)
 
 m.  1906-06-23
 
-&#x1F7E5; Mary is also desc of **J#587 Deacon Noah Jewett**,  via [**J#1341 Sarah/Sally Jewett (Barker)**](#j1341-jewett-sarah-aka-sally), who had married **Enoch (Enoch Merrill?) Barker**, her fourth cousin via **J#7 Anna Jewett (Barker)**,  so Mary and Will were 3d Cousins by Jewett, 4th by Barker from **J#64 Ebenzer Barker**, _etc_.
+&#x1F7E5; Mary is also desc of **J#587 Deacon Noah Jewett**,  via [**J#1341 Sarah/Sally Jewett (Barker)**](#j1341-jewett-sarah-aka-sally), who had married **Enoch (Enoch Merrill?) Barker**, her fourth cousin via **J#7 (H)Anna(h) Jewett (Barker)**,  so Mary and Will were 3d Cousins by Jewett, 4th by Barker from **J#64 Ebenzer Barker**, _etc_.
 
 _Cross-Reference_ &mdash;  Ricker#9675
 
 2 children:
 
-###  &#x246A;  1. Ricker, Albion Barker 
+###  &#x246A;  1. Ricker, Albion Barker &#x1F4AE
 
 (b.  1907-05-31 - Ricker Hill, Turner, ME, Androscoggin Co, Maine, USA, 
 d.  2001-03-11 - Lewiston, Androscoggin, ME, Androscoggin Co, Maine, USA)
@@ -134,9 +134,9 @@ _Cross-Reference_ &mdash;  - Ricker#15716.
 
 * 3. &#x246B; _LIVING SON WITH MULTIPLE DESCENT_
 
-### &#x246A; 2.  Ricker, E Louise 
+### &#x246A; 2.  Ricker, E Louise &#x1F4AE;
 (b. 1908-09-15,
-d. 1990-11-24 - Auburn, Androscoggin Co, Maine, USA) &#x1F4AE;
+d. 1990-11-24 - Auburn, Androscoggin Co, Maine, USA)
 
 sp. **Boothby**, Laurence Bizzell 
 (b. 1908-11-04, d. 1998-06-06 - Auburn, Androscoggin Co, Maine, USA),
@@ -207,14 +207,16 @@ he (m.2) Katherine Devlin
 
 # &#x2466; J#1341 Jewett, Sarah (aka Sally)
 
-`(Deac. Noah^587, Stephen^198, Aquila^64, Joseph^11, Maximilian^3, Edward^1)`
+(Deac. Noah^587^, Stephen^198^, Aquila^64^, Joseph^11^, Maximilian^3^, Edward^1^)
 [[JoA:i:165](https://archive.org/details/historygenealogy01jewe/page/165/mode/1up?q=1341)]
 
 _sister of John #1346 mentioned [below](#j164-ebenezer-barker-sr)_
 
 sp. **Barker**, Enoch ?Merrill?
 
-&#x1F7E5; Enoch M was her 4th cousin **J#3 Deacon Max. Jewett** , via **J#7 Anna (Hannah) Jewett (Barker)**, dau. of (line: Enoch M^6^, Noah^5^, Ebenezer^4^, Noah^3^, Barzilla^2^ **Barker** (m. **J#7** Anna Jewett), James^1^ Barker); [J#43](#j43-noah-barker) Noah^3^ Barker#20 is covered as  below. 
+&#x1F7E5; Enoch M was her 4th cousin, via **J#7 Anna (Hannah) Jewett (Barker)**,
+dau. of . of &#x2461; **J#3 Maximilian** (line: Enoch M^6^, Noah^5^, Ebenezer^4^, Noah^3^, Barzilla^2^ **Barker** (m. &#x2462; **J#7** (H)Anna(h) Jewett), James^1^ Barker).
+[J#43](#j43-noah-barker) Noah^3^ Barker#20 is covered as  below.
 
 Cross-Reference_ &mdash;  [Barker#79 Noah^5^ & #150 Enoch^6^](https://archive.org/details/barkergenealogyr00bark/page/398/mode/1up?q=79+150+Noah+Enoch).
 
@@ -298,7 +300,7 @@ sp. **Rawstron**, Albert Victor (b. 1882-05-24, d. 1942-01-11)
 
 #  &#x2469; J#7151 David Nathaniel Jewett 
 
-`(David^4697, Joseph^2736, Moses^1369, Moses^646, Aaron^#221, Jeremiah^69, Jeremiah^15, Joseph^4, Edward^1)`
+(David^4697^, Joseph^2736^, Moses^1369^, Moses^646^, Aaron^221^, Jeremiah^69^, Jeremiah^15^, Joseph^4^, Edward^1^)
 [[JoA:ii:708,915](https://archive.org/details/historygenealogy03jewe/page/n370/mode/1up?q=7151)]
 
 
@@ -337,7 +339,7 @@ m. 1906-08-22
 d. 1992-02-07, Maine)
 [(F-a-G)](https://www.findagrave.com/memorial/49027445/myrtle-margaret-dow) has errors reported.
 
-sp. **Dow**, George Farrington &#x1F4AE;
+sp. **Dow**, George Farrington (&#x1F4AE; _Cooke+Hopkins_)
 (b. 1905-07-22 - South Portland, Cumberland Co, ME, 
 d. 2006-06-08 - Damariscotta, Lincoln Co, ME), 
 [(F-a-G)](https://www.findagrave.com/memorial/20426606/george-farrington-dow) has errors reported.
@@ -408,7 +410,7 @@ More of my Jewett lines, discussed more briefly.
 
 ## &#x2464; J#217 Hannah Jewett 
 
-`(Jeremiah^69, Jeremiah^15, Joseph^4, Edward^1)`
+(Jeremiah^69^, Jeremiah^15^, Joseph^4^, Edward^1^)
 [[JoA:i:49,91-92](https://archive.org/details/historygenealogy01jewe/page/91/mode/1up?q=217+642)]
 
 sp. LT Stephen **Pearson** (jr); 
@@ -433,7 +435,7 @@ to the wife of [**J#7151 David Jewett** ](#j7151-david-nathaniel-jewett) q.v.
 
 ## &#x2463; J#43 Noah Barker
 
-`(Anna^7, Maximilian^3 Edward^1),`
+(Anna^7^, Maximilian^3^, Edward^1^),
 [[JoA:i:22-23,45]](https://archive.org/details/historygenealogy01jewe/page/45/mode/1up?q=Noah+43)
 
 (b. 1689-08-23 - Rowley,  Essex Co, MA, 
@@ -484,14 +486,14 @@ Children:
 
     - sp. Boardman, Elmira;
     -  &nbsp;&bull;&nbsp;&bull;&nbsp;&bull;  &#x2467; _lines not followed here, if any; Barker book reserves Barker#284 for his unlisted issue._  &nbsp;&bull;&nbsp;&bull;&nbsp;&bull;
-* 2. &#x2466; Barker, Betsey 
-    -  (b. 1800-03-29 - Limerick, York Co, ME, 
-    -  d.  1871-10-12 - Readfield, ME, Kennebec Co, ME), 
-    -  sp. &#x2466; **J#1346 John Jewett**, 
-        -  (b. 1795-08-14 - Cornish, York, ME, 
+* 2. &#x2466; **Barker, Betsey**
+    -  (b. 1800-03-29 - Limerick, York Co, ME,
+    -  d.  1871-10-12 - Readfield, ME, Kennebec Co, ME),
+    -  sp. &#x2466; **J#1346 John Jewett**,
+        -  (b. 1795-08-14 - Cornish, York, ME,
         -  d. 1869-04-14 - Kent's Hill, Readfield, Kennebec Co, ME)
     -  m. 1822-01-03 - Cornish, York, ME
-	-  J#1346 John Jewett**, was brother of [J#1341 Sarah/Sally](#j1341-jewett-sarah-aka-sally) _and was_ &#x1F7E5; _Betsey's 4th cousin; they are grandparents of  [&#x2468; J#4624 Florence Jewett (Ricker)](#j4624-jewett-florence-anna) above, q.v., and thus great-grandparents of W.J."Will" Ricker_ &#x1F7E5; _husband of Mary A Barker, his cousin on this line._
+        	-  **J#1346 John Jewett** was brother of [J#1341 Sarah/Sally](#j1341-jewett-sarah-aka-sally) _and was_ &#x1F7E5; _Betsey's 4th cousin; they are grandparents of  [&#x2468; J#4624 Florence Jewett (Ricker)](#j4624-jewett-florence-anna) above, q.v., and thus great-grandparents of W.J."Will" Ricker_ &#x1F7E5; _husband of Mary A Barker, his cousin on this line._
 	- _Cross-Reference_ &mdash;  Betsey = Elizabeth [Barker#165](https://archive.org/details/barkergenealogyr00bark/page/417/mode/1up?q=165+Elizabeth)), overleaf from Simeon _loc.cit_.
 
 #### &#x2465;  Barker, Noah 
@@ -521,7 +523,7 @@ Children:
 
 ##  &#x2465; J#612 Jonathan Ellsworth (jr)
 
-`(Jonathan^211 Jeremiah^68 Sarah^13, Maximilian^3, Edward^1)`
+(Jonathan^211^, Jeremiah^68, Sarah^13^, Maximilian^3^, Edward^1^)
 [[JoA:i:90]](https://archive.org/details/historygenealogy01jewe/page/90/mode/1up?q=612+Jonathan)
 
 JoA says only 
@@ -579,7 +581,7 @@ sp. (m.1) **Bradbury**, Myra E (b. 1866, d. 1893) (&#x1F4AE; _Howland_); no issu
 &#x1F7E5; J Henry and Myra were 7th Cousins from Thomas & Mary (Perkins) Bradbury; Mary was convicted and condemned late in the Salem Witch hysteria, but survived as her son-in-law MAJ Robert Pike, also Myra's ancestor, intervened with the Governor of the Colony, calling the whole hysteria into question.
 Myra, her father, and brother all died of the T.B. that LT Albert L Bradbury brought home from the war. J Henry Dow supported his first mother-in-law Sarah (Howland) Bradbury for life, as live-in (step) grandmother.
 
-sp. (m.2) **Farrington**, Abbie Louisa 
+sp. (m.2) **Farrington**, Abbie Louisa (&#x1F4AE; _Rogers, Hopkins, Brewster, multiply_)
 (b. 1869-11-14 - Holden, Penobscot Co, ME, 
 d. 1948-12-07 - Bangor, Penobscot Co, ME), 
 (&#x1F4AE; _Rogers, Hopkins, Brewster_)
@@ -640,7 +642,7 @@ Children with m.1 Carrie :
 * 2. &#x2469; Dow, Florence Edna &#x1F4AE; (b. 1895-07-24, d. 1954-07-04)
     - sp. Crossett, Calvin D (b. 1898-01-00, d. 1953-01-10), 
     - m. 1919-09-02 - Freeport, Cumberland Co, ME;
-    -  &nbsp;&bull;&nbsp;&bull;&nbsp;&bull; _Further details on Crossett descent seen on web e.g. FS with VR, draft cards, obits; not followed here._  &nbsp;&bull;&nbsp;&bull;&nbsp;&bull;
+    -  &nbsp;&bull;&nbsp;&bull;&nbsp;&bull; _Further details on Crossett descent seen on wild-web e.g. FS with VR, draft cards, obits; not followed here._  &nbsp;&bull;&nbsp;&bull;&nbsp;&bull;
 
 Children of Dorrill with m.2 Mary Frances
 
@@ -651,40 +653,49 @@ Children of Dorrill with m.2 Mary Frances
 
 _Aunt Cora never married, no issue. School teacher._
 
-&nbsp;&bull;&nbsp;&bull;&nbsp;&bull; &#x2467; 2. &mldr; 6. omitted &nbsp;&bull;&nbsp;&bull;&nbsp;&bull;
+&nbsp;&bull;&nbsp;&bull;&nbsp;&bull; &#x2467; 2. &mldr; 6. Ellsworth siblings omitted, see [Ellsworth gen.](https://archive.org/details/ellsworthgenealo00sieb/page/n217?q="Levi+Ellsworth") for those. &nbsp;&bull;&nbsp;&bull;&nbsp;&bull;
 
 ------
 
-##  &#x2465; re J#587 Deac. Noah Jewett's wife Lydia is not J#325 Lydia
+##  &#x2465; &#x2466; Confusion of multiple Lydia Boynton
+
+Deac. Noah Jewett's wife Lydia (Boynton) is not J#325 Lydia Jewett (Boynton)'s daughter J#817 Lydia Boynton but another Lydia Boynton.
 
 In which we find less connection between
 
 * &#x2465;  J#587 Deac. Noah Jewett  
-`(Stephen^198, Aquila^64, Joseph^11, Maximilian^3, Edward^1),`  
+(Stephen^198^, Aquila^64^, Joseph^11^, Maximilian^3^, Edward^1^),  
 [[JoA:i:88,165-167]](https://archive.org/details/historygenealogy01jewe/page/165/mode/1up?q=587+Noah+Lydia)
-* &#x2465;  J#325 Lydia Boynton  
-`(Samuel^117, Francis^24, Ezeliel^6, Maximilian^3, Edward^1)`  
+* &#x2466;  J#817 Lydia Boynton 
+(Lydia^325^, Samuel^117^, Francis^24^, Ezeliel^6^, Maximilian^3^, Edward^1^)
 [[JoA:i:61,111]](https://archive.org/details/historygenealogy01jewe/page/111/mode/1up?q=325+Lydia+Boynton+817)
 
-that we suspected.
-Deac Noah's wife Lydia (Boynton) Jewett is a cousin of his cousin of same name, and not the same person.
+than _we_ had suspected. (JoA books did _not_ claim she was a Jewett.)
+Deac Noah's wife Lydia (Boynton) Jewett _was_ a cousin of his cousin of same name, but *not* the same person.
 
-This it discusses a tempting confusion of two cousins named Lydia Boynton, one of which has a Jewett mother and the other a Jewett husband. Had this been confirmed, it would have provided a marriage for J#817 Lydia and in-laws for J#587 Noah. With all the consanguineous Jewett marriages, it was reasonable *but wrong* to attempt to identify them. Instead we only can offer an as yet unverified claim of in-laws for Deacon Noah and citations for his mother and her first husband. So this is more a <span class=RoY>&#x26A0;</span> Warning and case study in rejecting spurious connections, but has a bit of potential news as well. 
+This section discusses a tempting confusion of two cousins named Lydia Boynton, one of which has a Jewett mother and the other a Jewett husband. Had their identity been confirmed, it would have provided a marriage for &#x2466; J#817 Lydia and in-laws for &#x2465; J#587 Noah, which were lacking. 
+With all the &#x1F7E5; consanguineous Jewett marriages, it was reasonable *but wrong* to attempt to identify them.  
+Instead we only can offer an as yet unverified claim of in-laws for Deacon Noah and citations for his mother and her first husband. So this is more a <span class=RoY>&#x26A0;</span> Warning and case study in rejecting spurious connections, but has those bits of potential news as well. 
 
-J#587 ***Deacon Noah Jewett***'s wife Lydia Boynton (Jewett) ***could almost plausibly*** have been &#x2466; ~~J#817 Lydia Boynton~~, 
+J#587 ***Deacon Noah Jewett***'s wife Lydia Boynton (Jewett) ***could almost plausibly*** have been &#x2466; <span style="background-color:grey">~~J#817 Lydia Boynton~~</span>, 
 daughter of &#x2465; J#325 Lydia Jewett (Boynton) (m. John Boynton), daughter of &#x2464; J#117  Samuel Jewett (sr) (who died in Hollis N.H.) 
 and thus would have been sister of &#x2466; J#816 Samuel Boynton;
 and if so ~~this would have been a &#x1F7E5; consanguineous Jewett marriage, 3d cousins 1 remove~~,
 but it appears not to be so.
 
 * _Cross-References_ &mdash;
-    - ~~J#325 Lydia Jewett~~ is at [[JoA:1:111]](https://archive.org/details/historygenealogy01jewe/page/111/mode/1up?q=816+Samuel+817+Lydia+325); alas J#816 Samuel and J#817 Lydia are not further expanded in JoA vols 1 &mldr; 4. 
+    - <span style="background-color:grey">~~J#325 Lydia Jewett~~</span> with children Lydia and Samuel is at [[JoA:1:111]](https://archive.org/details/historygenealogy01jewe/page/111/mode/1up?q=816+Samuel+817+Lydia+325); alas J#816 Samuel and J#817 Lydia are not further expanded in JoA vols 1 &mldr; 4. 
     - J#325 Lydia appears on the wild web as [<span class=RoY>&#x26A0;</span> WT Boynton-474](https://www.wikitree.com/wiki/Boynton-474), but that offers little news; did she thrive, marry? TBD.
     - J#587 Deac Noah Jewett is at [[JoA:1:88,165]](https://archive.org/details/historygenealogy01jewe/page/165/mode/1up?q=587) 
 
-This appears to have been a Savage-esque leap to a tempting conclusion. I haven't seen this connection in print outside our family, so I'm not sure if my parents read this somewhere or made the false, hopeful connection on their own. 
+This appears to have been a Savage-esque leap to a tempting conclusion. 
+An old local history volume says wife Lydia had a brother Samuel, and came from New Hampshire, which fits both ladies. 
+An astonishing coincidence? 
+Not when we observe the onomastics: both Lydia and Samuel are Boynton familial names, so siblings with same names as their cousins is not unlikely. 
 
-The B/D dates are wrong by 5 or 6 years from the Samuel and Lydia Boynton siblings buried in Cornish, and there is indeed another set of Samuel and Lydia Boynton siblings (presumably Boynton cousins of the other set). 
+I haven't seen this connection in print outside our family, so I'm not sure if my parents read this somewhere that I haven't found, or made the false, hopeful connection on their own. Quite possibly it was the work of my Grandfather's college roommate (late 1920s), who did the only work on our family before Dad started in 1950s.  "Em Greenway" was a 1st generation American, so his class-assignment recommended methods & resources for doing a New England Genealogy wouldn't apply, especially not in a timely fashion, to _his_ family, so he got both instructor and roommate permissions to do his *roommate*'s solidly Yankee family. (Ricker/Jewett/Swett etc.)
+
+The B/D dates are wrong by 5 or 6 years from the Samuel and Lydia Boynton siblings buried in Cornish, and there is indeed another set of Samuel and Lydia Boynton siblings (presumably Boynton cousins of the other set; a Rowley allied-family that went to So. Maine via mid NH.). 
 
 Per [F-A-G 182374016](https://www.findagrave.com/memorial/182374016/noah-jewett) and
 Maine Nathan Hale Cemetery records (_details below_), J#587 Deac. Noah 
@@ -709,7 +720,7 @@ been duplicated by some of his descendants who are supposed to be proud of
 this inheritance from the anatomy of their progenitor. 
 > (For the family genealogy, see second part. ) 
 
-_but alas no Jewett genealogy was actually provided there?_
+_but alas the promised Jewett genealogy was not actually provided there?_
 
 > ...[_continues_]...  
 > **Samuel Boynton**, one of the early settlers, 
@@ -726,7 +737,7 @@ _Alas Genealogy section does not in fact give his parents._
 
 
 
-* <span class=RoY>&#x26A0;</span> WikiTree's Lydia [Boynton-360](https://www.wikitree.com/wiki/Boynton-360) Jewett, wife of Deac. Noah, has parentage with estimated birth consistent with [F-a-G reading of gravestone b. 1757](https://www.findagrave.com/memorial/182374014/lydia-jewett) instead of ~~J#325 Lydia's b. 1751~~,
+* <span class=RoY>&#x26A0;</span> WikiTree's Lydia [Boynton-360](https://www.wikitree.com/wiki/Boynton-360) Jewett, wife of Deac. Noah, has parentage with estimated birth consistent with [F-a-G reading of gravestone b. 1757](https://www.findagrave.com/memorial/182374014/lydia-jewett) instead of ~~J#817 Lydia's b. 1751~~,
 and _also_ having brother Samuel, who matches well enough to a Samuel Boynton buried across town and the Saco Valley "brother in law".
 
 * Maine's [Nathan Hale Cemetery Records Collection](https://www.familysearch.org/ark:/61903/1:1:QVJ5-4Y3P) provides a second transcription of gravestones (taken 1975), confirming reading of Lydia b. 1757 d. 1827; which argues strongly against ~~J#817 Lydia~~ being Mrs Noah (_and sidesteps issue of excess foliage in FaG photo blocking independent interpretation_). -
@@ -755,13 +766,16 @@ Alas [The Boynton Family](https://archive.org/details/boyntonfamilygen00boyn/pag
 gives a not-quite-certain _even by Victorian standards_ parentage for Samuel, and no sister Lydia;
 and _Saco Valley_ promised a Jewett genealogy in part 2 but didn't deliver.
 
-Further information on birth and (m.1) families of widow ***Hannah (Farwell) Cummings***, wife of **J#198** ***Dea. Stephen Jewett*** (sr) ([[JoA:1:48,86]](https://archive.org/details/historygenealogy01jewe/page/86/mode/1up?q=198))
+### Hannah, wife of &#x2464; J#198 Dea. Stephen Jewett (sr) 
+
+Further information on birth and (m.1) families of widow ***Hannah^4^ (Farwell) Cummings (Jewett)***, wife of **J#198** ***Dea. Stephen Jewett*** (sr) ([[JoA:1:48,86]](https://archive.org/details/historygenealogy01jewe/page/86/mode/1up?q=198))
 and mother of **J#587** ***Dea. Noah***, can be found in
 
 *  [Reminiscences of old Dunstable](https://archive.org/details/reminiscencesofo00inhill/page/60/mode/2up?q=Jewett) p.60-61, 
 * [The Farwell family (IA borrowable)](https://archive.org/details/farwellfamilyhis01farw/mode/1up?q=%22Noah+Jewett%22) 1929, vol 1. (Vol 2 available from [Hathi Tr.](https://catalog.hathitrust.org/Record/005730879?type%5B%5D=all&lookfor%5B%5D=The%20Farwell%20Family&ft=ft))
 * [Farwell Memorial](https://babel.hathitrust.org/cgi/pt?id=wu.89066138637&view=1up&seq=35&q1=Stephen%20Jewett) 1879, p.19.
-* [Cummings Memorial](https://archive.org/details/cummingsmemorial00inmooa/page/51/mode/1up?q=38+Jerahmeel), 1903, pp. 22, 52; which spells Hannah's m.1's name **Ensign _Jerahmeel_ Cummings**; which tells us that our Deac. Stephen was *not* widow Hannah's first suitor, but the first who respected her; which may explain her 5 years of independence.
+* [Cummings Memorial](https://archive.org/details/cummingsmemorial00inmooa/page/51/mode/1up?q=38+Jerahmeel), 1903, pp. 22, 52; which spells Hannah's m.1's name **Ensign _Jerahmeel_ Cummings**; which also tells us that our Deac. Stephen was *not* widow Hannah's first suitor, but the first who *respected* her; which may explain her 5 years of independence between.
+* On her mother's side, Hannah is of the Richardsons of Woburn.
 
 -----
 
@@ -771,13 +785,13 @@ and mother of **J#587** ***Dea. Noah***, can be found in
 * **Dow**, Robert Piercy; _The book of Dow_;  Claremont, N.H. : R.P. Dow ; Rutland, Vt. : Tuttle Pub. Co., [1929]. [bookofdowgenealo00dowr](https://archive.org/details/bookofdowgenealo00dowr/); [WorldCat](https://www.worldcat.org/formats-editions/3534470). The _Book_ of Dow uses a modified [Henry System](https://en.wikipedia.org/wiki/Genealogical_numbering_systems#Henry_System) of enumeration using letters to code birth order rather than digits (which evades having to mix digits and letters for 10th and later). This is quite convenient for computing cousinship, but out of fashion in modern genealogy which largely uses [The Register](https://en.wikipedia.org/wiki/Genealogical_numbering_systems#Register_System) system for descent, in preference to the [NGSQ](https://en.wikipedia.org/wiki/Genealogical_numbering_systems#NGSQ_System) that so many Victorian/Edwardian family histories used, and of course [Ahnentafel](https://en.wikipedia.org/wiki/Genealogical_numbering_systems#Ahnentafel) for ascent into ancestors.
 * **ESR**: Blodgett,  George B., & Amos Jewett, ed.; _Early Settlers of Rowley_, revised & expanded; 1933; [WorldCat](https://www.worldcat.org/title/early-settlers-of-rowley-massachusetts-a-genealogical-record-of-the-families-who-settled-in-rowley-before-1700-with-several-generations-of-their-descendants/oclc/24890376), [OpenLib](https://openlibrary.org/works/OL7547159W/Early_settlers_of_Rowley_Massachusetts), [Archive Borrowable](https://archive.org/details/earlysettlersofr00blod_1/page/166/mode/2up?view=theater&q=jackson). 
     - Note:_ <span class=RoY>&#x26A0;</span> _Family and person numbers in RevEd(1933) are **different** from original 1887 Essex Inst edition._ <span class=RoY>&#x26A0;</span> _E.g., our J#3 Deac. Max Jewett is ESR#100 in RevEd, ESR87#54 in 1887 E.I. 1st Ed.; so nearly twice as many families!_
-    - Both editions of ESR use a modification of NGSQ numbering in which the progenitors are numbered alphabetically by surname, with migrant brothers both in Rowley getting their own entries, ordered by age precedence, if father not also in Rowley. That number becomes the family prefix with a dash for their descent, who are numbered within the family as if NGSQ, so our Max is `100` (ESR#100 in my notation), and his first born is `100-1. Ezekiel²` there, ESR#100-1 here, while JoA sees him as `6 Ezekiel` or `Ezekiel^6`.
+    - Both editions of ESR use a modification of NGSQ numbering in which the progenitors are numbered alphabetically by surname, with migrant brothers both in Rowley getting their own entries, ordered by age precedence, if father not also in Rowley. That number becomes the family prefix with a dash for their descent, who are numbered within the family as if NGSQ, so our Max is `100` (ESR#100 in my notation), and his first born is `100-1. Ezekiel²` there, ESR#100-1 here, while JoA sees him as `6 Ezekiel` or Ezekiel^6^.
 * **Farrington**, Daniel, et al; _Farrington memorial :
 a sketch of the ancestors and descendants of Dea. John Farrington_; 2d Ed, Portland, Me. : Published by the Committee, 1899. [HathiTrust](https://catalog.hathitrust.org/Record/005730874), [WorldCat](https://www.worldcat.org/title/11392234).
 * **J, JoA, Jewett**: Jewett, Frederic Clarke; _History and genealogy of the Jewetts of America_; New York, The Grafton press, 1908; [Archive](https://archive.org/search?query=%22Jewetts+of+America%22) ([OpenLibrary](https://openlibrary.org/books/OL7001732M/History_and_genealogy_of_the_Jewetts_of_America#editions-list)) volumes 1 & 2.
 * **Ricker**, Percy Leroy, and Elwin R. Holland; _A genealogy of the Ricker family_; Heritage Books, Westminster, Md., 2006, 1996. [WorldCat](https://www.worldcat.org/title/258392339). (_Two volumes sold with one ISBN, so if buying used, negotiate carefully; or just order from Heritage Books, they still had them when last I checked._)
 
-------
+---------
 
 Individual facts are not copyright, by law. This compilation Copyright &copy; 2023 William D Ricker.
 
