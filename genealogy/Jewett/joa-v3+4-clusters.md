@@ -1,4 +1,6 @@
-% Table of Contents to Jewetts of American Volumes 3 and 4 
+% Table of Contents to Jewetts of America Volumes 3 and 4
+% William Ricker
+% 2023, 2024
 
 # Introduction
 
@@ -11,15 +13,16 @@ The 1998 Additions and Corrections to Vol 3 & 4 pamplet is [available online](ht
 
 Later additions and corrections are in the [Newsletters or Quarterly](https://jewett.org/backissues.html) publications of JoA.
 
-What vol 3 and 4 lack is an index. 
+What vol 3 and 4 lack is an table of contents navigable for following descents from vol 1 and 2. (The index at the back of volume 4 lets one find new descendants to work up from.)
+ 
 
-So this is my index of which vol 1 & 2 descendant each vol 3 & 4 cluster extends with page number.
+So this is my Table of Contents of which vol 1 & 2 descendant each vol 3 & 4 cluster extends, with page number, created by paging through both volumes.
 
 This Table of Contents will not tell you if a specific name is in the expansion volumes; 
-it only tells if a specific previously published descendant of Edward^1 Jewett has a new cluster of descent in the new volumes.
+it only tells if a specific previously published descendant of Edward^1 Jewett (or prior un-attached cluster) has a new cluster of descent in the new volumes.
 To check if a Jewett or allied family not previously connected is in vols 3 & 4, one needs must check the index at the back of vol 4 -- or to connect them to a volume 1 or 2 person and check if that person's number appears below.
 
-From this index, i can tell that [my lines from Vol 1 and 2 persons](./Jewetts-Updates.html) are _not_ covered, but several of their siblings (thus uncles/aunts) are.
+From this Table of Contents, i can tell that [my lines from Vol 1 and 2 persons](./Jewetts-Updates.html) are _not_ covered, but several of their siblings (thus uncles/aunts) are.
 
 # volume 3
 
@@ -175,5 +178,5 @@ after that are un-connected clusters of Jewetts
 
 ------------
 
-Individual facts are not copyright. This presentation of these particular facts is Copyright &copy; 2023 William D Ricker. 
+Individual facts are not copyright. This presentation of these particular facts is Copyright &copy; 2023, 2024 William D Ricker. 
 Jewett Cousins are encouraged to make good use of it.

@@ -1,4 +1,6 @@
 % Genealogy Department
+% William D Ricker
+% © 2023, 2024
 
 Our family has been actively pursuing genealogy for more than 6 decades, 
 mostly not for publication. 
@@ -7,7 +9,7 @@ Members of allied families should free to reach out
 via email `bill.n1vux @ gmail.com`, FB `bill.ricker.50`, etc 
 for more details than i'm willing to share on this public web-page.
 
-All contents &copy; 2023 William D Ricker (except as marked)
+All contents &copy; 2023, 2024 William D Ricker (except as marked)
 
 # Pages 
 

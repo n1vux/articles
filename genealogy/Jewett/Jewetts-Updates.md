@@ -1,7 +1,11 @@
 % My Jewett Lines & Updates for Jewetts of America
 % William D Ricker
-% © 2023 
+% © 2023, 2024
 
+---------
+
+* [↑ § Genealogy](..)
+* [↑↑ Articles Home](../..)
 
 ---------
 
@@ -793,5 +797,10 @@ a sketch of the ancestors and descendants of Dea. John Farrington_; 2d Ed, Portl
 
 ---------
 
-Individual facts are not copyright, by law. This compilation Copyright &copy; 2023 William D Ricker.
+* [↑ § Genealogy](..)
+* [↑↑ Articles Home](../..)
+
+---------
+
+Individual facts are not copyright, by law. This compilation Copyright &copy; 2023, 2024 William D Ricker.
 
