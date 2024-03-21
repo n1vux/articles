@@ -1,7 +1,11 @@
 % My Jewett Lines & Updates for Jewetts of America
 % William D Ricker
-% © 2023 
+% © 2023, 2024
 
+---------
+
+* [↑ § Genealogy](..)
+* [↑↑ Articles Home](../..)
 
 ---------
 
@@ -790,6 +794,11 @@ and mother of **J#587** ***Dea. Noah***, can be found in
 a sketch of the ancestors and descendants of Dea. John Farrington_; 2d Ed, Portland, Me. : Published by the Committee, 1899. [HathiTrust](https://catalog.hathitrust.org/Record/005730874), [WorldCat](https://www.worldcat.org/title/11392234).
 * **J, JoA, Jewett**: Jewett, Frederic Clarke; _History and genealogy of the Jewetts of America_; New York, The Grafton press, 1908; [Archive](https://archive.org/search?query=%22Jewetts+of+America%22) ([OpenLibrary](https://openlibrary.org/books/OL7001732M/History_and_genealogy_of_the_Jewetts_of_America#editions-list)) volumes 1 & 2.
 * **Ricker**, Percy Leroy, and Elwin R. Holland; _A genealogy of the Ricker family_; Heritage Books, Westminster, Md., 2006, 1996. [WorldCat](https://www.worldcat.org/title/258392339). (_Two volumes sold with one ISBN, so if buying used, negotiate carefully; or just order from Heritage Books, they still had them when last I checked._)
+
+---------
+
+* [↑ § Genealogy](..)
+* [↑↑ Articles Home](../..)
 
 ---------
 
