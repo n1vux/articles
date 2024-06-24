@@ -71,21 +71,22 @@ _Cross-Reference_ &mdash;  Ricker#4892 (in [Ricker Gen.](https://worldcat.org/ti
 
 ## &#x2469; J#7032 1. Ricker, Bess(ie) Jewett
 
-(b. 1880-11-21, d.  1906-08-04)
+(b. 1880-11-21, d.  1906-08-04) [obit](https://www.findagrave.com/memorial/254094331/bessie_jewett_mitchell)
 
-sp. **Mitchell**, Arthur Albert (b.  1880, d. 1914), m. 1902-12-17
+sp. **Mitchell**, Arthur Albert (b.  1880, d. 1914), [obit](https://www.findagrave.com/memorial/254094225/arthur_albert_mitchell);  
+m. 1902-12-17
 
-_JoA listed as ONE child, no J#; actually two sons._
+_JoA listed as ONE child, no J#; actually **two** sons; Arthur A had probably 3 more chn. by his m.2 [Cora May Irish](https://www.findagrave.com/memorial/254094027/cora_may_prince), per obit; and she remarried also (his m.2 of 3), per F-a-G, into one of the other two major Apple Orchardist families in town._
 
-*  Mitchell, Alfred Ricker (b.  1905-01-09, d. 1961)  
+*  Mitchell, Alfred Ricker (b.  1905-01-09, d. 1961)  [obit](https://www.findagrave.com/memorial/254095215/alfred_ricker_mitchell);
 sp. Ayles, Marion E (Morris) (d.  1991), m. 1925-05-09
 
-*  Mitchell, Donald Bates (b.  1906-08-02, d. 1988)  
+*  Mitchell, Donald Bates (b.  1906-08-02, d. 1988)  [Obit](https://www.findagrave.com/memorial/254095339/donald_bates-mitchell)
 sp. Bailey, Grace L (Forster) (b.  1909, d. 2000) [obit](https://www.findagrave.com/memorial/96275214/grace-louise-mitchell);
     - no issue from this marriage.
     - (Her (m.2); she (m.1) Francis Lee **Bailey** sr. - 3 sons, including noted attorney **F Lee Bailey (jr)** (1933-06-10 - 2021-06-03; [obit](https://www.dignitymemorial.com/obituaries/houston-tx/francis-bailey-10221337), [news](https://www.abajournal.com/news/article/disbarred-lawyer-f-lee-bailey-who-took-on-the-demons-of-society-dies-at-87)); 
 _AFAIK her other children may yet live so not included._)
-    - Don B Mitchell was fostered in his Uncle Will's household (see next **J#7033**), his mother Bessie having died when he was age 2 days.
+    - _Don Mitchell was fostered in his Uncle Will's household (see next **J#7033**), his mother Bessie having died when he was age 2 days. As foster-brother, he was very close to his cousin A.B.Ricker for life. Don adopted Grace's sons, per Obit. Don had one leg permanently deformed by Polio._
 
 ##  &#x2469; J#7033 2. Ricker, William Jewett, aka "Will" and "W.J."
 
