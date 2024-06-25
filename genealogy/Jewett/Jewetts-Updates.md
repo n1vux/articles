@@ -65,7 +65,7 @@ Androscoggin Co, Maine, USA
 
 _Cross-Reference_ &mdash;  Ricker#4892 (in [Ricker Gen.](https://worldcat.org/title/35526599)).
 
-&#x1F7E5; _Note that Forence's paternal grandfather &#x2466; **J#1346 John Jewett**'s wife **Betsey Barker** [under J#164 Ebenezer q.v.](#j164-ebenezer-barker-sr)  is his fourth cousin, of Jewett descent: Betsey^5^ Barker, Simeon^4^, Ebenezer^3^, Noah^2^, Barzilla^1^ Barker m. &#x2462; **J#7 Anna (Hannah) Jewett (Barker)**, dau. of &#x2461; **J#3 Maximilian**, so that their children have doubled Jewett._
+&#x1F7E5; _Note that Florence's paternal grandfather &#x2466; **J#1346 John Jewett**'s wife **Betsey Barker** [under J#164 Ebenezer q.v.](#j164-ebenezer-barker-sr)  is his fourth cousin, of Jewett descent: Betsey^5^ Barker, Simeon^4^, Ebenezer^3^, Noah^2^, Barzilla^1^ Barker m. &#x2462; **J#7 Anna (Hannah) Jewett (Barker)**, dau. of &#x2461; **J#3 Maximilian**, so that their children have doubled Jewett._
 
 3 children, enumerated at _loc.cit._ but not expanded in JoA:
 
