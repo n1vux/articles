@@ -473,3 +473,52 @@ And listen to his advice. And roll my eyes. And say, DAD DEE!
 
 -------------
 
+# 2024-10-18 Committal
+
+_or should I say in-URN-ment_
+
+(Turner Village Cemetery, Maine. 11am, 18th October 2024)
+
+## The 23rd Psalm
+
+[King James version of the Bible — This is the version George memorized for Gramma Florence Ricker as a boy,
+and the one he taught in his literature classes]
+
+    The Lord is my Shepherd;   I shall not want.
+    He maketh me to lie down in green pastures;
+    He leadeth me beside the still waters.
+    He restoreth my soul.
+    He leadeth me in the paths of righteousness for his name’s sake.
+    Yea, though I walk through the valley of the shadow of death,
+    I shall fear no evil:  for thou art with me;
+    Thy rod and thy staff they comfort me.
+    Thou preparest a table before me in the presence of mine enemies:
+    Thou anointest my head with oil;  my cup runneth over. 
+    Surely goodness and mercy shall follow me all the days of my life;
+    And I shall dwell in the house of the Lord for ever.  Amen.
+
+## Wendy’s Highlights in Memory of George
+
+George and Wendy met backstage at the University of Maine his senior year.
+They were engaged the spring of her senior year before she went on to graduate study at the University of Wisconsin and he went to Virginia with the Army.
+They were married one week after his discharge in November, 1956.
+He began his teaching career in Lebanon, NH, then was in guidance in Maine at Calais, Windham, and Bonny Eagle High Schools, before he went back to teaching English -- till his retirement in 1991.
+
+They both enjoyed travel.   In junior high he was already planning trips to all the state capitols and dreaming of seeing Australia and New Zealand, which they did eventually.   They saw many of the states with their kids in a travel trailer.  His uncle Don Mitchell and his great-grandparents had set examples as travelers.  
+In retirement they spent time in Florida with his parents at Don’s place but also explored more of the state, as well as other states and overseas.
+
+He was involved with state Maine Teachers Association politics.   He pulled together a Maine apple history which his father had begun.   He got interested in family genealogy, building on what had already been done earlier by older generations.  They were involved in mentoring other parents in the Little People of America at state and national meetings.   George and Wendy had a rich life together.
+
+George had no regrets on not having a career in the orchard --  but he continued to love Ricker Hill.
+
+
+## The Lord’s Prayer
+
+    Our Father, which art in Heaven.
+    Hallowed be thy name.
+    Thy kingdom come.
+    Thy will be done, in earth, as it is in heaven.
+    Give us this day our daily bread.
+    And forgive us our debts, as we forgive our debtors.
+    And lead us not into temptation, but deliver us from evil:
+    For thine is the kingdom, and the power, and the glory, for ever.   Amen.
