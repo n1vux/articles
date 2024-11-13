@@ -92,7 +92,7 @@ Division to army reserve completed. Movement of 1st Division to III Corps Reserv
 
 # Remembering Massachusetts Soldiers recorded KIA on 11-11 
 
-This list is compiled from *GOLD STAR RECORD OF MASSACHUSETTS IN THE WORLD WAR ( Vol II)*[^MaCommGold], selecting only those Massachusians listed as Killed In Action (KIA; or Died of Wounds the same day) on 11-11, the date of Armistice, whose lives were sacrificed by Generals who knew Armistice was about to be or already signed, to make the point that Germany was defeated on the battlefield as well as "at home". (See e.g. [PPT Sapper thread](https://twitter.com/pptsapper/status/1060000294124314625)  and [lives-wasted](http://www.historynet.com/world-war-i-wasted-lives-on-armistice-day.htm).)
+This list is compiled from *GOLD STAR RECORD OF MASSACHUSETTS IN THE WORLD WAR ( Vol II)*[^MaCommGold], selecting only those Massachusians listed as Killed In Action (KIA; or Died of Wounds the same day) on 11-11, the date of Armistice, whose lives were sacrificed by Generals who knew Armistice was about to be or already signed, to make the point that Germany was defeated on the battlefield as well as "at home". (See e.g. [PPT Sapper thread&#x1F517;](https://web.archive.org/web/20211111011223/https://twitter.com/pptsapper/status/1060000294124314625)  and [lives-wasted](http://www.historynet.com/world-war-i-wasted-lives-on-armistice-day.htm).)
 
 In order left to right on the line, since we only know time of day for two of these.
 
@@ -158,9 +158,9 @@ Regarding IWT, we find
 > In April 1918, Canadians with the Royal Engineers Inland Water Transport were drafted to the Durham Light Infantry ...
 > *Filling the Ranks: Manpower in the Canadian Expeditionary Force* [https://books.google.com/books?isbn=0773549102], Richard Holt, 2017
 
-which is confirmed by [6th Bn Durham Light Inf. History](https://archive.org/stream/6thbattaliondur00ainuoft/6thbattaliondur00ainuoft_djvu.txt) that they received a draft of men from Royal Engineers IWT&D, but that battalion was later reduced in combat to cadre for new troops, and they were distributed to other battalions by 6 Nov, so were nowhere in particular on 11-11.
+which is confirmed by [6th Bn Durham Light Inf. History&#x1F517;](https://archive.org/stream/6thbattaliondur00ainuoft/6thbattaliondur00ainuoft_djvu.txt) that they received a draft of men from Royal Engineers IWT&D, but that battalion was later reduced in combat to cadre for new troops, and they were distributed to other battalions by 6 Nov, so were nowhere in particular on 11-11.
 
-[Durhams History](https://archive.org/details/cihm_991347/page/n407) says the Durhams were in reserve from 8 Nov, so not at Mons; any 11-11 battle dead in Durhams would be died of earlier wounds (or detached to a unit in-line, or hit by deep-zone harassment).
+[Durhams History&#x1F517;](https://archive.org/details/cihm_991347/page/n407) says the Durhams were in reserve from 8 Nov, so not at Mons; any 11-11 battle dead in Durhams would be died of earlier wounds (or detached to a unit in-line, or hit by deep-zone harassment).
 
 So we don´t know where Harry served or fell; we are lucky to have any information on a Bostonian serving with Canadians and Brits at all, it seems.
 
@@ -236,7 +236,7 @@ Warmonterne Fme." [CMH-23-2]
 
 ### Beaumont-en-Argonne, Meuse Valley, 89th Div
 
-The [89th Division History](https://archive.org/details/historyof89thdiv00engl/page/153) quotes Pershing's final AEF situation report for the November offensive -
+The [89th Division History&#x1F517;](https://archive.org/details/historyof89thdiv00engl/page/153) quotes Pershing's final AEF situation report for the November offensive -
 
 > By the evening of the 4th, our troops 
 had reached Laneuville, opposite Stenay, and had swept through the great 
@@ -261,7 +261,7 @@ portions of that front after 11 A.M."
 > Born 17 June, 1891, at South Boston, son of James S. Wilson. His mother was reported as living  at Prince Albert, Saskatchewan, Can., in 1917.  
 > (Mass.Comm.Gold-Star narrative [^MaCommGold])
 
-1LT Wilson is noted in [89th Division history](https://archive.org/details/historyof89thdiv00engl/page/398) Honor Roll as **Co G, 356th Inf**, which in WW1 division would put him in **2d Bn,** 356th.
+1LT Wilson is noted in [89th Division history&#x1F517;](https://archive.org/details/historyof89thdiv00engl/page/398) Honor Roll as **Co G, 356th Inf**, which in WW1 division would put him in **2d Bn,** 356th.
 
 *Beaumont-en-Argonne*  is shown on ABMC map of 2nd and 89th's Meuse crossings, west of Létanne and Pouill-sur-Meuse. (Note, this one map is rotated so North is down and East is left!)  Beaumont would have been a Rear Area on 11-11 -- on the 2nd Div side of the line, barely -- but the crossing is considered to have spring *from* Beaumont, so we may presume 1LT Wilson fell at the front, on the crossings. The map shows 2d Bn, 356th crossing the footbridges to Bois d'Alma Gisors - crossing the supposed Division boundary! - so we expect they're heading for Sénégal Farm and Moulins.
 
@@ -577,9 +577,9 @@ and their sibling [369th Inf](https://en.wikipedia.org/wiki/369th_Infantry_Regim
 Two Massachusian NCOs died quite possibly of Spanish 'flu in October while out of line. (The rear and hospitals were actually worse for the 'flu, because that's where the sick people were.)
 
 * ***UPDATE*** 2018-11-11 Twitter threads on 92d Division experiences under white officers, and as veterans -  
-    + [Africa, Africans, and WWI](https://twitter.com/mimoyd1/status/1061718850088194049)
+    + [Africa, Africans, and WWI&#x26D4;404](https://twitter.com/mimoyd1/status/1061718850088194049)
     + [Chad Williams on 92d Div](https://twitter.com/Dr_ChadWilliams/status/1061665103102337027)
-    + [WHEN AMERICA FORGOT ALL ABOUT ITS BLACK WWI SOLDIERS](https://www.ozy.com/flashback/when-america-forgot-all-about-its-black-wwi-soldiers/90207)
+    + [WHEN AMERICA FORGOT ALL ABOUT ITS BLACK WWI SOLDIERS&#x1F517;](https://web.archive.org/web/20210119015956/https://www.ozy.com/flashback/when-america-forgot-all-about-its-black-wwi-soldiers/90207)
     + ["The Colored Soldier" a dramatic recitation](https://twitter.com/HughesCenter_KU/status/1061622055890751490)
     + [The Caldwell Case](https://twitter.com/S_L_Alexander/status/1061610664387592192)
     + [TheCrisisMag: Targetting Black Veterans](https://twitter.com/thecrisismag/status/1061617008918388737)
@@ -590,14 +590,16 @@ Two Massachusian NCOs died quite possibly of Spanish 'flu in October while out o
 
 # Credits Works Consulted & Quoted#
 
-Copyright 2018, William D. Ricker, and licensed CC-BY-SA ![CC-BY-SA](CC-BY-SA_icon.svg.png).
+Copyright 2018, 2024 William D. Ricker, and licensed CC-BY-SA ![CC-BY-SA](CC-BY-SA_icon.svg.png).
 
 Special Thanks to
 
-* **The Angry Staff Officer** ([blog](https://angrystaffofficer.com/), [PPT Sapper (twitter)](https://twitter.com/pptsapper)), especially [Foch Pershing Sommerall 11-11 thread](https://twitter.com/pptsapper/status/1060000294124314625) for inspiration.
-* [**Fotoxx**](https://kornelix.net/fotoxx/fotoxx.html) Free & Libre Photo enhancement (For Linux)
+* **The Angry Staff Officer** ([blog](https://angrystaffofficer.com/), formerly PPTsapper on the service formerlly known as Twitter now [PPT Sapper (bsky)](https://bsky.app/profile/pptsapper.bsky.social)), especially [Foch Pershing Sommerall 11-11 thread&#x1F517;](https://web.archive.org/web/20211111011223/https://twitter.com/pptsapper/status/1060000294124314625) for inspiration.
+* [**Fotocx**](https://kornelix.net/fotocx/fotocx.html) Free & Libre Photo enhancement (For Linux)
 * [Lives Wasted On Armistice Day](http://www.historynet.com/world-war-i-wasted-lives-on-armistice-day.htm), **HistoryNet.com**.
 
+
+***UPDATE*** [2024] Links to 404 pages redirected via Archive.org (marked &#x1F517;) or marked broken (&#x26D4;404).
 
 The canonical works consulted and block-quoted with footnotes were Massachusetts and USA Army official histories, and OOB maps, in the public domain (PD) or US Govt Copyright (which amounts to PD).
 
@@ -606,7 +608,7 @@ The canonical works consulted and block-quoted with footnotes were Massachusetts
 
 * **Commission on Massachusetts' Part in the World War**, *Report of the*, Jesse F Stevens,  Eben Putnam; Boston: 1929; 
 [HaithiTrust](https://catalog.hathitrust.org/Record/007467745), 
-[archive.org](https://archive.org/search.php?query=%22Commission%20on%20Massachusetts%27%20Part%20in%20the%20World%20War%22)
+[archive.org&#x1F517;](https://archive.org/search.php?query=%22Commission%20on%20Massachusetts%27%20Part%20in%20the%20World%20War%22)
 [WorldCat](http://www.worldcat.org/title/report-of-the-commission-on-massachusetts-part-in-the-world-war/oclc/680173970&referer=brief_results)
 **vol I, *History* **; **vol II, *Gold Star Record of Massachusetts in the World War* ** . 
 
@@ -647,7 +649,7 @@ Other sources that are linked in the text -
 * Canadian Memorial links for MacAlpine - [govt](http://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/22102), [CGWP](http://www.canadiangreatwarproject.com/searches/soldierDetail.asp?ID=114), [CWGC](https://www.cwgc.org/find-war-dead/casualty/22102/) [Remembrance Book](http://www.veterans.gc.ca/eng/remembrance/memorials/books/page?page=590&book=1&sort=pageAsc)
 * MacAlpine marriage [Nova Scotia Vital Statistics, RootsWeb](http://sites.rootsweb.com/~canbrnep/vitstat1913.htm)
 * *Filling the Ranks: Manpower in the Canadian Expeditionary Force* [https://books.google.com/books?isbn=0773549102], Richard Holt, 2017
-* *[6th Battallion Durham Light Infantry](https://archive.org/stream/6thbattaliondur00ainuoft/6thbattaliondur00ainuoft_djvu.txt)*
-* *[The Durham Forces in the field 1914-18](https://archive.org/details/cihm_991347/page/n407) [microform] : volume II : the service battalions of the Durham Light Infantry*;  Miles, Wilfrid, and Vane, William Lyonel; London etc: 1920.
-* *[89th Division history](https://archive.org/details/historyof89thdiv00engl/page/398)*.
+* *[6th Battallion Durham Light Infantry&#x1F517;](https://archive.org/stream/6thbattaliondur00ainuoft/6thbattaliondur00ainuoft_djvu.txt)*
+* *[The Durham Forces in the field 1914-18&#x1F517;](https://archive.org/details/cihm_991347/page/n407) [microform] : volume II : the service battalions of the Durham Light Infantry*;  Miles, Wilfrid, and Vane, William Lyonel; London etc: 1920.
+* *[89th Division history&#x1F517;](https://archive.org/details/historyof89thdiv00engl/page/398)*.
 
