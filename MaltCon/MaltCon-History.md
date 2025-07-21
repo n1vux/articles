@@ -335,8 +335,8 @@ _Addenda & Corrigenda should be sent directly to me, Bill._
     <br /> [GoFundMe](https://gofund.me/a940f09b) support encouraged. 
     <br />(_Still fighting July 2025, GoFundMe call re-upped; will be repeat F-C'd at ReaderCon 2025_.) 
     <br />(_see footnote for further details_)
-*  **Dennis McCunney**, MaltCon [*co*]Founder and leader of many a ***“Fuck Cancer”*** and/or **“Absent Friends”** toast at MaltCons, d. 2025-04-29, was remembered with a virtual gathering May 2nd and will be remembered thusly at ReaderCon 2025.
-    <br />(_and presumably each MaltCon for the rest of the year_).
+*  **Dennis McCunney**, MaltCon [*co*]Founder and leader of many a ***“Fuck Cancer”*** and/or **“Absent Friends”** toast at MaltCons, d. 2025-04-29, was remembered with a virtual gathering May 2nd; was remembered thusly at ReaderCon 2025; and will be at Albacon and Philcon as well.
+
 
 _Addenda & Corrigenda should be sent directly to me, Bill._
 
@@ -352,8 +352,8 @@ Numbering was initially inconsistent as to whether 0y.0n or 0y.n , and didn’t 
 _Addenda & Corrigenda should be sent directly to me, Bill._
 
 *  prehistory, turn-of-millennium & earlier
-    - TF acquired a foundling [road case](https://en.wikipedia.org/wiki/Road_case) to move leftover booze between TF parties. [TF](https://techno-fandom.org), [wiki](http://tf.wiki.stonekeep.com/)
-    - Bill was inducted into Malt mania by Internet Old Boy, pre-web Scotch logger, member of MITSFS (before NESFA) and author of 1st (? 2nd ?) thesis on SciFi as LitCrit, Mike Padlipsky aka [MAP](../MAP/). One of the bottles opened at his Wake will be at Dennis's MaltCon remembrance(s).
+    - 1998, TF acquired a foundling [road case](https://en.wikipedia.org/wiki/Road_case) to move leftover booze between TF parties. [^2025-07-20_Z1] [TF](https://techno-fandom.org), [wiki](http://tf.wiki.stonekeep.com/)
+    - 198x, Bill was inducted into Malt mania by Internet Old Boy, pre-web Scotch logger, member of MITSFS (before NESFA) and author of 1st (? 2nd ?) thesis on SciFi as LitCrit, Mike Padlipsky aka [MAP](../MAP/). One of the bottles opened at his Wake (2011) will be at Dennis's MaltCon remembrance(s).
     - Dennis met Elaine among the SMOF of the floating WorldCon committee at MilPhil (2001).
       [_Bill & famly were there too, did we talk to either? IDK_ [BR]]
     - LAG’s friends enjoy drinking Scotch in Philcon and other con hotel bars.
@@ -438,6 +438,7 @@ _Addenda & Corrigenda should be sent directly to me, Bill._
     - 16.01 Arisia Rye Expression (GoH Ursula Vernon; Blind Canadian Rye tasting experiment launched)
     - 16.02 Boskone 
     - 16.03 Albacon 
+    - ----- MidAmeriCon 2, "Refined Barley Products Council" [^2025-07-20_Z2]
     - 16.04 Lunacon (last at [Escher Hilton](https://fancyclopedia.org/Rye_Town_Hilton) Rye Brook)
     - 16.05 Philcon “Dave Kyle Memorial”
 *  2017
@@ -758,3 +759,25 @@ This was composed after Philcon 2016 and Arisia 2017 new invitations had grown o
     - FWS 2024 GoFundMe appeal forwarded to list by RKOV [2024-06-01](https://groups.google.com/g/maltcon/c/NZxpIn516Qg/m/C9hdEFoLBQAJ)
     - FWS 2025 GoFundMe appearl forwarded to list by Bill [2025-07-17](https://groups.google.com/g/maltcon/c/CzRApFTIu0E/m/I0erMCauBAAJ)
     
+
+
+[^2025-07-20_Z1]: 2025-07-20 Carl Z! [Z\! re Road Case](https://groups.google.com/g/maltcon/c/rx4gdpWMiQM/m/dCmFhUmuBQAJ)
+    
+    The original TF road case, for an HP LaserJet4, was acquired off the
+conv. center loading dock at the 1998 Worldcon "Bucconeer". 
+    Apparently it had been kicking around the dock for a couple of months and one of the local guys pretty much said "It's in the way"; 
+    we helped tidy up the place.
+
+[^2025-07-20_Z2]: 2025-07-20 Carl Z! [Z\! re MidAmeriCon ii](https://groups.google.com/g/maltcon/c/rx4gdpWMiQM/m/dCmFhUmuBQAJ)
+    
+    At MidAmeriCon 2 (2016) there was a meeting of the 
+    "Refined Barley Products Council" or something like that. 
+    Wasn't a MC because neither Dennis nor Bill could be there; 
+    hosted in the Tech suite. 
+    IIRC attendance was decent and pretty much BYO (I brought four whiskys as a
+starter). 
+    There is the possibility of a similar meeting at the Seattle
+worldcon.
+    
+
+
