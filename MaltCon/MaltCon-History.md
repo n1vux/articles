@@ -325,7 +325,7 @@ _Addenda & Corrigenda should be sent directly to me, Bill._
 *  Gardner Dozois (d.2018-05-27) & Sue Casper (d.2017-02-24) . MC 18.05
 *  Vonda McIntyre, d. 2019-04-01, MC 19.01 (HS)
 *  Danny Lieberman, MC 19.01 (HS) _see above at 2012._
-*  Debra Doyle, d. 2020-10-31.
+*  Debra Doyle, d. 2020-10-31. (Willett bottle in her memory.)
 *  Ed Meskys, d. 2021-07-25. 
 *  Leo d’Entremont d.  2021-08-01/02.
 *  2022 π-e _The **Chicon8** Dark Mode Expression_ (**WorldCon**) had a ***“Fuck Cancer”*** toast reported, but no notes as to which specific friends.
@@ -334,7 +334,7 @@ _Addenda & Corrigenda should be sent directly to me, Bill._
 *  Joe Howell, _Federal Wine & Spirits_, friend and benefactor of MaltCon [_see Badger entry above_], ***"Fuck Cancer"*** on email. 
     <br />Joe played himself at Federal, in Paul Giamatti's _The Holdovers_.[^2024-Feb-14_Bill]
     <br /> [GoFundMe](https://gofund.me/a940f09b) support encouraged. 
-    <br />(_Still fighting July 2025, GoFundMe call re-upped; will be repeat F-C'd at ReaderCon 2025_.) 
+    <br />(_Still fighting July 2025, GoFundMe call re-upped; repeat F-C'd at ReaderCon 2025_.) 
     <br />(_see footnote for further details_)
 *  **Dennis McCunney**, MaltCon [*co*]Founder and leader of many a ***“Fuck Cancer”*** and/or **“Absent Friends”** toast at MaltCons, d. 2025-04-29, was remembered with a virtual gathering May 2nd; was remembered thusly at ReaderCon 2025; and will be at Albacon and Philcon as well.
 
