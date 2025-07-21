@@ -330,6 +330,7 @@ _Addenda & Corrigenda should be sent directly to me, Bill._
 *  Leo d’Entremont d.  2021-08-01/02.
 *  2022 π-e _The **Chicon8** Dark Mode Expression_ (**WorldCon**) had a ***“Fuck Cancer”*** toast reported, but no notes as to which specific friends.
 *  Robert A “Bob” Madle d.2022-10-08 , aged 102, first and last of First Fandom, Philcon. 
+*  Ed Hutnik, d. 2023-08-25. 
 *  Joe Howell, _Federal Wine & Spirits_, friend and benefactor of MaltCon [_see Badger entry above_], ***"Fuck Cancer"*** on email. 
     <br />Joe played himself at Federal, in Paul Giamatti's _The Holdovers_.[^2024-Feb-14_Bill]
     <br /> [GoFundMe](https://gofund.me/a940f09b) support encouraged. 
