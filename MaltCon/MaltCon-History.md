@@ -353,8 +353,9 @@ Numbering was initially inconsistent as to whether 0y.0n or 0y.n , and didn’t 
 _Addenda & Corrigenda should be sent directly to me, Bill._
 
 *  prehistory, turn-of-millennium & earlier
+    - multiple separate, private Pro and SMOF Scotch or Scotch&Chocolate circles [^2017-12-01_Elaine] [^2025-07-22_CTan]
     - 1998, TF acquired a foundling [road case](https://en.wikipedia.org/wiki/Road_case) to move leftover booze between TF parties. [^2025-07-20_Z1] [TF](https://techno-fandom.org), [wiki](http://tf.wiki.stonekeep.com/)
-    - 198x, Bill was inducted into Malt mania by Internet Old Boy, pre-web Scotch logger, member of MITSFS (before NESFA) and author of 1st (? 2nd ?) thesis on SciFi as LitCrit, Mike Padlipsky aka [MAP](../MAP/). One of the bottles opened at his Wake (2011) will be at Dennis's MaltCon remembrance(s).
+    - 198x, Bill was inducted into Malt mania by Internet Old Boy, pre-web Scotch logger, member of MITSFS (before NESFA) and author of 1st (? 2nd ?) thesis on SciFi as LitCrit, Mike Padlipsky aka [MAP](../MAP/) . One of the bottles opened at his Wake (2011) will be at Dennis's MaltCon remembrance(s).
     - Dennis met Elaine among the SMOF of the floating WorldCon committee at MilPhil (2001).
       [_Bill & famly were there too, did we talk to either? IDK_ [BR]]
     - LAG’s friends enjoy drinking Scotch in Philcon and other con hotel bars.
@@ -780,5 +781,8 @@ starter).
     There is the possibility of a similar meeting at the Seattle
 worldcon.
     
+[^2025-07-22_CTan]: 2025-07-22 Cecilia Tan [re pre-history pro private scotch circles ](https://groups.google.com/g/maltcon/c/rx4gdpWMiQM/m/1hW4oh38BQAJ)
+    
+
 
 
