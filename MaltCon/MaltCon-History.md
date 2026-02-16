@@ -308,13 +308,14 @@ This is **not** a full list, but just what can be reconstructed from email archi
 
 _Addenda & Corrigenda should be sent directly to me, Bill._
 
-*  Mike "MAP" Padlipsky d. 2011-03-03, benefactor of MaltCon _in absentia_ (see _Prehistory_).
-*  Alice “Badger” Washburn, d. 2011-12-26, waked at MaltCon 08.01 (Arisia 2012)
-    <br />_Joe @ FedWine donated a bottle of Dalmore 12 for the wake as suited Badger's taste. Alas he's listed below too._
+*  Mike "MAP" Padlipsky d. 2011-03-03, benefactor of MaltCon _in absentia_ (see [Prehistory](#prehistory)).
+*  <a name="alice" style="color: #000000">Alice</a> “Badger” Washburn, d. 2011-12-26, waked at MaltCon 08.01 (Arisia 2012)
+    <br /><a href="#joe">Joe @ FedWine</a> _donated a bottle of Dalmore 12 for the wake as suited Badger's taste. Alas he's listed below too._
 *  Danny Lieberman, d. 2012-10-19, announced and toasted at Maltcon 12.x Albacon, and again at Lunacon MC13.03. 
     <br />Repeat toast MC 19.01 [HS] :
     <br />“added a toast to the late MaltCon member Danny Lieberman, who lost a battle with Lymphoma a few years back.  Danny left a chunk of money in the care of a mutual friend to be used for good fannish purposes, and that provided the seed funding that allowed **HELIOsphere** to begin. 
     <br />He was a literal angel investor.” [_Dennis, MC19.01 report_]
+    <br />Danny also found a bargain purchase for our first set of Glencairn glasses.
 *  Jan Howard Finder d. 2013-02-25 , friend of the MaltCon family tho not a member, remembered at next Lunacon MC13.03, Philcon annual roll-up MC13.05 (_and probably an AlbaCon as well iirc?_).
 *  Jay Lake, (d.June 1, 2014), was included in a “health and strength dram” appended to Lunacon 2013 MC13.03 ***“Fuck Cancer”*** when his got worse; and **"Absent Friends"** MC14.05. 
 *  Peggy Rae Sapienza (formerly McKnight, Pavlat), d. 2015-03-22, MC 15.05
@@ -331,12 +332,14 @@ _Addenda & Corrigenda should be sent directly to me, Bill._
 *  2022 π-e _The **Chicon8** Dark Mode Expression_ (**WorldCon**) had a ***“Fuck Cancer”*** toast reported, but no notes as to which specific friends.
 *  Robert A “Bob” Madle d.2022-10-08 , aged 102, first and last of First Fandom, Philcon. 
 *  Ed Hutnik, d. 2023-08-25. 
-*  Joe Howell, _Federal Wine & Spirits_, friend and benefactor of MaltCon [_see Badger entry above_], ***"Fuck Cancer"*** on email. 
+*  <a name="joe" style="color: #000000">Joe Howell</a>, _Federal Wine & Spirits_, friend and benefactor of MaltCon [_see Badger entry above_](#alice). 
     <br />Joe played himself at Federal, in Paul Giamatti's _The Holdovers_.[^2024-Feb-14_Bill]
-    <br /> [GoFundMe](https://gofund.me/a940f09b) support encouraged. 
-    <br />(_Still fighting July 2025, GoFundMe call re-upped; repeat F-C'd at ReaderCon 2025_.) 
-    <br />(_see footnote for further details_)
-*  **Dennis McCunney**, MaltCon [*co*]Founder and leader of many a ***“Fuck Cancer”*** and/or **“Absent Friends”** toast at MaltCons, d. 2025-04-29, was remembered with a virtual gathering May 2nd; was remembered thusly at ReaderCon 2025; and will be at Albacon and Philcon as well.
+    <br />d. Feb. 3, 2026 [^2026-02-07-Michael] after a long nasty battle with Cancer; was noted with health wishes under **Fuck Cancer** toasts and email several times; and remembered finally at Boskone 2026, 
+with Joe-autographed Bruichladdich 20y 3d Ed Malmsey Madeira finish, for which Joe did the re-casking on a vacation-internship; and the private cask CS Bruichladdich which he'd sourced for a customer that was mostly donated back for hospice/chemo GoFundMe premiums, also Joe-autographied.
+    <br />    ![Two Bruichladdich Bottles](P2151065.v01.jpg){ height=20% width=20% }
+    <br />(_see footnotes for further details_) 
+
+*  **Dennis McCunney**, MaltCon [*co*]Founder and leader of many a ***“Fuck Cancer”*** and/or **“Absent Friends”** toast at MaltCons, d. 2025-04-29, was remembered with a virtual gathering May 2nd; was remembered thusly at ReaderCon, Albacon, and Philcon 2025 and Boskone 2026 as well. Dennis' favorite G&M Speymalt (Macallan) 19yo and our joint promotion project Speyburn were featured in his toasts, among others.
 
 
 _Addenda & Corrigenda should be sent directly to me, Bill._
@@ -352,7 +355,7 @@ Numbering was initially inconsistent as to whether 0y.0n or 0y.n , and didn’t 
 
 _Addenda & Corrigenda should be sent directly to me, Bill._
 
-*  prehistory, turn-of-millennium & earlier
+*  <a name="prehistory" style="color: #000000">prehistory</a>, turn-of-millennium & earlier
     - multiple separate, private Pro and SMOF Scotch or Scotch&Chocolate circles [^2017-12-01_Elaine] [^2025-07-22_CTan]
     - 1998, TF acquired a foundling [road case](https://en.wikipedia.org/wiki/Road_case) to move leftover booze between TF parties. [^2025-07-20_Z1] [TF](https://techno-fandom.org), [wiki](http://tf.wiki.stonekeep.com/)
     - 198x, Bill was inducted into Malt mania by Internet Old Boy, pre-web Scotch logger, member of MITSFS (before NESFA) and author of 1st (? 2nd ?) thesis on SciFi as LitCrit, Mike Padlipsky aka [MAP](../MAP/) . One of the bottles opened at his Wake (2011) will be at Dennis's MaltCon remembrance(s).
@@ -759,7 +762,7 @@ This was composed after Philcon 2016 and Arisia 2017 new invitations had grown o
     - Joe's role had been discussed on list [Sept 2023](https://groups.google.com/g/maltcon/c/P6XEmhypmuk/m/zkc2abBoBQAJ) & [Oct 2023, Felicia forwards FWS "Joe Howell Steals the Scene"](https://groups.google.com/g/maltcon/c/NwQOR0PT1so/m/XbgbAINIAQAJ) when movie was released.
     - list announcement  of health issues [Feb 13, 2024](https://groups.google.com/g/maltcon/c/zX7MZ9yqfK8/m/ydDY08hwAgAJ) just after Boskone 2024
     - FWS 2024 GoFundMe appeal forwarded to list by RKOV [2024-06-01](https://groups.google.com/g/maltcon/c/NZxpIn516Qg/m/C9hdEFoLBQAJ)
-    - FWS 2025 GoFundMe appearl forwarded to list by Bill [2025-07-17](https://groups.google.com/g/maltcon/c/CzRApFTIu0E/m/I0erMCauBAAJ)
+    - FWS 2025 GoFundMe appeal forwarded to list by Bill [2025-07-17](https://groups.google.com/g/maltcon/c/CzRApFTIu0E/m/I0erMCauBAAJ)
     
 
 
@@ -786,3 +789,18 @@ worldcon.
 
 
 
+[^2026-02-07-Michael]: 2026-02-07 Michael Nelson [Joe Howell, Federal Wine & Spirits, R.I.P.](https://groups.google.com/g/maltcon/c/pMdfswBkRuo/m/rctwRVaLAgAJ)
+
+    I was visiting the Federal Wine & Spirits website to see if any events were scheduled for President's Day weekend while I'm in Boston for Boskone next week.
+
+    > JOE HOWELL
+    
+    > We are very saddened to announce the passing of Joe Howell on February 3, 2026,
+    after a long illness and many health challenges. His colleagues here at Federal
+    past and present, his many friends and his family will miss him greatly.
+    
+    > We will send out an email when time and place of Joe's memorial service
+    are finalized. If you are not already on our mailing list and
+    would like to receive this email, please contact us at or orders@federalwine.com.
+    
+    Michael
