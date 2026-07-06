@@ -2,6 +2,7 @@
 
 <a rel="me" href="https://mastodon.radio/@n1vux">Mastodon</a> 1,
 <a rel="me" href="https://fosstodon.org/@BRicker">Mastodon</a> 2,
+<a rel="me" href="https://pixelfed.social/bricker">PixelFed</a>;
 <a href="https://bsky.app/profile/bill-n1vux.bsky.social">BlueSky</a>,
 <a href="https://twitter.com/n1vux">Xhitter</a> &#x1F512; if it lives;
 CPAN BRICKER, GH n1vux . *etc*.

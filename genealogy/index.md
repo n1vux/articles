@@ -16,6 +16,7 @@ All contents &copy; 2023, 2024 William D Ricker (except as marked)
 * [George A Ricker Memorial](./GAR/GAR-Memorial.html)
 * [Barbara (Dow) Turner Memorial](./Jewett/Barbara-Turner-obit.html)
 * [Jewett connections](./Jewett/Jewetts-Updates.html)
+* [Nails-or-Screws](nails-or-screws.html), a family legend.
 
 
 ([up to articles home](..))
