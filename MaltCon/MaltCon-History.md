@@ -277,7 +277,7 @@ _2017 through 2019 continued roughly as Dennis outlined in the 2017 draft (as au
 
 _After Boskone 2020, MaltCon joined the Host Cons in Plague Virtual mode._
 
-_As Cons returned to Hybrid and then full-but-careful in-person, neither Bill (protecting vulnerable relatives) nor Dennis (health declining) were travelling, much so Denis (having discussed with Bill and iirc Elaine) deputized **Rick Kovalcik** (RKOV) and **Paul Kraus** to keep things moving._
+_As Cons returned to Hybrid and then full-but-careful in-person, neither Bill (protecting vulnerable relatives) nor Dennis (health declining) were travelling much, so Denis (having discussed with Bill and iirc Elaine) deputized **Rick Kovalcik** (RKOV) and **Paul Kraus** to keep things moving. Cons with MaltCons are included in [Timeline](#timeline-maltcon-list-of-recorded-events)._
 
 
 __TODO__ _fill in_
@@ -309,9 +309,9 @@ This is **not** a full list, but just what can be reconstructed from email archi
 _Addenda & Corrigenda should be sent directly to me, Bill._
 
 *  Mike "MAP" Padlipsky d. 2011-03-03, benefactor of MaltCon _in absentia_ (see [Prehistory](#prehistory)).
-*  <a name="alice" style="color: #000000">Alice</a> “Badger” Washburn, d. 2011-12-26, waked at MaltCon 08.01 (Arisia 2012)
+*  <a name="alice" style="color: #000">Alice</a> “Badger” Washburn, d. 2011-12-26, waked at MaltCon 08.01 (Arisia 2012)
     <br /><a href="#joe">Joe @ FedWine</a> _donated a bottle of Dalmore 12 for the wake as suited Badger's taste. Alas he's listed below too._
-*  Danny Lieberman, d. 2012-10-19, announced and toasted at Maltcon 12.x Albacon, and again at Lunacon MC13.03. 
+*  <a name="danny" style="color: #000">Danny Lieberman</a>, d. 2012-10-19, announced and toasted at Maltcon 12.x Albacon, and again at Lunacon MC13.03. 
     <br />Repeat toast MC 19.01 [HS] :
     <br />“added a toast to the late MaltCon member Danny Lieberman, who lost a battle with Lymphoma a few years back.  Danny left a chunk of money in the care of a mutual friend to be used for good fannish purposes, and that provided the seed funding that allowed **HELIOsphere** to begin. 
     <br />He was a literal angel investor.” [_Dennis, MC19.01 report_]
@@ -325,22 +325,22 @@ _Addenda & Corrigenda should be sent directly to me, Bill._
 *  Dallas Mayr (Jack Ketchum) d. 2018-01-24, author friend of members, MC 18.05.
 *  Gardner Dozois (d.2018-05-27) & Sue Casper (d.2017-02-24) . MC 18.05
 *  Vonda McIntyre, d. 2019-04-01, MC 19.01 (HS)
-*  Danny Lieberman, MC 19.01 (HS) _see above at 2012._
+*  Danny Lieberman, MC 19.01 (HS) [(_see above at 2012._)](#danny)
 *  Debra Doyle, d. 2020-10-31. (Willett bottle in her memory.)
 *  Ed Meskys, d. 2021-07-25. 
 *  Leo d’Entremont d.  2021-08-01/02.
 *  2022 π-e _The **Chicon8** Dark Mode Expression_ (**WorldCon**) had a ***“Fuck Cancer”*** toast reported, but no notes as to which specific friends.
 *  Robert A “Bob” Madle d.2022-10-08 , aged 102, first and last of First Fandom, Philcon. 
 *  Ed Hutnik, d. 2023-08-25. 
-*  <a name="joe" style="color: #000000">Joe Howell</a>, _Federal Wine & Spirits_, friend and benefactor of MaltCon [_see Badger entry above_](#alice). 
+* Sue Ellen Colter, d. July 2024, was remembered at her and Gary's home con, Philcon 2024 and 2025.
+* **<a name="dennis" style="color: #000">Dennis McCunney</a>**, MaltCon [*co*]Founder and leader of many a ***“Fuck Cancer”*** and/or **“Absent Friends”** toast at MaltCons, d. 2025-04-29, was remembered thusly with a virtual gathering May 2nd; and was remembered thusly at ReaderCon, Albacon, and Philcon 2025 and Boskone 2026 as well. Dennis' favorite G&M Speymalt (Macallan) 19yo and our joint promotion project Speyburn were featured in his toasts, among others.
+* <a name="joe" style="color: #000">Joe Howell</a>, _Federal Wine & Spirits_, friend and benefactor of MaltCon [(_see Badger entry above_)](#alice). 
     <br />Joe played himself at Federal, in Paul Giamatti's _The Holdovers_.[^2024-Feb-14_Bill]
     <br />d. Feb. 3, 2026 [^2026-02-07-Michael] after a long nasty battle with Cancer; was noted with health wishes under **Fuck Cancer** toasts and email several times; and remembered finally at Boskone 2026, 
 with Joe-autographed Bruichladdich 20y 3d Ed Malmsey Madeira finish, for which Joe did the re-casking on a vacation-internship; and the private cask CS Bruichladdich which he'd sourced for a customer that was mostly donated back for hospice/chemo GoFundMe premiums, also Joe-autographied.
     <br />    ![Two Bruichladdich Bottles](P2151065.v01.jpg){ height=20% width=20% }
     <br />(_see footnotes for further details_) 
-
-*  **Dennis McCunney**, MaltCon [*co*]Founder and leader of many a ***“Fuck Cancer”*** and/or **“Absent Friends”** toast at MaltCons, d. 2025-04-29, was remembered with a virtual gathering May 2nd; was remembered thusly at ReaderCon, Albacon, and Philcon 2025 and Boskone 2026 as well. Dennis' favorite G&M Speymalt (Macallan) 19yo and our joint promotion project Speyburn were featured in his toasts, among others.
-
+* Richard "Rick" Katze, d. 2026-08-27. [^2026-09-01]
 
 _Addenda & Corrigenda should be sent directly to me, Bill._
 
@@ -411,18 +411,18 @@ _Addenda & Corrigenda should be sent directly to me, Bill._
     - 11.04 ReaderCon (Bill recorded WhiskyCast [Virtual Tasting _Beta_-test episode](https://whiskycast.com/whiskycast-virtual-tastings-august-2011/) as remote while in hotel room; [_my audio wasn't the best; I upgraded after!_ [BR]])
     - 11.05 Philcon (Mark@WhiskyCast guest)
 *  2012 
-    - 12.01 Arisia
+    - 12.01 Arisia (_[**Badger**'s wake](#alice) in Presidential suite_)
     - 12.02 Boskone 
     - 12.03 LunaCon
     - 12.04 ReaderCon (Peter Straub, GoH; _last MaltCon at ReaderCon for 13 years, long story._)
-    - 12.05 Albacon’s first MaltCon, invited. (KRADeC, Media GoH; _notable that **Danny Lieberman**'s death was phoned in to MaltCon in real time._)
+    - 12.05 Albacon’s first MaltCon, invited. (KRADeC, Media GoH; _notable that **[Danny Lieberman](#danny)**'s death was phoned in to MaltCon in real time. A hotel — motel with exhibit center? — as weird as Rye Town Escher._)
       
 *  2013
     - 13.01 Arisia (Seaport)
     - 13.02 Boskone 50 (Seaport)
     - 13.03 LunaCon 
     - 13.04 “Albatoga”
-            (Albacon team’s WFC2015 bid+working session (concurrent with WFC2013) in Saratoga; MC 13.04 was the invited and _only_ party; _notable that MC was larger than the host con, since a committee member’s husband came in for the party but wasn’t needed for committee sessions. Our Suite had a dishwasher! First “Annual” expedition to [9 Maple Ave Jazz and Whisk(e)y bar](https://duckduckgo.com/?t=ffab&q=9+Maple+Ave&atb=v265-1&ia=web). I even found a Scotch to the taste of the one committee member who didn't like whisky._)
+            (_Albacon team’s WFC2015 bid+working session (concurrent with WFC2013) in Saratoga; MC 13.04 was the invited and **only** party; notable that MC was larger than the host con, since a committee member’s husband came in for the party but wasn’t needed for committee sessions. Our Suite had a dishwasher! First “Annual” expedition to [9 Maple Ave Jazz and Whisk(e)y bar](https://duckduckgo.com/?t=ffab&q=9+Maple+Ave&atb=v265-1&ia=web). I even found a Scotch to the taste of the one committee member who didn't like whisky._)
     - 13.05 Philcon (Mark@[WhiskyCast](https://whiskycast.com/) guest of MaltCon, and [recorded a tasting panel](https://whiskycast.com/whiskycast-virtual-tastings-november-2013/) on-location at the hotel) [^2013-11-12_Bill]
 *  2014
     - 14.01 Arisia Stealth Expression (Tanya Huff, Writer GoH)
@@ -431,46 +431,46 @@ _Addenda & Corrigenda should be sent directly to me, Bill._
     - 14.04 number was skipped (Albacon slid to 14½ in 2015)
     - 14.05 Philcon
 *  2015
-    - 15.01 Arisia (Special guest tasting presented by "**Uncle Charlie**" of **Maltman/OMC/Big Peat** range)
+    - 15.01 Arisia (_Special guest tasting presented by "**Uncle Charlie**" of **Maltman/OMC/Big Peat** range_)
     - 15.02 Boskone (Steven Brust GoH)
     - 15.03 Albacon “14½” (Dark Rums for GoH)
-    - 15.04 WFC Saratoga
+    - 15.04 WFC Saratoga <br />![mc2015-04-wfc2015](mc2015-04-wfc2015.png){ height=50% width=50% }
         <br />**Yankee Distillers** did a tasting in ConSuite.
         <br />2nd “Annual” expedition to [9 Maple Ave Jazz and Whisk(e)y bar](https://duckduckgo.com/?t=ffab&q=9+Maple+Ave&atb=v265-1&ia=web).
-        <br />Grand unboxings of (a) Suntory “Royal” 60 new old stock; <br />(b) Bill’s birthday 1958 G&M GG.
+        <br />Grand unboxings of (a) Suntory “Royal” 60 new old stock; ![suntory-wfc-mc-2015-04](suntory-wfc-mc-2015-04.v01.png){ height=50% width=50% }<br />(b) Bill’s birthday 1958 G&M GG <br /> ![GG1958](GG1958.png){ height=50% width=50% }.
     - 15.05 Philcon
 *  2016
-    - 16.01 Arisia Rye Expression (GoH Ursula Vernon; Blind Canadian Rye tasting experiment launched)
+    - 16.01 Arisia Rye Expression (_GoH Ursula Vernon; Blind Canadian Rye tasting experiment launched_)
     - 16.02 Boskone 
     - 16.03 Albacon 
     - ----- MidAmeriCon 2, "Refined Barley Products Council" [^2025-07-20_Z2]
-    - 16.04 Lunacon (last at [Escher Hilton](https://fancyclopedia.org/Rye_Town_Hilton) Rye Brook)
+    - 16.04 Lunacon (_last at [Escher Hilton](https://fancyclopedia.org/Rye_Town_Hilton) Rye Brook_)
     - 16.05 Philcon “Dave Kyle Memorial”
 *  2017
     - 17.01 Arisia
     - 17.02 Boskone
-    - 17.03 HELIOsphere 1 (Charles Gannon, Special Guest)
-    - 17.0x Lunacon accidental non-Expression (the last Lunacon, back at Tarrytown Marriott; KRADeC, Music GoH)
-    - 17.04 Albacon (Charles “Chuck” Gannon, GoH)
-    - 17.05 Philcon (Art GoH Don Maitz and Special Guest Janny Wurts)
+    - 17.03 HELIOsphere 1 (_Charles Gannon, Special Guest_)
+    - 17.0x Lunacon "accidental non-Expression" (_the **last** Lunacon, back at Tarrytown Marriott, traditional pocket-flask mode; KRADeC, Music GoH_)
+    - 17.04 Albacon (_Charles “Chuck” Gannon, GoH_)
+    - 17.05 Philcon (_Art GoH Don Maitz and Special Guest Janny Wurts_)
 *  2018
     - 18.01 Arisia
     - 18.02 Boskone
-    - 18.03 HELIOsphere 2 (Chuck Gannon, Cecilia Tan)
+    - 18.03 HELIOsphere 2 (_Chuck Gannon, Cecilia Tan GoHs_)
     - 18.04 ?not used?
     - ----- May: Mark and the WhiskyCast PodCast posted his tasting notes on some samples I'd slipped him from MaltCon foundlings. (Mark's home and studio are just across the river from Philcon, so I frequently have visited him on same trip, and sample swapping is a thing we do.)
         - [Leo's latest KC: Rolling Standard 4 Grain](https://whiskycast.com/ratings/rolling-standard-midwestern-four-grain/)
         - [Stan's Rochester Red Saw Rye](https://whiskycast.com/ratings/red-saw-rye/)
         - [Millers' Westchester 914 Bourbon](https://whiskycast.com/ratings/914-bourbon-whiskey/)
         - previously in 2016, Mark reviewed Leo's find of [Rieger's](http://whiskycast.com/ratings/riegers-kansas-city-whiskey/), and only later landed an interview with Rieger.
-    - 18.05 Philcon (Steven Brust, GoH)
+    - 18.05 Philcon (_Steven Brust, GoH_)
 *  2019
-    - very unofficial Arisia (BPPH exile)
+    - very unofficial Arisia (_BPPH exile_)
     - unofficial Boskone
     - 19.01 HELIOsphere
-    - 19.02 Albacon (Bruce Coville GoH )
+    - 19.02 Albacon (_Bruce Coville GoH_)
 with  **36Locks/Schenectady Distillery** visit excursion!
-    - 19.03 ?not used? 
+    - 19.03 (_?sequence no. 3 skipped?_)
     - 19.04 Philcon
 *  2020
     - 20.01 Boskone Lite Expression.
@@ -485,20 +485,25 @@ with  **36Locks/Schenectady Distillery** visit excursion!
     - 22.01 HELIOsphere
     - 22.01?2? Philcon “Very Last Minute Expression”
 *  2023
-    - 23.01 HELIOsphere (Chuck Gannon)
-    - 23.02 Albacon Hybrid (Walter H Hunt GoH, Dan Kimmel (Special-Remote))
+    - 23.01 HELIOsphere (_Chuck Gannon_)
+    - 23.02 Albacon Hybrid (_Walter H Hunt GoH, Dan Kimmel (Special-Remote)_)
     - 2023.π-e Chicon8 Dark Mode
 *  2024
     - (24.01) Boskone
     - (24.02) Albacon 
     - (semi unofficial) HELIOsphere ?
-    - (semi unofficial) WFC 50 Niagara Falls (Michael Swanwick, Toastmaster)
+    - (semi unofficial) WFC 50 Niagara Falls (_Michael Swanwick, Toastmaster_)
     - (24.03) Philcon
 *  2025
     - 25.01 Boskone
-    - 25.02 ReaderCon 34 (returns to Boston Marriott, Burlington; and MaltCon returns)
-    - 25.xx Albacon (Patroness LAG “online GoH”)
-    - 25.xx Philcon (Chuck Gannon, GoH)
+    - 25.02 ReaderCon 34 (_returns to Boston Marriott, Burlington; and MaltCon returns, by invitation_)
+    - 25.xx Albacon (_Patroness LAG “online GoH”_)
+    - 25.xx Philcon (_Chuck Gannon, GoH_)
+* 2026
+    - Boskone.
+    - Readercon.
+    - LA? _was there something at WorldCon? I didn't see messages._
+
 
 _Addenda & Corrigenda should be sent directly to me, Bill._
 
@@ -804,3 +809,47 @@ worldcon.
     would like to receive this email, please contact us at or orders@federalwine.com.
     
     Michael
+
+
+[^2026-09-01]: 2026-09-01 Bill [RIP Rick Katze](https://groups.google.com/g/maltcon/c/x6DgihDjUwU) quoting [RKOV FB 2026-08-27/28](https://www.facebook.com/paradoox/posts/pfbid0nAuWxYJi1w9eAPidkUGpUPXzYMUvkyLQyTQLEFhaksGbrNTiPAtMrjDJqEbWciaml):
+
+    RKOV posts on FB obit for MaltCon member Rick Katze -
+
+    **Richard “Rick” Lewis Katze, J.D., FN, October 1st 1944 – August 27th 2026**
+
+    Rick was a long time Science Fiction Fan and Con-runner. He was
+    a member of NESFA (the New England Science Fiction Association)
+    and MCFI (Massachusetts Convention Fandom, Inc.) and had served as
+    an officer of both. He was also a member of SCIFI (the Southern
+    California Institute for Fan Interests). He volunteered on many
+    Science Fiction Conventions including Worldcons, Westercons, Smofcons,
+    and Boskones. He chaired Boskones XXI (21), XXVIII (28), and 41. As
+    a NESFA Member he edited numerous NESFA Press books including the
+    seven volume set The Collected Short Works of Poul Anderson. He
+    was elected a Fellow of NESFA in 1980. He served several times as
+    Hugo Award Administrator for Worldcons. As counsel to the Connie
+    (Constellation, the 1983 Worldcon) Bailout Committee he negotiated
+    the settlement of Constellation’s non-fannish debt for about sixty
+    cents on the dollar.
+
+    For some number of years, he was a Mason in Perfection Lodge in Framingham, Massachusetts.
+
+    After graduating from Boston University in 1966, he attended Suffolk
+    University Law School and worked as a lawyer for many years.
+
+    He was born in Boston, Massachusetts. In later years he lived in
+    Natick, Massachusetts and Framingham, Massachusetts. After a bout of
+    pneumonia in early 2026, he spent about the last six months of his
+    life at Oak Knoll Rehabilitation & Healthcare Center in Framingham.
+
+    As reported earlier, Rick Katze passed away early on August 27th,
+    2026 of natural causes after a long series of health problems. He was
+    preceded in death by his mother Esta (or Esther) Dorothy Katze (nee
+    Freedman) and his father Hyman Allan Katze. As far as we know there
+    are no other close relatives. Cremation will be private. Details about
+    a memorial service and possible burial will follow at a later date.
+
+    (Picture of Rick at Albacon 20 in 2018; Photo by Mark Olson)
+
+    (Thanks to Fancyclopedia3 for some of the details above and Mark Olson for the photograph.)
+
